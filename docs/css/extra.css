@@ -1,0 +1,20 @@
+/* Custom styles for Web3 personas documentation */
+.md-content {
+  font-size: 16px;
+}
+.md-typeset h1 {
+  color: #6200ea;
+}
+.md-typeset pre {
+  background-color: #f5f5f5;
+  padding: 1em;
+  border-radius: 4px;
+}
+img {
+  width: 300px;
+  display:flex;
+  justify-content: center;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 1em 0;
+}

@@ -1,0 +1,62 @@
+site_name: Web3 User Personas Documentation
+site_url: https://shaloo/web3-user-personas
+site_author: shaloo
+site_description: Comprehensive analysis of 15 Web3 user personas, covering DeFi, NFTs, gaming, DAOs, and more, built with Material for MkDocs.
+repo_url: https://github.com/shaloo/web3-user-personas
+repo_name: shaloo/web3-user-personas
+theme:
+  name: material
+  features:
+    - content.code.copy
+    - content.tabs
+    - navigation.tabs
+    - navigation.sections
+  icon:
+    repo: fontawesome/brands/github
+nav:
+  - Home: index.md
+  - Personas:
+      - Overview: personas/index.md
+      - DeFi Degen: personas/persona-1-de-fi-degen.md
+      - NFT Collector/Flipper: personas/persona-2-nft-collector.md
+      - Crypto Trader/Analyst: personas/persona-3-crypto-trader.md
+      - Hodler/Long-term Investor: personas/persona-4-hodler.md
+      - Web3 Builder/Developer: personas/persona-5-web3-builder.md
+      - Crypto Influencer/Content Creator: personas/persona-6-influencer.md
+      - Gaming/Metaverse Enthusiast: personas/persona-7-gaming-enthusiast.md
+      - DAO Contributor/Governance Participant: personas/persona-8-dao-contributor.md
+      - Crypto Newcomer/Curious Explorer: personas/persona-9-newcomer.md
+      - Institutional/Professional Investor: personas/persona-10-institutional-investor.md
+      - Meme Culture Participant: personas/persona-11-meme-participant.md
+      - Privacy/Anonymity Advocate: personas/persona-12-privacy-advocate.md
+      - AI + Crypto Hybrid User: personas/persona-13-ai-crypto-user.md
+      - Regulation Navigator: personas/persona-14-regulation-navigator.md
+      - Sustainability Advocate: personas/persona-15-sustainability-advocate.md
+markdown_extensions:
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+plugins:
+  - search
+  - git-revision-date-localized:
+      enabled: true
+      type: date
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: fade
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
+      skip_classes:
+        - an-screenshots-noeffects
+      auto_caption: true
+      caption_position: bottom  
+extra_css:
+  - css/extra.css

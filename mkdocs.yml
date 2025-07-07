@@ -16,22 +16,25 @@ theme:
 nav:
   - Home: index.md
   - Personas:
-      - Overview: personas/index.md
-      - DeFi Degen: personas/persona-1-de-fi-degen.md
-      - NFT Collector/Flipper: personas/persona-2-nft-collector.md
-      - Crypto Trader/Analyst: personas/persona-3-crypto-trader.md
-      - Hodler/Long-term Investor: personas/persona-4-hodler.md
-      - Web3 Builder/Developer: personas/persona-5-web3-builder.md
-      - Crypto Influencer/Content Creator: personas/persona-6-influencer.md
-      - Gaming/Metaverse Enthusiast: personas/persona-7-gaming-enthusiast.md
-      - DAO Contributor/Governance Participant: personas/persona-8-dao-contributor.md
-      - Crypto Newcomer/Curious Explorer: personas/persona-9-newcomer.md
-      - Institutional/Professional Investor: personas/persona-10-institutional-investor.md
-      - Meme Culture Participant: personas/persona-11-meme-participant.md
-      - Privacy/Anonymity Advocate: personas/persona-12-privacy-advocate.md
-      - AI + Crypto Hybrid User: personas/persona-13-ai-crypto-user.md
-      - Regulation Navigator: personas/persona-14-regulation-navigator.md
-      - Sustainability Advocate: personas/persona-15-sustainability-advocate.md
+    - Overview: personas/index.md
+    - DeFi Degen: personas/persona-1-de-fi-degen.md
+    - NFT Collector: personas/persona-2-nft-collector.md
+    - Crypto Analyst: personas/persona-3-crypto-trader.md
+    - Long-term Investor: personas/persona-4-hodler.md
+    - Web3 Dev: personas/persona-5-web3-builder.md
+    - Crypto Influencer: personas/persona-6-influencer.md
+    - Gaming Enthusiast: personas/persona-7-gaming-enthusiast.md
+    - DAO Contributor: personas/persona-8-dao-contributor.md
+    - Tenderfoot Explorer: personas/persona-9-newcomer.md
+    - Institutional Investor: personas/persona-10-institutional-investor.md
+    - Meme Culture Participant: personas/persona-11-meme-participant.md
+    - Anonymity Advocate: personas/persona-12-privacy-advocate.md
+    - AI + Crypto User: personas/persona-13-ai-crypto-user.md
+    - Regulation Navigator: personas/persona-14-regulation-navigator.md
+    - Sustainability Advocate: personas/persona-15-sustainability-advocate.md
+  - Concepts:
+    - Web2 vs. Web3: concepts/web2-vs-web3.md
+  - References: references.md
 markdown_extensions:
   - toc:
       permalink: true
@@ -40,6 +43,11 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
 plugins:
   - search
   - git-revision-date-localized:

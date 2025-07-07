@@ -1,4 +1,4 @@
-# 7. Gaming/Metaverse Enthusiast: Metaverse Mia
+# 7. Gaming Enthusiast: Metaverse Mia
 ---
 *Dancing in virtual realms, achieving completion through play and digital exploration*
 
@@ -8,8 +8,6 @@
 ||
 
 ## Overview
-
-**Primary Platforms**: Discord gaming servers, metaverse platforms (e.g., [Decentraland](https://decentraland.org/)), NFT marketplaces
 
 The Gaming/Metaverse Enthusiast focuses on play-to-earn games and virtual world participation.
 
@@ -37,6 +35,12 @@ The Gaming/Metaverse Enthusiast focuses on play-to-earn games and virtual world 
 
 - High time investment
 - Social gaming focus
+
+## Primary Platforms
+
+- Discord gaming servers
+- Metaverse platforms (e.g., [Decentraland](https://decentraland.org/))
+- NFT marketplaces
 
 ## See Also
 

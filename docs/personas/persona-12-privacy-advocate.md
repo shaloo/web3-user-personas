@@ -1,4 +1,4 @@
-# 12. Privacy/Anonymity Advocate: Privacy Paul
+# 12. Anonymity Advocate: Privacy Paul
 ---
 *Guarding sacred knowledge behind veils of cryptographic mystery and digital shadows*
 

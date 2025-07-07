@@ -1,4 +1,4 @@
-# 2. NFT Collector/Flipper: Collector Claire
+# 2. NFT Collector: Flipper Finn
 ---
 *Creating and collecting digital beauty with refined taste and cultural influence*
 

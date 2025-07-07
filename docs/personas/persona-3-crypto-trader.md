@@ -1,10 +1,10 @@
-# 3. Crypto Trader/Analyst: Trader Joe
+# 3. Crypto Analyst: Trader Joe
 ---
 *Wielding technical analysis and market wisdom to manifest profitable trades*
 
 ||
 | -:-|
-|![Trader/Analyst (Tarot: The Magician (I))](../img/3_trader_analyst.webp)|
+|![Analyst (Tarot: The Magician (I))](../img/3_trader_analyst.webp)|
 ||
 
 ## Overview

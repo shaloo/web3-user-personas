@@ -1,10 +1,10 @@
-# 8. DAO Participant: DAO Dave
+# 8. DAO Contributor: DAO Dave
 ---
 *Balancing community needs with careful deliberation and fair governance*
 
 ||
 | -:-|
-|![DAO Contributor/Governance (Tarot: Justice (XI))](../img/8_dao.webp)|
+|![DAO Contributor (Tarot: Justice (XI))](../img/8_dao.webp)|
 ||
 
 ## Overview

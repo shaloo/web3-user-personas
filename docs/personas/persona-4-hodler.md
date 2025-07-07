@@ -1,4 +1,4 @@
-# 4. Hodler/Long-term Investor: HODL Harold
+# 4. Long-term Investor: HODL Harold
 ---
 *Walking the solitary path of patience and wisdom, holding the light of long-term vision*
 

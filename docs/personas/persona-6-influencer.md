@@ -1,11 +1,11 @@
 
-# 6. Influencer/Content Creator: Content Conan
+# 6. Crypto Influencer: Content Conan
 ---
 *Radiating influence and joy, illuminating the crypto space with vibrant content*
 
 ||
 | -:-|
-|![Influencer/Content Creator (Tarot: The Sun (XIX))](../img/6_crypto_influencer.webp)|
+|![Influencer (Tarot: The Sun (XIX))](../img/6_crypto_influencer.webp)|
 ||
 
 ## Overview

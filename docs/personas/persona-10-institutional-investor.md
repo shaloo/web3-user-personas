@@ -1,4 +1,4 @@
-# 10. Institutional/Professional Investor
+# 10. Institutional Investor: Token Tim
 ---
 *Ruling with structured authority and commanding vast financial resources*
 

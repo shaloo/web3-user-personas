@@ -1,10 +1,10 @@
-# 5. Web3 Builder/Developer: BUIDLer Ben
+# 5. Web3 Dev: BUIDLer Ben
 ---
 *Pouring innovation into the digital realm, guided by the stars of technological possibility*
 
 ||
 | -:-|
-|![Web3 Builder/Developer (Tarot: The Star (XVII))](../img/5_webp_builder_dev.webp)|
+|![Web3 Developer (Tarot: The Star (XVII))](../img/5_webp_builder_dev.webp)|
 ||
 
 

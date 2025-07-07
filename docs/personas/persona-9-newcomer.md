@@ -1,4 +1,4 @@
-# 9. Newcomer/Curious Explorer: Web3 Wendy
+# 9. Explorer: Curious Columbus
 ---
 *Studying with dedication, planting seeds of knowledge in fertile crypto ground*
 

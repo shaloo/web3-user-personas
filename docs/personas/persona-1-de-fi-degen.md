@@ -4,7 +4,7 @@
 
 ## Overview
 
-The DeFi Degen seeks maximum yields through high-risk DeFi strategies, often operating with significant capital and valuing anonymity and decentralization.
+DeFi Degens chase the highest yields using high-risk strategies. They move fast, often with significant capital. Anonymity and decentralization are their core values.
 
 ||
 | -:-|
@@ -13,7 +13,7 @@ The DeFi Degen seeks maximum yields through high-risk DeFi strategies, often ope
 
 ## Characteristics
 
-- High-risk tolerance, seeks maximum yields
+- High-risk tolerance, seeks highest yields
 - Active in liquidity mining and yield farming
 - First to try new protocols and products
 - Values anonymity and decentralization

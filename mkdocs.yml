@@ -33,6 +33,8 @@ nav:
     - Regulation Navigator: personas/persona-14-regulation-navigator.md
     - Sustainability Advocate: personas/persona-15-sustainability-advocate.md
   - Concepts:
+    - Personas: concepts/what-personas.md
+    - Why Personas?: concepts/why-personas.md
     - Web2 vs. Web3: concepts/web2-vs-web3.md
   - References: references.md
 markdown_extensions:

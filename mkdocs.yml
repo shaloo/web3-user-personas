@@ -1,7 +1,16 @@
-site_name: Web3 User Personas Documentation
-site_url: https://shaloo/web3-user-personas
+site_name: 'Web3 User Personas Documentation'
+# For production
+#site_url: !ENV [DOCS_SITE_URL,"https://shaloo/web3-user-personas"]
+site_url: "https://localhost:9090/web3-user-personas"
 site_author: shaloo
 site_description: Comprehensive analysis of 15 Web3 user personas, covering DeFi, NFTs, gaming, DAOs, and more, built with Material for MkDocs.
+
+# Check for broken links, etc.
+strict: true  #For reorg changing it to false
+
+# For canonical/URL ending with a '/' make sure this is true and offline plugin is disabled
+use_directory_urls: true
+
 repo_url: https://github.com/shaloo/web3-user-personas
 repo_name: shaloo/web3-user-personas
 theme:
@@ -10,11 +19,27 @@ theme:
     - content.code.copy
     - content.tabs
     - navigation.tabs
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.prune
+    - navigation.top
     - navigation.sections
+    - navigation.footer
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    - header.autohide 
   icon:
     repo: fontawesome/brands/github
 nav:
-  - Home: index.md
+  - Home: 
+    - Contents: index.md
+    - About: intro/about.md
+    - Audience: intro/audience.md
+    - Insights: intro/insights.md
+    - Get Involved: intro/contribution.md
   - Personas:
     - Overview: personas/index.md
     - DeFi Degen: personas/persona-1-de-fi-degen.md
@@ -34,24 +59,58 @@ nav:
     - Sustainability Advocate: personas/persona-15-sustainability-advocate.md
   - Concepts:
     - Personas: concepts/what-personas.md
-    - Why Personas?: concepts/why-personas.md
     - Web2 vs. Web3: concepts/web2-vs-web3.md
   - References: references.md
+
 markdown_extensions:
+  - abbr
+  - admonition
+  - def_list
+  - footnotes
   - toc:
       permalink: true
-  - pymdownx.superfences
-  - pymdownx.tabbed
+      title: "On this page"
+      toc_depth: 3
+  - attr_list
+  - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.blocks.caption
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
+  - pymdownx.details
   - pymdownx.critic
   - pymdownx.caret
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - pymdownx.snippets:
+      auto_append:
+        - ./includes/git_info.md
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.arithmatex:   # do not remove, used in ADKG section
+      generic: true
+  - tables
+
 plugins:
+  - offline:
+      enabled: !ENV [OFFLINE, false] #should not be true for production build
+  - macros:
+      include_dir: ./includes
   - search
+  - alias
+  - open-in-new-tab
   - git-revision-date-localized:
       enabled: true
       type: date
@@ -65,8 +124,19 @@ plugins:
       zoomable: true
       draggable: true
       skip_classes:
-        - an-screenshots-noeffects
+        - custom-screenshots-noeffects
       auto_caption: true
       caption_position: bottom  
+
 extra_css:
   - css/extra.css
+
+extra_javascript:
+  - javascripts/extra.js   # Do not remove, required for ADKG formulae
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+extra:
+  web3_personas:
+    img_dir: /web3-user-personas/img
+    img_png: webp

@@ -18,3 +18,19 @@ img {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   margin: 1em 0;
 }
+
+.custom-screenshots {
+  border-radius: 0.6rem;
+  display: block;
+  width: 90%;
+  /* Use these to centre all screenshots (if required )*/
+
+  margin-left: auto;
+  margin-right: auto;
+
+  /* Use these to left align all screenshots */
+  /*
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  */
+}

@@ -1,3 +1,8 @@
+---
+alias: persona-archetypes
+title: 'Web3 User Personas'
+description: 'The archtypes for Web3 User Personas.'
+---
 # Web3 User Personas
 
 Web3 user personas are unique and very different from those in Web2. This is largely due

@@ -33,6 +33,7 @@ theme:
     - header.autohide 
   icon:
     repo: fontawesome/brands/github
+
 nav:
   - Home: 
     - Contents: index.md
@@ -140,3 +141,22 @@ extra:
   web3_personas:
     img_dir: /web3-user-personas/img
     img_png: webp
+
+  # Remove made with Material notice in the footer   
+  generator: false
+
+  social:
+    - icon: material/home
+      link: https://shaloo.github.io/web3-user-personas
+    - icon: fontawesome/brands/x-twitter
+      link: https://twitter.com/shalooshalini
+    #- icon: fontawesome/brands/telegram
+    #  link: https://t.me/ArcanaNetwork
+    #- icon: fontawesome/brands/discord
+    #  link: https://discord.gg/9vrxze3JRR
+    - icon: material/github
+      link: https://github.com/shaloo/web3-user-personas/discussions
+    #- icon: material/book
+      #link: https://www.webfx.com/tools/read-able/referer.php
+    - icon: material/robot
+      link: /llms.txt

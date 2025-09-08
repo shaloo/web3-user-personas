@@ -21,10 +21,10 @@ on needs. Build for today, plan for tomorrow. Collaborate to keep personas accur
 
 ## Why Web3 Personas?
 
-User personas validate product-market fit. 
+User personas validate product-market fit.
 
 They shape value propositions and guide marketing. In Web3, personas inform critical design
- decisions. Deep, evolving persona insights drive engaging, effective user experiences.
+ decisions. Deep, evolving persona insights drive engaging, effective user experiences. [[why-personas|Learn more...]]
 
 ## What is Unique?
 

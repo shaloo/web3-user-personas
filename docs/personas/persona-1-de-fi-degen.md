@@ -8,20 +8,25 @@ description: 'All about Defi Degen Persona and how to target them.'
 
 <div class="grid cards" markdown>
 
-- *Embarking on risky DeFi adventures with bold optimism and fearless exploration*
+- *I embark on risky DeFi adventures with bold optimism and fearless exploration* ![DeFi Degen (Tarot: The Fool)](../img/1_defi_degen.webp)
 
-- ![DeFi Degen (Tarot: The Fool)](../img/1_defi_degen.webp)
+- ## Overview 
+  DeFi Degens chase the highest yields using high-risk strategies.
+  
+    
+    * Fast movers, appear as rash to traditional finance folks.
+    
+    * Work with significant capital (often). 
+    
+    * Believe in anonymity and decentralization as core values. 
+    
+    * Willing to experiment and try new solutions to explore.
+    
+    * Provide early-stage projects the much needed liquidity and visibility.
+    
+    * Trailblazers in technology adoption, many upcoming Web3 technologies gain traction through them.
 
 </div>
-
-
-## Overview
-
-DeFi Degens chase the highest yields using high-risk strategies.
-
-They move fast, often with significant capital. Anonymity and decentralization are their core values.
-
-DeFi degens are willing to experiment. They provides early-stage projects with liquidity and visibility. Many Web3 technologies rely on degen adoption to gain traction.
 
 ## Characteristics
 
@@ -60,6 +65,8 @@ DeFi degens are willing to experiment. They provides early-stage projects with l
 - Farcaster
 
 ## How to Target?
+
+Target your persona by focusing on three core elements: [[why-personas#user-persona-tenets|mindset, motivation, and must-haves]]. These tenets should drive your product design, website, and documentation strategy. Aligning with these fundamentals early determines product success and adoption.
 
 <div class="grid cards" markdown>
 
@@ -101,6 +108,13 @@ DeFi degens are willing to experiment. They provides early-stage projects with l
     * They like asymmetric trades - tools that can help limit downside are gaining popularity
 
 </div>
+
+## Final Tips
+
+* **Research & Refine:** Do your own research. Use this template to guide your design, documentation and product feature decisions. The lack of formal UX research reports in Web3 is a testament that this is an underexplored area where original research could provide significant competitive advantage.
+* **Design Philosophy:** Mobile first design, speed over efficiency, concise and brief documentation, workflow notes.
+* **Communication Style:** Engage with crypto native terminology, provide clear risk warnings. Focus on transparency, social proofs (audits) and community signals.
+* **Product Features:** Fast transaction flows, easy to use yield, APY and other benefit indicators, integrate social features that enable them to engage with the community and see what others are doing, utilizing for better results.
 
 ## See Also
 

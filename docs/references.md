@@ -7,3 +7,5 @@
 5. [Degen Mindset](https://percs.app/blog/what-is-a-degen/)
 6. [Defiance to Degen](https://medium.com/@oliver.wink/defiance-to-degen-the-story-of-defi-3866c49947e2)
 7. [What is a Degen?](https://www.risein.com/blog/what-is-degen)
+8. [On-chain analysis](https://www.galaxy.com/insights/research/introduction-on-chain-analysis)
+9. [Blockchain usage patterns](https://link.springer.com/article/10.1007/s44257-024-00018-x)

@@ -1,46 +1,97 @@
-# 7. Gaming Enthusiast: Metaverse Mia
 ---
-*Dancing in virtual realms, achieving completion through play and digital exploration*
+alias: 7-gaming-enthusiast
+title: 'Web3 Influencer'
+description: 'All about Web3 Influencer Persona and how to target them'
+---
 
-||
-| -:-|
-|![Gaming/Metaverse (Tarot: The World (XXI))](../img/7_gaming_enthu.webp)|
-||
+# 7. Gaming Enthusiast: Metaverse Mia
 
-## Overview
+<div class="grid cards" markdown>
 
-The Gaming/Metaverse Enthusiast focuses on play-to-earn games and virtual world participation.
+- *Dancing in virtual realms, achieving completion through play and digital exploration*
+  ![Gaming/Metaverse (Tarot: The World (XXI))](../img/7_gaming_enthu.webp)
 
-## Characteristics
+- ## tl;dr
 
-- Play-to-earn and GameFi focused
-- Virtual world and avatar culture participation
-- In-game asset trading and collecting
-- Community guild participation
+    The Gaming/Metaverse Enthusiast focuses on play-to-earn games and virtual world participation.
 
-## Behavior Patterns
+- ## Characteristics
 
-- Daily gaming sessions with earning objectives
-- Active in guild coordination and strategy
-- Trades gaming NFTs and tokens
-- Participates in virtual events
+    - Play-to-earn and GameFi focused
+    - Virtual world and avatar culture participation
+    - In-game asset trading and collecting
+    - Community guild participation
 
-## Pain Points
+- ## Behavior Patterns
 
-- Game sustainability
-- Token inflation
-- Time investment vs. returns
+    - Daily gaming sessions with earning objectives
+    - Active in guild coordination and strategy
+    - Trades gaming NFTs and tokens
+    - Participates in virtual events
 
-## Engagement
+- ## Pain Points
 
-- High time investment
-- Social gaming focus
+    - Game sustainability
+    - Token inflation
+    - Time investment vs. returns
 
-## Primary Platforms
+- ## Engagement Hooks
 
-- Discord gaming servers
-- Metaverse platforms (e.g., [Decentraland](https://decentraland.org/))
-- NFT marketplaces
+    - High time investment
+    - Social gaming focus
+
+- ## Primary Platforms
+
+    - Discord gaming servers
+    - Metaverse platforms (e.g., [Decentraland](https://decentraland.org/))
+    - NFT marketplaces
+
+- ## Tech Affinity
+
+    Tech affinity section lists specific technologies, features, and solutions that are of interest to the
+    Web3 Gaming Enthusiast persona.
+
+    - ddd
+
+</div>
+
+## How to Target?
+
+<div class="grid cards" markdown>
+
+-   :material-vector-difference: __Gaming Enthusiast Mindset__
+
+    ---
+
+    * ddd
+    * ddd
+
+-   :material-brain: __Gaming Enthusiast Motivation__
+
+    ---
+
+    * ddd
+    * ddd
+
+</div>
+
+<div class="grid cards" markdown>
+
+-   :material-rocket-launch: __Gaming Enthusiast Must-Have__
+
+    ---
+
+    * ddd
+    * ddd
+
+</div>
+
+## Action Plan
+
+* **Research & Refine:** Do your own research. Use this template to guide your design, documentation and product feature decisions. The lack of formal UX research reports in Web3 is a testament that this is an underexplored area where original research could provide significant competitive advantage.
+* **Design Philosophy:** ddd
+* **Communication Style:** ddd.
+* **Product Features:** ddd.
 
 ## See Also
 

@@ -1,47 +1,96 @@
-
-# 15. Sustainability Advocate: Sustainer Suzy
 ---
-*Hanging in mindful suspension, seeing crypto's environmental impact from a new perspective*
+alias: 15-sustain-adv
+title: 'Sustainability Stalwart'
+description: 'All about Sustainability Stalwart persona and how to target them'
+---
 
-||
-| -:-|
-|![Sustainability Advocate (Tarot: The Hanged Man (XII))](../img/15_sustainability.webp)|
-||
+# 15. Sustainability Stalwart: Sustainer Suzy
 
-## Overview
+<div class="grid cards" markdown>
 
-The Sustainability Advocate promotes eco-friendly blockchain practices and proof-of-stake initiatives.
+- *Hanging in mindful suspension, seeing crypto's environmental impact from a new perspective*
+  ![Sustainability Advocate (Tarot: The Hanged Man (XII))](../img/15_sustainability.webp)
 
-## Characteristics
+- ## tl;dr
 
-- Environmental conscious crypto participation
-- Supports proof-of-stake and green blockchain initiatives
-- Promotes sustainable crypto practices
+    The Sustainability Advocate promotes eco-friendly blockchain practices and proof-of-stake initiatives.
 
-## Behavior Patterns
+- ## Characteristics
 
-- Advocates for low-energy blockchains
-- Participates in sustainability discussions
-- Supports green crypto projects
-- Educates on environmental impact
+    - Environmental conscious crypto participation
+    - Supports proof-of-stake and green blockchain initiatives
+    - Promotes sustainable crypto practices
 
-## Pain Points
+- ## Behavior Patterns
 
-- Energy consumption concerns
-- Limited green blockchain adoption
-- Public perception of crypto’s environmental impact
+    - Advocates for low-energy blockchains
+    - Participates in sustainability discussions
+    - Supports green crypto projects
+    - Educates on environmental impact
 
-## Engagement
+- ## Pain Points
 
-- Advocacy-driven
-- Community-focused
+    - Energy consumption concerns
+    - Limited green blockchain adoption
+    - Public perception of crypto’s environmental impact
 
-## Primary Platforms
+- ## Engagement
 
-- Green blockchain forums
-- Twitter/X
-- Discord sustainability channels
+    - Advocacy-driven
+    - Community-focused
 
+- ## Primary Platforms
+
+    - Green blockchain forums
+    - Twitter/X
+    - Discord sustainability channels
+
+- ## Tech Affinity
+
+    Tech affinity section lists specific technologies, features, and solutions that are of interest to the
+    Sustainability Stalwart persona.
+
+    - ddd
+
+</div>
+
+## How to Target?
+
+<div class="grid cards" markdown>
+
+-   :material-vector-difference: __Sustainability Stalwart Mindset__
+
+    ---
+
+    * ddd
+    * ddd
+
+-   :material-brain: __Sustainability Stalwart Motivation__
+
+    ---
+
+    * ddd
+    * ddd
+
+</div>
+
+<div class="grid cards" markdown>
+
+-   :material-rocket-launch: __Sustainability Stalwart Must-Have__
+
+    ---
+
+    * ddd
+    * ddd
+
+</div>
+
+## Action Plan
+
+* **Research & Refine:** Do your own research. Use this template to guide your design, documentation and product feature decisions. The lack of formal UX research reports in Web3 is a testament that this is an underexplored area where original research could provide significant competitive advantage.
+* **Design Philosophy:** ddd
+* **Communication Style:** ddd.
+* **Product Features:** ddd.
 
 ## See Also
 

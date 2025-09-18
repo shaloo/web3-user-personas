@@ -8,7 +8,7 @@ description: 'All about Defi Degen Persona and how to target them.'
 
 <div class="grid cards" markdown>
 
-- *I embark on risky DeFi adventures with bold optimism and fearless exploration* ![DeFi Degen (Tarot: The Fool)](../img/1_defi_degen.webp)
+- *I embark on risky DeFi adventures with bold optimism and fearless exploration.* ![DeFi Degen (Tarot: The Fool)](../img/1_defi_degen.webp)
 
 - ## tl;dr
 
@@ -67,6 +67,9 @@ description: 'All about Defi Degen Persona and how to target them.'
     - Farcaster
 
 - ## Tech Affinity
+
+    Tech affinity section lists specific technologies, features, and solutions that are of interest to the
+    DeFi Degen persona.
 
     - Integration support for EVM-compatible chains
     - Cross-chain interactions (bridges, protocols that enable seamless capital movement)

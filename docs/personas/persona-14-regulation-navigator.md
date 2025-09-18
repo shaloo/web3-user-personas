@@ -1,45 +1,96 @@
-# 14. Regulation Navigator: Governance Gabe
 ---
-*Balancing the flow between traditional regulation and decentralized innovation*
+alias: 14-regulation-nav
+title: 'Regulation Navigator'
+description: 'All about Regulation Navigator persona and how to target them'
+---
 
-||
-| -:-|
-|![Regulation Navigator (Tarot: Temperance (XIV))](../img/14_temperance.webp)|
-||
+# 14. Regulation Navigator: Governance Gabe
 
-## Overview
+<div class="grid cards" markdown>
 
-The Regulation Navigator bridges traditional finance and crypto through regulatory expertise.
+- *Balancing the flow between traditional regulation and decentralized innovation* 
+  ![Regulation Navigator (Tarot: Temperance (XIV))](../img/14_temperance.webp)
 
-## Characteristics
+- ## tl;dr
 
-- Focuses on compliance and regulatory developments
-- Bridges traditional finance and crypto
-- Active in policy discussion forums
+    The Regulation Navigator bridges traditional finance and crypto through regulatory expertise.
 
-## Behavior Patterns
+- ## Characteristics
 
-- Engages in regulatory discussions
-- Advises on compliance strategies
-- Participates in policy forums
-- Builds bridges with traditional finance
+    - Focuses on compliance and regulatory developments
+    - Bridges traditional finance and crypto
+    - Active in policy discussion forums
 
-## Pain Points
+- ## Behavior Patterns
 
-- Evolving regulatory landscape
-- Compliance costs
-- Policy uncertainty
+    - Engages in regulatory discussions
+    - Advises on compliance strategies
+    - Participates in policy forums
+    - Builds bridges with traditional finance
 
-## Engagement
+- ## Pain Points
 
-- Policy-focused
-- Strategic networking
+    - Evolving regulatory landscape
+    - Compliance costs
+    - Policy uncertainty
 
-## Primary Platforms
+- ## Engagement Hooks
 
-- [LinkedIn](https://www.linkedin.com/)
-- Policy discussion forums
-- Professional Discord servers
+    - Policy-focused
+    - Strategic networking
+
+- ## Primary Platforms
+
+    - [LinkedIn](https://www.linkedin.com/)
+    - Policy discussion forums
+    - Professional Discord servers
+
+- ## Tech Affinity
+
+    Tech affinity section lists specific technologies, features, and solutions that are of interest to the
+    AI + Crypto Wiz persona.
+
+    - ddd
+
+</div>
+
+## How to Target?
+
+<div class="grid cards" markdown>
+
+-   :material-vector-difference: __Regulation Navigator Mindset__
+
+    ---
+
+    * ddd
+    * ddd
+
+-   :material-brain: __Regulation Navigator Motivation__
+
+    ---
+
+    * ddd
+    * ddd
+
+</div>
+
+<div class="grid cards" markdown>
+
+-   :material-rocket-launch: __Regulation Navigator Must-Have__
+
+    ---
+
+    * ddd
+    * ddd
+
+</div>
+
+## Action Plan
+
+* **Research & Refine:** Do your own research. Use this template to guide your design, documentation and product feature decisions. The lack of formal UX research reports in Web3 is a testament that this is an underexplored area where original research could provide significant competitive advantage.
+* **Design Philosophy:** ddd
+* **Communication Style:** ddd.
+* **Product Features:** ddd.
 
 ## See Also
 

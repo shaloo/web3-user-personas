@@ -1,48 +1,98 @@
+---
+alias: 11-meme-participant
+title: 'Meme Culture Participant'
+description: 'All about Meme Culture Participant Persona and how to target them'
+---
 
 # 11. Meme Culture Participant: Meme Mervin
----
-*Surfing the illusive waves of meme magic under the mysterious crypto moonlight*
 
-||
-| -:-|
-|![Meme Culture Participant (Tarot: The Moon (XVIII))](../img/11_meme-maven.webp)|
-||
+<div class="grid cards" markdown>
 
-## Overview
+- *Surfing the illusive waves of meme magic under the mysterious crypto moonlight*
+  ![Meme Culture Participant (Tarot: The Moon (XVIII))](../img/11_meme-maven.webp)
 
-The Meme Culture Participant engages in speculative investments driven by humor and community trends.
+- ## Overview
 
-## Characteristics
+    The Meme Culture Participant engages in speculative investments driven by humor and community trends.
 
-- Humor and community culture focused
-- Speculative small investments
-- Social media driven decisions
-- FOMO and trend following
+- ## Characteristics
 
-## Behavior Patterns
+    - Humor and community culture focused
+    - Speculative small investments
+    - Social media driven decisions
+    - FOMO and trend following
 
-- Participates in meme coin launches
-- Shares crypto memes and culture
-- Follows viral trends and challenges
-- Engages in community celebrations
+- ## Behavior Patterns
 
-## Pain Points
+    - Participates in meme coin launches
+    - Shares crypto memes and culture
+    - Follows viral trends and challenges
+    - Engages in community celebrations
 
-- Pump and dump schemes
-- Emotional investing
-- Lack of fundamentals
+- ## Pain Points
 
-## Engagement
+    - Pump and dump schemes
+    - Emotional investing
+    - Lack of fundamentals
 
-- High social activity
-- Entertainment focused.
+- ## Engagement Hooks
 
-## Primary Platforms 
+    - High social activity
+    - Entertainment focused.
 
-- Twitter/X
-- Reddit [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/)
-- Telegram meme channels
-- Discord
+- ## Primary Platforms 
+
+    - Twitter/X
+    - Reddit [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/)
+    - Telegram meme channels
+    - Discord
+
+- ## Tech Affinity
+
+    Tech affinity section lists specific technologies, features, and solutions that are of interest to the
+    Meme Culture Participant persona.
+
+    - ddd
+
+</div>
+
+## How to Target?
+
+<div class="grid cards" markdown>
+
+-   :material-vector-difference: __Meme Culture Participant Mindset__
+
+    ---
+
+    * ddd
+    * ddd
+
+-   :material-brain: __Meme Culture Participant Motivation__
+
+    ---
+
+    * ddd
+    * ddd
+
+</div>
+
+<div class="grid cards" markdown>
+
+-   :material-rocket-launch: __Meme Culture Participant Must-Have__
+
+    ---
+
+    * ddd
+    * ddd
+
+</div>
+
+## Action Plan
+
+* **Research & Refine:** Do your own research. Use this template to guide your design, documentation and product feature decisions. The lack of formal UX research reports in Web3 is a testament that this is an underexplored area where original research could provide significant competitive advantage.
+* **Design Philosophy:** ddd
+* **Communication Style:** ddd.
+* **Product Features:** ddd.
 
 ## See Also
 

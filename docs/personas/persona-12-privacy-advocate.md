@@ -1,46 +1,97 @@
-# 12. Anonymity Advocate: Privacy Paul
 ---
-*Guarding sacred knowledge behind veils of cryptographic mystery and digital shadows*
+alias: 12-anon-advocate
+title: 'Anonymity Advocate'
+description: 'All about Anonymity Advocate Persona and how to target them'
+---
 
-||
-| -:-|
-|![Privacy Advocate (Tarot: The High Priestess (II))](../img/12_privacy.webp)|
-||
+# 12. Anonymity Advocate: Privacy Paul
 
-## Overview
+<div class="grid cards" markdown>
 
-The Privacy/Anonymity Advocate champions decentralization and anti-surveillance technologies.
+- *Guarding sacred knowledge behind veils of cryptographic mystery and digital shadows* 
+  ![Privacy Advocate (Tarot: The High Priestess (II))](../img/12_privacy.webp)
 
-## Characteristics
+- ## tl;dr
 
-- Privacy coin investment and usage
-- Decentralization maximalist views
-- Anti-surveillance technology adoption
-- Pseudonymous online presence
+    The Privacy/Anonymity Advocate champions decentralization and anti-surveillance technologies.
 
-## Behavior Patterns
+- ## Characteristics
 
-- Uses privacy-preserving technologies
-- Advocates for decentralized alternatives
-- Participates in cypherpunk communities
-- Promotes financial sovereignty
+    - Privacy coin investment and usage
+    - Decentralization maximalist views
+    - Anti-surveillance technology adoption
+    - Pseudonymous online presence
 
-## Pain Points
+- ## Behavior Patterns
 
-- Regulatory crackdowns
-- Exchange delistings
-- Mainstream adoption barriers
+    - Uses privacy-preserving technologies
+    - Advocates for decentralized alternatives
+    - Participates in cypherpunk communities
+    - Promotes financial sovereignty
 
-## Engagement
+- ## Pain Points
 
-- Ideologically driven
-- Technology focused
+    - Regulatory crackdowns
+    - Exchange delistings
+    - Mainstream adoption barriers
 
-## Primary Platforms 
+- ## Engagement
 
-- Privacy-focused forums
-- Encrypted channels
-- Decentralized platforms (e.g., [Lens Protocol](https://www.lens.xyz/))
+    - Ideologically driven
+    - Technology focused
+
+- ## Primary Platforms 
+
+    - Privacy-focused forums
+    - Encrypted channels
+    - Decentralized platforms (e.g., [Lens Protocol](https://www.lens.xyz/))
+
+- ## Tech Affinity
+
+    Tech affinity section lists specific technologies, features, and solutions that are of interest to the
+    Anonymity Advocate persona.
+
+    - ddd
+
+</div>
+
+## How to Target?
+
+<div class="grid cards" markdown>
+
+-   :material-vector-difference: _Anonymity Advocate Mindset__
+
+    ---
+
+    * ddd
+    * ddd
+
+-   :material-brain: __Anonymity Advocate Motivation__
+
+    ---
+
+    * ddd
+    * ddd
+
+</div>
+
+<div class="grid cards" markdown>
+
+-   :material-rocket-launch: __Anonymity Advocate Must-Have__
+
+    ---
+
+    * ddd
+    * ddd
+
+</div>
+
+## Action Plan
+
+* **Research & Refine:** Do your own research. Use this template to guide your design, documentation and product feature decisions. The lack of formal UX research reports in Web3 is a testament that this is an underexplored area where original research could provide significant competitive advantage.
+* **Design Philosophy:** ddd
+* **Communication Style:** ddd.
+* **Product Features:** ddd.
 
 ## See Also
 

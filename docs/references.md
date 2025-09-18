@@ -19,3 +19,8 @@
 17. [Community and consumer dynamics in NFTs](https://onlinelibrary.wiley.com/doi/epdf/10.1002/cb.2482)
 18. [Data Driven Persona Development](https://www.tandfonline.com/doi/full/10.1080/10447318.2021.1908670#abstract)
 19. [BAYC: The paradox of learning categories from rare examples](https://download.ssrn.com/22/05/11/ssrn_id4082221_code3312398.pdf)
+20. [DeFi beyond the hype](https://wifpr.wharton.upenn.edu/wp-content/uploads/2021/05/DeFi-Beyond-the-Hype.pdf)
+21. [Rootdata Web3 industry research report 2023](https://rootdatalabs.medium.com/rootdata-2023-web3-research-report-and-annual-rankings-9366c228f40a)
+22. [State of Crypto Report 2024](https://a16zcrypto.com/posts/article/state-of-crypto-report-2024/)
+23. [Web3.0 Global market Report 2025](https://www.thebusinessresearchcompany.com/report/web-3-0-global-market-report)
+24. [Web3 User Stats: Wallet Connections, DApp Retention & Growth](https://patentpc.com/blog/web3-user-stats-wallet-connections-dapp-retention-growth)

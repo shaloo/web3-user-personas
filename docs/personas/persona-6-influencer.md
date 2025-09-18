@@ -1,48 +1,99 @@
+---
+alias: 6-web3-influencer
+title: 'Web3 Influencer'
+description: 'All about Web3 Influencer Persona and how to target them'
+---
 
 # 6. Crypto Influencer: Content Conan
----
-*Radiating influence and joy, illuminating the crypto space with vibrant content*
 
-||
-| -:-|
-|![Influencer (Tarot: The Sun (XIX))](../img/6_crypto_influencer.webp)|
-||
+<div class="grid cards" markdown>
 
-## Overview
+- *Radiating influence and joy, illuminating the crypto space with vibrant content*
+  ![Influencer (Tarot: The Sun (XIX))](../img/6_crypto_influencer.webp)
 
-The Crypto Influencer/Content Creator shapes market sentiment through engaging content and large followings.
+- ## tl;dr
 
-## Characteristics
+    The Crypto Influencer/Content Creator shapes market sentiment through engaging content and large followings.
 
-- Large followings across platforms
-- Content monetization strategies
-- Opinion leadership in communities
-- Brand partnerships and sponsored content
+- ## Characteristics
 
-## Behavior Patterns
+    - Large followings across platforms
+    - Content monetization strategies
+    - Opinion leadership in communities
+    - Brand partnerships and sponsored content
 
-- Daily content creation and curation
-- Engages with followers across platforms
-- Promotes projects and events
-- Shapes market sentiment
+- ## Behavior Patterns
 
-## Pain Points
+    - Daily content creation and curation
+    - Engages with followers across platforms
+    - Promotes projects and events
+    - Shapes market sentiment
 
-- Platform censorship
-- Reputation management
-- Market accountability
+- ## Pain Points
 
-## Engagement
+    - Platform censorship
+    - Reputation management
+    - Market accountability
 
-High-frequency posting, community management.
+- ## Engagement Hooks   
 
-## Primary Platforms
+    - High-frequency posting
+    - Community management
 
-- Twitter/X
-- [YouTube](https://www.youtube.com/)
-- [TikTok](https://www.tiktok.com/)
-- Discord
-- Telegram
+- ## Primary Platforms
+
+    - Twitter/X
+    - [YouTube](https://www.youtube.com/)
+    - [TikTok](https://www.tiktok.com/)
+    - Discord
+    - Telegram
+
+- ## Tech Affinity
+
+    Tech affinity section lists specific technologies, features, and solutions that are of interest to the
+    Crypto Influencer persona.
+
+    - ddd
+
+</div>
+
+## How to Target?
+
+<div class="grid cards" markdown>
+
+-   :material-vector-difference: __Crypto Influencer Mindset__
+
+    ---
+
+    * ddd
+    * ddd
+
+-   :material-brain: __Crypto Influencer Motivation__
+
+    ---
+
+    * ddd
+    * ddd
+
+</div>
+
+<div class="grid cards" markdown>
+
+-   :material-rocket-launch: __Crypto Influencer Must-Have__
+
+    ---
+
+    * ddd
+    * ddd
+
+</div>
+
+## Action Plan
+
+* **Research & Refine:** Do your own research. Use this template to guide your design, documentation and product feature decisions. The lack of formal UX research reports in Web3 is a testament that this is an underexplored area where original research could provide significant competitive advantage.
+* **Design Philosophy:** ddd
+* **Communication Style:** ddd.
+* **Product Features:** ddd.
 
 ## See Also
 

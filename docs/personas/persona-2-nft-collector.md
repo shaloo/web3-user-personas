@@ -72,6 +72,9 @@ description: 'All about NFT Collector Persona and how to target them.'
 
 - ## Tech Affinity
 
+    Tech affinity section lists specific technologies, features, and solutions that are of interest to the
+    NFT Collector persona.
+
     - Interoperability across wallets, marketplaces, and dApps for enabling seamless trading.
     - Integration with popular [NFT marketplaces](https://dappradar.com/rankings/nft/marketplaces) like [Blur](https://blur.io), [Magic Eden](https://magiceden.io).
     - Multi-platform strategy with consistent user experience.

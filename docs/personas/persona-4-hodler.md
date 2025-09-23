@@ -20,10 +20,13 @@ description: 'All aboutLong-term Crypto Investor Persona and how to target them'
       disrupt traditional systems
     - Seeks yields and true ownership, non-custodial designs for interacting with Web3 systems
     - Prioritizes patience over panic, views volatility as noise rather than signal,
-      often draw from behavioral finance principles like loss aversion to avoid emotional trades
-    - Pain points include extreme price swings that erode confidence, security threats (hacks, lost keys)
-      risk irrecoverable losses, regulatory uncertainty stifles planning, and the need for constant
-      vigilance due to complexity of self-custody demands.
+      often draws from behavioral finance principles like loss aversion to avoid emotional trades
+    - Pain points:
+
+        - erosion in confidence due to extreme price swings
+        - security threats (hacks, lost keys)
+        - stifling of planning due to regulatory uncertainty
+        - complexity of self-custody demands
 
     [Tech Affinity](#tech-affinity){ .md-button }
     
@@ -32,7 +35,7 @@ description: 'All aboutLong-term Crypto Investor Persona and how to target them'
 - ## Characteristics
 
     - Long-term perspective (years to decades)
-    - Fundamental analysis focused
+    - Focus on fundamental analysis
     - Lower frequency engagement
     - Dollar-cost averaging strategies
 
@@ -47,7 +50,8 @@ description: 'All aboutLong-term Crypto Investor Persona and how to target them'
 
     - Short-term volatility
     - Regulatory threats
-    - Security concerns
+    - Security concerns compounded by self-custody preference
+    - Irrecoverable losses, need for constant vigilance
 
 - ## Engagement Hooks
 
@@ -56,7 +60,7 @@ description: 'All aboutLong-term Crypto Investor Persona and how to target them'
 
 - ## Primary Platforms
 
-    - Reddit ([r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/))\
+    - Reddit ([r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/))
     - Bitcoin forums
     - CEXs
     - Hardware wallet communities
@@ -102,7 +106,7 @@ description: 'All aboutLong-term Crypto Investor Persona and how to target them'
 
     ---
 
-    * Motivated by having direct control over protocol evolution through governance, voting
+    * Motivated by having direct control over protocol evolution through governance, voting, visibility into the roadmap, transparency
     * Look for earning rewards through liquidity mining that pays interest via tokens issued by the DeFi service 
     * Interest in Bitcoin as a digital gold store of value & hedge against inflation
     * Survival through cycles mentality is a big motivation

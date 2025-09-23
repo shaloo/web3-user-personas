@@ -24,3 +24,5 @@
 22. [State of Crypto Report 2024](https://a16zcrypto.com/posts/article/state-of-crypto-report-2024/)
 23. [Web3.0 Global market Report 2025](https://www.thebusinessresearchcompany.com/report/web-3-0-global-market-report)
 24. [Web3 User Stats: Wallet Connections, DApp Retention & Growth](https://patentpc.com/blog/web3-user-stats-wallet-connections-dapp-retention-growth)
+25. [Consensys Web3 perception survey](https://consensys.io/blog/global-survey-on-crypto-and-web3-press-release-2024)
+26. [Web3 Career Intelligence Report 2025](https://web3.career/learn-web3/web3-intelligence-report)

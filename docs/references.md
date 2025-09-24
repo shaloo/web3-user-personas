@@ -26,3 +26,5 @@
 24. [Web3 User Stats: Wallet Connections, DApp Retention & Growth](https://patentpc.com/blog/web3-user-stats-wallet-connections-dapp-retention-growth)
 25. [Consensys Web3 perception survey](https://consensys.io/blog/global-survey-on-crypto-and-web3-press-release-2024)
 26. [Web3 Career Intelligence Report 2025](https://web3.career/learn-web3/web3-intelligence-report)
+27. [GameFi in 2025](https://yellow.com/en-US/research/gamefi-in-2025-user-growth-continues-as-sector-awaits-its-minecraft-moment?utm_source=chatgpt.com)
+28. [Managing tokenomics in NFT in game based blockchains](https://arxiv.org/abs/2306.13672?utm_source=chatgpt.com)

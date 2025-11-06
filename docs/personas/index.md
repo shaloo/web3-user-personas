@@ -1,21 +1,24 @@
 ---
 alias: persona-archetypes
 title: 'Web3 User Personas'
-description: 'The archtypes for Web3 User Personas.'
+description: 'The archetypes for Web3 User Personas.'
 ---
 # Web3 User Personas
 
-Web3 user personas are unique and very different from those in Web2.
-This is largely due to how Web3 operates.
+Let us begin the deep dive into Web3 Personas.
 
-In this study we have categorized various Web3 personas based on the 
-key archetypes. Besides the primary archtypes, based on user behavior 
-there are several secondary persona types.
+We’ve mapped Web3 personas into core archetypes.
+Secondary types emerge from behavior, mindset, motivations, and needs.
 
-To explore details, click on each persona in the table below.
-Note that your target persona may be a combination of one or more archtypes.
+Web3 moves fast.
+This persona snapshot reflects Q4 2025 behaviors and drivers. Do brace for
+shifts and stay tuned to the latest trends as new personas and behaviors emerge.
 
 ## Overview
+
+Web3 user personas are unique and very different from those in Web2.
+Before you jump into each persona details, let us take a quick look at
+how these personas differ from those in Web2.
 
 <div class="grid cards" markdown>
 
@@ -31,19 +34,31 @@ Note that your target persona may be a combination of one or more archtypes.
     * [[web2-vs-web3#interactions|User Interactions]]
     * [[web2-vs-web3#privacy-transparency-trust|Privacy, Transparency, Trust]]
 
--   :material-vector-difference: __Web3 Archtypes__
+-   :material-vector-difference: __Web3 Archetypes__
 
     ---
 
-    There are five primary Web3 persona archtypes:
+    There are five primary Web3 persona archetypes:
 
-    * Traders
-    * Fun & Entertainment
-    * Builders
-    * Governance
-    * Newcomers
+    - Traders
+    - Fun & Entertainment Lovers
+    - Builders
+    - Governance Figure
+    - Newcomers
+
+    Each archetype branches into sub-personas.
+    Secondary types are shaped by behavior, mindset, motivations, and needs.
+
+    * **Traders:** DeFi Degen, Analyst, Institutional Investor, Long-term Investor
+    * **Fun & Entertainment Lovers:** Gaming Actor, NFT Collector, Meme-culture Participant
+    * **Builders:** Developer, AI+Crypto Devs, Crypto Infuencers
+    * **Governance Figure:**: Anonymity Advocate, Sustainability Enthusiast, Regulation Navigator, DAO Participant
+    * **Newcomers:** Tenderfoot Explorer
 
 </div>
+
+Click on each persona in the table below to view details and insights on how to target each persona.
+Note that your target persona may be a combination of one or more archetypes.
 
 ## Persona Types
 
@@ -53,13 +68,13 @@ Note that your target persona may be a combination of one or more archtypes.
 |              | Analyst | [Trader Joe](./persona-3-crypto-trader.md){ .md-button }   |
 |              | Institutional Investor | [Token Tim](./persona-10-institutional-investor.md){ .md-button }  |
 |              | Longterm Investor | [HODL Harold](./persona-4-hodler.md){ .md-button }  |
-| Fun &        | Gaming Actor | [Metaverse Mia](./persona-7-gaming-enthusiast.md){ .md-button }  |
-| Entertainment| NFT Collector | [Flipper Finn](./persona-2-nft-collector.md){ .md-button }   |
-|              | Meme Culture Participant | [Meme Mervin](./persona-11-meme-participant.md){ .md-button }   |
+| Fun & Entertainment Lovers      | Gaming Actor | [Metaverse Mia](./persona-7-gaming-enthusiast.md){ .md-button }  |
+|              | NFT Collector | [Flipper Finn](./persona-2-nft-collector.md){ .md-button }   |
+|              | Meme Culturist| [Meme Mervin](./persona-11-meme-participant.md){ .md-button }   |
 | Builders     | Developer | [BUIDLer Ben](./persona-5-web3-builder.md){ .md-button }  |
 |              | AI + Crypto Devs | [Shakey Asimotoshi](./persona-13-ai-crypto-user.md){ .md-button }  |
 |              | Crypto Influencer | [Content Conan](./persona-6-influencer.md){ .md-button }   |
-| Governance   | Anonymity Advocate | [Privacy Paul](./persona-12-privacy-advocate.md){ .md-button }   |
+| Governance Figure  | Anonymity Advocate | [Privacy Paul](./persona-12-privacy-advocate.md){ .md-button }   |
 |              | Sustainability Enthusiast | [Sustainer Suzy](./persona-15-sustainability-advocate.md){ .md-button } |
 |              | Regulation Navigator | [Governance Gabe](./persona-14-regulation-navigator.md){ .md-button }   |
 |              | DAO Participant | [DAO Dave](./persona-8-dao-contributor.md){ .md-button }   |

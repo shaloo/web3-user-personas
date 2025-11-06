@@ -131,7 +131,7 @@ description: 'All about Web3 Influencer Persona and how to target them'
 ## See Also
 
 * [NFT Collector](persona-2-nft-collector.md)
-* [Meme Culture Participant](persona-11-meme-participant.md)
+* [Meme Culturist](persona-11-meme-participant.md)
 * [Influencer Marketing Benchmark Report 2025](https://influencermarketinghub.com/influencer-marketing-benchmark-report/)
 * [Influencer Marketing in Web3.0](https://www.researchgate.net/publication/375601803_Influencer_Marketing_in_Web_30_How_Algorithm-Related_Influencer_following_Norms_Affect_Influencer_Endorsement_Effectiveness)
 * [Virtual Influencers](https://onlinelibrary.wiley.com/doi/full/10.1002/mar.22105)

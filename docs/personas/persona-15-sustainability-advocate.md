@@ -94,7 +94,7 @@ description: 'All about Sustainability Stalwart persona and how to target them'
 
 ## See Also
 
-* [Privacy Advocate](persona-12-privacy-advocate.md)
+* [Anonymity Advocate](persona-12-privacy-advocate.md)
 * [Web3 Builder](persona-5-web3-builder.md)
 * [ResearchGate](https://www.researchgate.net/publication/374254829_Tokenomics_in_Web3_A_Strategic_Framework_for_Sustainable_and_Scalable_Blockchain_Ecosystems)
 * [Tokenomics for Sustainable Chains](https://www.researchgate.net/publication/390936830_Tokenomics_in_Web3_A_Strategic_Framework_for_Sustainable_and_Scalable_Blockchain_Ecosystems)

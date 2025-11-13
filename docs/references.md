@@ -41,3 +41,7 @@
 39. [Crypto + AI Categories to watch 2025](https://www.archetype.fund/media/crypto-x-ai-10-categories-were-watching-in-2025) 
 40. [AI Agents in Crypto - Guide](https://www.ampcome.com/post/ai-agents-in-crypto-2025-guide)
 41. [Decentralized AI 2025](https://onchain.org/magazine/decentralized-ai-taming-the-machine-god-with-blockchain-technology/)
+42. [BitCoin Energy consumption index](https://ccaf.io/cbnsi/cbeci)
+43. [PoS vs PoW Environmental Impact](https://www.scl.org)
+44. Coinshares Mining Report [2024](https://coinshares.com/corp/insights/research-data/2024-mining-report/)
+45. [Environmental effects of Bitcoin mining 2025](https://www.nature.com/articles/s41598-025-92314-z)

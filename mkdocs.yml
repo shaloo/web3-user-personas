@@ -1,4 +1,4 @@
-site_name: 'Web3 User Personas Documentation'
+site_name: 'Web3 User Personas'
 # For production
 #site_url: !ENV [DOCS_SITE_URL,"https://shaloo/web3-user-personas"]
 site_url: "https://localhost:9090/web3-user-personas"

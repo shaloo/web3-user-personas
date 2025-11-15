@@ -45,3 +45,5 @@
 43. [PoS vs PoW Environmental Impact](https://www.scl.org)
 44. Coinshares Mining Report [2024](https://coinshares.com/corp/insights/research-data/2024-mining-report/)
 45. [Environmental effects of Bitcoin mining 2025](https://www.nature.com/articles/s41598-025-92314-z)
+46. [MiCA Compliance Guide](https://sumsub.com/blog/mica-compliance/)
+47. [Howey Test Guide 2025](https://www.coinbase.com/blog/token-securities-a-guide-to-the-howey-test-and-sec-compliance-in-2025)

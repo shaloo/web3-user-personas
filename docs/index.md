@@ -22,6 +22,61 @@ and architects to build for today and design intelligently for the Web3 landscap
 
 ==}
 
+<div class="w3p-thumbnail-center">
+    <div class="w3p-thumbnail-set ">
+        <div class="w3p-thumbnail">
+            <a href="personas/persona-1-de-fi-degen"><img  src="img/1_defi_degen.webp"/></a>
+        </div>
+        <div class="w3p-thumbnail">
+            <a href="personas/persona-2-nft-collector"><img  src="img/2_flipper_nftcollector.webp"/></a>
+        </div>
+        <div class="w3p-thumbnail">
+            <a href="personas/persona-3-crypto-trader"><img  src="img/3_trader_analyst.webp"/></a>
+        </div>
+        <div class="w3p-thumbnail">
+            <a href="personas/persona-4-hodler"><img  src="img/4_hodler.webp"/></a>
+        </div>
+        <div class="w3p-thumbnail">
+            <a href="personas/persona-5-web3-builder"><img  src="img/5_webp_builder_dev.webp"/></a>
+        </div>
+        <div class="w3p-thumbnail">
+            <a href="personas/persona-6-influencer"><img  src="img/6_crypto_influencer.webp"/></a>
+        </div>
+        <div class="w3p-thumbnail">
+            <a href="personas/persona-7-gaming-enthusiast"><img  src="img/7_gaming_enthu.webp"/></a>
+        </div>
+        <div class="w3p-thumbnail">
+            <a href="personas/persona-8-dao-contributor"><img  src="img/8_dao.webp"/></a>
+        </div>
+    </div>
+ </div>
+<div class="w3p-thumbnail-center">
+    <div class="w3p-thumbnail-set ">
+        <div class="w3p-thumbnail">
+            <a href="personas/persona-9-newcomer"><img  src="img/9_newcomer.webp"/></a>
+        </div>
+        <div class="w3p-thumbnail">
+            <a href="personas/persona-10-institutional-investor"><img  src="img/10_investor.webp"/></a>
+        </div>
+        <div class="w3p-thumbnail">
+            <a href="personas/persona-11-meme-participant"><img  src="img/11_meme-maven.webp"/></a>
+        </div>
+        <div class="w3p-thumbnail">
+            <a href="personas/persona-12-privacy-advocate"><img  src="img/12_privacy.webp"/></a>
+        </div>
+        <div class="w3p-thumbnail">
+            <a href="personas/persona-13-ai-crypto-user"><img  src="img/13_wheel-fortune.webp"/></a>
+        </div>
+        <div class="w3p-thumbnail">
+            <a href="personas/persona-14-regulation-navigator"><img  src="img/14_temperance.webp"/></a>
+        </div>
+        <div class="w3p-thumbnail">
+            <a href="personas/persona-15-sustainability-advocate"><img  src="img/15_sustainability.webp"/></a>
+        </div>
+    </div>
+</div>
+
+
 ## Why Web3 Personas?
 
 User personas validate product–market fit, shape value propositions, drive product features, 

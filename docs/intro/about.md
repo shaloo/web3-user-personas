@@ -31,7 +31,7 @@ and improve user onboarding experiences.*
 
 <figure markdown="span">
   <img class="custom-screenshots" src="{{config.extra.web3_personas.img_dir}}/mind_map/about_web3_personas_mind_map.png" alt="Web3 User Persona Mind Map" />
-  <figcaption>Web3 User Personas: Mind Map</figcaption>
+  <figcaption><a href="https://claude.ai/public/artifacts/f00adea0-34ff-46ad-a663-15b54a6c8eb1">Web3 User Personas: Mind Map</a></figcaption>
 </figure>
 
 ## Background

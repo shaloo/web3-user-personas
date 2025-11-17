@@ -1,24 +1,33 @@
 # Web3 User Personas
 
-Welcome to [Web3 User Personas](personas/index.md), a comprehensive research and 
-documentation project that maps the people who drive today’s rapidly evolving Web3
-ecosystem and its transition toward [Web4](https://www.blockchain-council.org/ai/web4/).
+*Welcome.*
+
+The [Web3 User Personas](personas/index.md) project is a comprehensive research
+and documentation effort. It maps the people driving today’s rapidly evolving
+Web3 ecosystem. It also tracks the transition toward [Web4](https://www.blockchain-council.org/ai/web4/).
 
 ## TL;DR
 
 {==
 
-Web3 thrives on diverse, opinionated users with unique motivations.
+Web3 thrives on diversity; opinionated users driven by distinct motivations.
 
-*Builders, technologists, cryptography researchers, finance stewards, sustainability and 
-privacy advocates, DeSci/DeFi/DeFAI pioneers, and compliance-driven innovators all converge 
-here — a vibrant arena of experimentation, disruption, and constant motion.*
+*Builders, technologists, cryptography researchers, finance stewards, 
+sustainability and privacy advocates, DeSci/DeFi/DeFAI pioneers, and 
+compliance-minded innovators all collide in a fast-moving arena of 
+experimentation, disruption, and constant change.*
 
-It is critical to understand and continuously align with these nuanced personas for 
-an effective Web3 engagement. IRL, user behavior could comprise of a combination of traits.
+This study serves as a practical blueprint for product strategists, 
+technical marketers, and architects to build for today while designing 
+intelligently for the Web3 ecosystem of tomorrow.
 
-This study offers a practical blueprint for product strategists, technical marketers, 
-and architects to build for today and design intelligently for the Web3 landscape of tomorrow.
+**To drive meaningful engagement**, you must understand and stay aligned 
+with the evolving nuances of Web3 user personas. In reality, a user’s
+behavior may blend traits from multiple persona types featured here. 
+
+Use these [[persona-archetypes#persona-template|persona templates]] as a baseline to craft your own target 
+personas and refine your Web3 product strategy around real user 
+motivations and needs.
 
 ==}
 

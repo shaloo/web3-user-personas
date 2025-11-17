@@ -36,7 +36,7 @@ theme:
 
 nav:
   - Home: 
-    - Contents: index.md
+    - index.md
     - About: intro/about.md
     - Audience: intro/audience.md
     - Insights: intro/insights.md
@@ -47,7 +47,7 @@ nav:
     - NFT Collector: personas/persona-2-nft-collector.md
     - Crypto Analyst: personas/persona-3-crypto-trader.md
     - Long-term Investor: personas/persona-4-hodler.md
-    - Web3 Dev: personas/persona-5-web3-builder.md
+    - Developer: personas/persona-5-web3-builder.md
     - Crypto Influencer: personas/persona-6-influencer.md
     - Gaming Enthusiast: personas/persona-7-gaming-enthusiast.md
     - DAO Contributor: personas/persona-8-dao-contributor.md
@@ -55,9 +55,9 @@ nav:
     - Institutional Investor: personas/persona-10-institutional-investor.md
     - Meme Culturist: personas/persona-11-meme-participant.md
     - Anonymity Advocate: personas/persona-12-privacy-advocate.md
-    - AI + Crypto User: personas/persona-13-ai-crypto-user.md
+    - AI + Crypto Wiz: personas/persona-13-ai-crypto-user.md
     - Regulation Navigator: personas/persona-14-regulation-navigator.md
-    - Sustainability Advocate: personas/persona-15-sustainability-advocate.md
+    - Sustainability Steward: personas/persona-15-sustainability-advocate.md
   - Concepts:
     - Personas: concepts/what-personas.md
     - Why Personas: concepts/why-personas.md

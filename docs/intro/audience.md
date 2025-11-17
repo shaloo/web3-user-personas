@@ -23,6 +23,6 @@ Gain clarity on:
 * Technical expectations across the Web3 stack
 * Typical usage patterns in decentralized apps
 
-Apply these insights to shape your own persona templates^*^ and build Web3 products that users genuinely want.
+Apply these insights to shape your own [[persona-archetypes#persona-template|persona templates]]^*^ and build Web3 products that users genuinely want.
 
 ^*^*Your template could be an informed mix of one or more Web3 user persona archetypes.*

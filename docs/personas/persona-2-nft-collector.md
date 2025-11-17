@@ -25,11 +25,6 @@ description: 'All about NFT Collector Persona and how to target them.'
 
     * NFT [lending/borrowing is a fast growing segment](https://coinlaw.io/nft-lending-and-borrowing-statistics/) beside simply trading NFTs.
 
-
-    [Tech Affinity](#tech-affinity){ .md-button }
-    
-    [Targeting Method](#how-to-target){ .md-button }
-
 - ## Characteristics
 
     - Art appreciation mixed with speculation

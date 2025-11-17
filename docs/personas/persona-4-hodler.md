@@ -28,10 +28,6 @@ description: 'All aboutLong-term Crypto Investor Persona and how to target them'
         - stifling of planning due to regulatory uncertainty
         - complexity of self-custody demands
 
-    [Tech Affinity](#tech-affinity){ .md-button }
-    
-    [Targeting Method](#how-to-target){ .md-button }
-
 - ## Characteristics
 
     - Long-term perspective (years to decades)

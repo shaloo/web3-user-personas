@@ -26,10 +26,6 @@ description: 'All about Defi Degen Persona and how to target them.'
 
     * Trailblazers in technology adoption, many upcoming Web3 technologies gain traction through them.
 
-    [Tech Affinity](#tech-affinity){ .md-button }
-    
-    [Targeting Method](#how-to-target){ .md-button }
-
 - ## Characteristics
 
     - High-risk tolerance, seeks highest yields

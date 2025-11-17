@@ -24,10 +24,6 @@ description: 'All about Crypto Analyst Persona and how to target them'
     * As opposed to institutional investors that prefer established CEXs with robust compliance, crypto
       investor persona operate between user-friendly CEXs and yield-generating DeFi platforms.
 
-    [Tech Affinity](#tech-affinity){ .md-button }
-    
-    [Targeting Method](#how-to-target){ .md-button }
-
 - ## Characteristics
 
     - Highly technical, often proficient in programming (Python, C++), data analysis, and machine learning, AI

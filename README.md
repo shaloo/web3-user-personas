@@ -1,33 +1,53 @@
 # web3-user-personas
 
-Welcome to the most comprehensive research resource on Web3 user personas.
+Welcome to Web3 user personas, a comprehensive research into Web3 denizens transitioning into Web4!
 
-What will help bring the next billion users to Web3? Is it one or more of these:
+## Overview
 
-1. Building cool Web3 technologies that Web3 wizards come up with?
+This project delivers user persona templates across 15 distinct Web3 archetypes. 
 
-2. Solving real user pain points that can be appropriately and adequately addressed
-with Web3 solutions?
+It synthesizes insights from reputable surveys, industry reports, publications,
+ and research from leading Web3 innovators. The study uncovers each persona’s 
+ behaviors, engagement triggers, technology preferences, mindset, motivations, 
+ and core needs.
 
-3. Aligning Web3 teams ( builders, designers, content ) with user and product priorities.
+Use these templates to inform and validate your Web3 strategy — from product 
+design and feature prioritization to messaging and scalable user acquisition.
 
-If your answer does not include 2. and 3. above, you'd benefit deely by digging into this analysis.
+## Why Web3 Personas?
 
-A deeper understanding of Web3 users and a cohesive product strategy is a must if you are a builder, designer or content creator in Web3. That requires continuously monitoring and tracking these metrics:
+*Want to onboard the next billion users to Web3?*
 
-- Who is currently using Web3 solutions powered by blockchain and cryptography?
+Ask yourself what will truly get us there:
 
-- What is the big picture around Web3? How do users of wallets, security tools,
-dApps (trading, NFTs, coins, interoperability, others) perceive Web3?
+* 1. Shipping cool tech for the sake of tech?
+* 2. Solving real user pain points with Web3 capabilities?
+* 3. Aligning builders, designers, and content teams around user-first priorities?
 
-- What drives their adoption of these solutions?
+If your answer doesn’t include **#2 and #3**, this research is your wake-up call. 
 
-- What are the emerging Web3 and Web4 blue skies and regulation driven demands that seek technology innovations?
+Real growth requires more than just innovation. It takes a deep understanding
+of the people we’re building for — their mindset, motivations, frustrations, 
+behavior patterns, tech comfort, and evolving expectations.
 
-This study analyzes 15 Web3 user personas using data available via published Web3 reports, Web3 trailblazers online, and solutions research.
+If you’re a builder, designer, or content creator in Web3, mastering user personas
+isn’t optional. It is how you stay aligned with:
 
-It highlights behaviors, engagement hooks, technology affinity, mindsets, motivations, and core needs. Feel free to use these templates to validate and formulate a well-rounded and informed action plan for your Web3 solution strategy, its design, messaging and target the target persona more effectively and scale onboarding.
+* Who is using blockchain-powered products and why
+* Their pain points, motivations, and technical affinity
+* The fast-shifting Web3 landscape — today, next month, next quarter
+* Adoption narratives shaping developer and user perception across infra, wallets, security, trading, NFTs, coins, interoperability and beyond
+* The horizon demands that are already emerging (DeFAI, RegTech, Web4, etc.)
 
+*Persona insights = clarity, alignment, and faster onboarding at scale.*
+
+Check it out, seriously. 
+
+*Ignore these insights and you’re building in a vacuum.*
+Visit this study before you ideate, pitch, build, design, or market your next Web3 product.
+And don’t just reference it once — stay aligned with it regularly. Share your unique
+insights and help keep these personas alive and accurate. See the contribution 
+section for details.
 
 ## Limitations
 
@@ -36,5 +56,7 @@ Public data does not contain the following details and has limited information i
 * Geographic granularity insights
 * Web3-native behaviors - does not cover NFT trading, governance participation in depth
 * Real user count versus volume
+* Claude, Gemini, Grok and ChatGPT data and training model limitations
+* Absence of any focussed, comprehensive Web3 user persona research from the industry
 
 [![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)

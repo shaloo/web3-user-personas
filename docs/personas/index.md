@@ -64,21 +64,21 @@ Note that your target persona may be a combination of one or more archetypes.
 
 | Primary | Secondary | Example | Tarot |
 | :--- | :--- | :--- | :--- |
-| Traders      | DeFi Degen | [Crypto Carl](./persona-1-de-fi-degen.md){ .md-button } | The Fool | 
-|              | Analyst | [Trader Joe](./persona-3-crypto-trader.md){ .md-button }   | The Magician | 
-|              | Institutional Investor | [Token Tim](./persona-10-institutional-investor.md){ .md-button }  | The Emperor | 
-|              | Longterm Investor | [HODL Harold](./persona-4-hodler.md){ .md-button }  | The Hermit |
-| Fun & Entertainment Lovers      | Gaming Actor | [Metaverse Mia](./persona-7-gaming-enthusiast.md){ .md-button }  | The World| 
-|              | NFT Collector | [Flipper Finn](./persona-2-nft-collector.md){ .md-button }   | The Empress | 
+| Traders      | DeFi Degen | [Crypto Carl](./persona-1-de-fi-degen.md){ .md-button } | The Fool |
+|              | Analyst | [Trader Joe](./persona-3-crypto-trader.md){ .md-button }   | The Magician |
+|              | Institutional Investor | [Token Tim](./persona-10-institutional-investor.md){ .md-button }  | The Emperor |
+|              | Long-term Investor | [HODL Harold](./persona-4-hodler.md){ .md-button }  | The Hermit |
+| Fun & Entertainment Lovers      | Gaming Actor | [Metaverse Mia](./persona-7-gaming-enthusiast.md){ .md-button }  | The World |
+|              | NFT Collector | [Flipper Finn](./persona-2-nft-collector.md){ .md-button }   | The Empress |
 |              | Meme Culturist| [Meme Mervin](./persona-11-meme-participant.md){ .md-button }   | The Moon |
 | Builders     | Developer | [BUIDLer Ben](./persona-5-web3-builder.md){ .md-button }  | The Star |
-|              | AI + Crypto Devs | [Shakey Asimotoshi](./persona-13-ai-crypto-user.md){ .md-button }  | The Wheel of Fortune |
-|              | Crypto Influencer | [Content Conan](./persona-6-influencer.md){ .md-button }   | The Sun | 
-| Governance Figure  | Anonymity Advocate | [Privacy Paul](./persona-12-privacy-advocate.md){ .md-button }   | The High Priestess | 
-|              | Sustainability Enthusiast | [Sustainer Suzy](./persona-15-sustainability-advocate.md){ .md-button } | Hanged Man |
+|              | AI + Crypto Wiz | [Shakey Asimotoshi](./persona-13-ai-crypto-user.md){ .md-button }  | Wheel of Fortune |
+|              | Crypto Influencer | [Content Conan](./persona-6-influencer.md){ .md-button }   | The Sun |
+| Governance Figure  | Anonymity Advocate | [Privacy Paul](./persona-12-privacy-advocate.md){ .md-button }   | The High Priestess |
+|              | Sustainability Steward | [Sustainer Suzy](./persona-15-sustainability-advocate.md){ .md-button } | ddd |
 |              | Regulation Navigator | [Governance Gabe](./persona-14-regulation-navigator.md){ .md-button }   | Temperance |
 |              | DAO Participant | [DAO Dave](./persona-8-dao-contributor.md){ .md-button }   | Justice |
-| Newcomers    | Tenderfoot Explorer | [Curious Columbus](./persona-9-newcomer.md){ .md-button }  | Page of Pentacles |
+| Newcomers    | Tenderfoot Explorer | [Curious Columbus](./persona-9-newcomer.md){ .md-button }  | The Hanged Man |
 
 ## Persona Template
 

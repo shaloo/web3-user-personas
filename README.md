@@ -4,7 +4,8 @@ Welcome to Web3 user personas, a comprehensive research into Web3 denizens trans
 
 ## Overview
 
-This project delivers user persona templates across 15 distinct Web3 archetypes. 
+This project delivers user [persona template](https://web3-user-personas.netlify.app/personas/#persona-template) across 5 distinct Web3 archetypes
+and [15 different user personas](https://web3-user-personas.netlify.app/personas/#persona-types).
 
 It synthesizes insights from reputable surveys, industry reports, publications,
  and research from leading Web3 innovators. The study uncovers each persona’s 

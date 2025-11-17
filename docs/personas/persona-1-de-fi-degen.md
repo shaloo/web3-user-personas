@@ -128,6 +128,6 @@ description: 'All about Defi Degen Persona and how to target them.'
 
 ## See Also
 
-* [Crypto Trader/Analyst](persona-3-crypto-trader.md){ .md-button }
-* [Web3 Builder/Developer](persona-5-web3-builder.md){ .md-button }
-* [ DeFi Guide](https://www.gemini.com/cryptopedia/what-is-defi-decentralized-finance){ .md-button }
+* [Crypto Trader/Analyst](persona-3-crypto-trader.md)
+* [Web3 Builder/Developer](persona-5-web3-builder.md)
+* [ DeFi Guide](https://www.gemini.com/cryptopedia/what-is-defi-decentralized-finance)

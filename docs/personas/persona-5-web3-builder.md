@@ -4,7 +4,7 @@ title: 'Web3 Dev'
 description: 'All about Web3 Dev Persona and how to target them'
 ---
 
-# 5. Web3 Dev: BUIDLer Ben
+# 5. Developer: BUIDLer Ben
 
 <div class="grid cards" markdown>
 

@@ -4,16 +4,16 @@ title: 'Personas'
 description: 'The archetypes for Web3 User Personas.'
 ---
 
-# Personas
+!!! note
 
-Let us begin the deep dive into Web3 Personas.
+    **Web3 is evolving rapidly.**
 
-We’ve mapped Web3 personas into core archetypes.
-Secondary types emerge from behavior, mindset, motivations, and needs.
+    This persona snapshot reflects Q4 2025 behaviors and drivers. Do brace for
+    shifts and stay tuned to the latest trends as new personas and behaviors emerge.
 
-Web3 moves fast.
-This persona snapshot reflects Q4 2025 behaviors and drivers. Do brace for
-shifts and stay tuned to the latest trends as new personas and behaviors emerge.
+Here is a deep dive into Web3 Personas.
+
+We’ve mapped Web3 user personas using core [[index#Web3-Archetypes|archetypes]] and sub-types.
 
 Click on each persona in the table below to view details and insights on how to target each persona.
 Note that your target persona may be a combination of one or more archetypes.

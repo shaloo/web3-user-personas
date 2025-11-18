@@ -1,38 +1,38 @@
 ---
 alias: index
-title: 'Web3 User Personas'
-description: 'Project landing page with an overview of the study, key insights and purpose.'
+title: "Web3 User Personas"
+description: "Project landing page with an overview of the study, key insights and purpose."
 ---
+
 # Web3 User Personas
 
-*Welcome.*
+Web3 thrives on diversity; opinionated users driven by distinct motivations.
 
-The [[persona-archetypes|Web3 User Personas]] project is a comprehensive research
-and documentation effort to map the people driving today’s rapidly evolving
+_Builders, technologists, cryptography researchers, finance stewards,
+sustainability and privacy advocates, DeSci/DeFi/DeFAI pioneers, and
+compliance-minded innovators all collide in a fast-moving arena of
+experimentation, disruption, and constant change._
+
+*Welcome to the [[persona-archetypes|Web3 User Personas]] project.*
+
+This is a comprehensive research and documentation effort to map the people driving today’s rapidly evolving
 Web3 ecosystem and its transition towards [Web4](https://www.blockchain-council.org/ai/web4/).
 
 ## TL;DR
 
 {==
 
-Web3 thrives on diversity; opinionated users driven by distinct motivations.
-
-*Builders, technologists, cryptography researchers, finance stewards, 
-sustainability and privacy advocates, DeSci/DeFi/DeFAI pioneers, and 
-compliance-minded innovators all collide in a fast-moving arena of 
-experimentation, disruption, and constant change.*
-
-This study serves as a practical blueprint for product strategists, 
-technical marketers, and architects to build for today while designing 
+This study serves as a practical blueprint for product strategists,
+technical marketers, and architects to build for today while designing
 intelligently for the Web3 ecosystem of tomorrow.
 
-**To drive meaningful engagement**, you must understand and stay aligned 
+**To drive meaningful engagement**, you must understand and stay aligned
 with the evolving nuances of Web3 user personas. In reality, a user’s
-behavior may blend traits from [[persona-archetypes#persona-types|many persona types featured here]]. 
+behavior may blend traits from [[persona-archetypes#persona-types|many persona types featured here]].
 
-Use these [[persona-archetypes#persona-template|persona templates]] as a baseline to craft your own target 
-personas and refine your Web3 product strategy around real user 
-motivations and needs.
+Use the [[persona-archetypes#persona-template|persona template]] in this study as a foundation
+to build your own target personas. Shape your Web3 product strategy around real user motivations
+and needs, not assumptions or anecdotal insights.
 
 ==}
 
@@ -90,32 +90,99 @@ motivations and needs.
     </div>
 </div>
 
-
 ## Why Web3 Personas?
 
-User personas validate product–market fit, shape value propositions, drive product features, 
-priorities, and steer marketing.
+User personas are essential for validating product–market fit and aligning value
+propositions, product features, and marketing.In Web3, they become even more critical 
+because they guide high-stakes product design and implementation decisions across UX, 
+DX, and CX. 
 
-In Web3, they influence mission-critical design choices. Rich, evolving persona insights
-are the key to building engaging, effective UX, DX and CX. [[why-personas|Learn more...]]
+Robust and evolving persona insights are the foundation for building products that 
+users will actually adopt.[[why-personas|Learn more...]]
 
-## So what is Unique?
+## What is Unique?
 
-This research delivers a *Tarot-inspired lens* on Web3 user personas. It maps 
-[[persona-archetypes|15 user types]] delving into the mindset and motivations of each persona
- to help builders design user-centric dApps with the right UX, DX, CX and feature priorities.
+This study offers a _Tarot-inspired_ perspective on Web3 user personas, profiling 
+[[persona-archetypes|15 archetypes]] with a focus on mindset, motivation, and 
+behavioral patterns. 
 
-These are dynamic personas that evolve rapidly. Hence collaboration and reader engagement can 
-keep these personas accurate, relevant, and alive. Explore [[contributions|how to contribute 
-to this project]] and shape the next iteration of Web3 user understanding.
+It helps builders design user-centric infrastructure and dApps with the right feature 
+priorities and user experience across the stack. These personas are not static.  To keep
+pace with Web3’s rapid evolution, our goal is to keep them current and adapt quickly with
+the help of community contributions and insights. 
 
-Learn more... | [[about|About]] | [[audience|Audience]] | [[insights|Key Insights]] |
+We encourage community collaboration to refine and expand these Web3 user personas and
+ensure long-term relevance. See [[contributions|how to contribute 
+to this project]] and build relevant products and offerings that bring the masses on to Web3.
 
-## Tooling 
+## Anatomy
 
-This [documentation](https://github.com/shaloo/web3-user-personas) is built using the following tools:
+Web3 user personas are unique and very different from those in Web2.
+Before you jump into the Web3 persona details, let us take a quick look at
+how they differ from those in Web2.
 
-* [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
-* [GitHub](https://github.com/shaloo/web3-user-personas)
-* [Mylens](https://mylens.ai)
+<div class="grid cards" markdown>
 
+- :material-vector-difference: **Web3 vs. Web2**
+
+      ---
+
+      Web3 personas traits are different largely due to how Web3 operates:
+
+      * [[web2-vs-web3#data-ownership|Data ownership]]
+      * [[web2-vs-web3#identity|User Identity]]
+      * [[web2-vs-web3#economics|Economics]]
+      * [[web2-vs-web3#interactions|User Interactions]]
+      * [[web2-vs-web3#privacy-transparency-trust|Privacy, Transparency, Trust]]
+
+  </div>
+
+## Web3 Archetypes
+
+The Web3 archetypes are defined using three core criteria:
+
+* their primary domain of Web3 usage
+* the role they play in the ecosystem
+* the complexity and depth of their interaction and experience
+
+There are five primary Web3 persona archetypes:
+
+- Traders
+- Fun & Entertainment Lovers
+- Builders
+- Governance Figure
+- Newcomers
+
+The primary archetypes are further divided into sub-types based on key Web3 user traits:
+
+* behavioral characteristics
+* mindset
+* motivation
+* needs
+* technology affinity
+
+### Persona Sub-types
+
+- **Traders:** [[1-defi-degen|DeFi Degen]], [[3-crypto-analyst|Crypto Trader]], [[10-inst-investor|Institutional Investor]], [[4-long-term-investor|Long-term Investor]]
+- **Fun & Entertainment Lovers:** [[7-gaming-enthusiast|Gaming Enthusiast]], [[2-nft-collector|NFT Collector]], [[11-meme-participant|Meme Culturist]]
+- **Builders:** [[5-web3-dev|Developer]], [[13-ai-crypto-wiz|AI+Crypto Dev]], [[6-web3-influencer|Crypto Influencer]]
+- **Governance Figure:**: [[12-anon-advocate|Anonymity Advocate]], [[15-sustain-adv|Sustainability Steward]], [[14-regulation-nav|Regulation Navigator]], [[8-dao-contributor|DAO Participant]]
+- **Newcomers:** [[9-tenderfoot-explorer|Tenderfoot Explorer]]
+
+## Personas -> Product Decisions
+
+This study analyzes every Web3 persona through a structured template covering behavior, characteristics, mindset, motivations, and needs. It also outlines a high-level action plan based on these insights. Use this as a foundation to build your own target persona profile and drive more effective product design, feature prioritization, and messaging for each audience segment.
+
+To make the insights engaging and memorable, every persona is paired with a Tarot card and a rhyming identity that captures their mindset, motivations, and behavior. Designers gain an intuitive visual mental model, communicators can align narratives with user psychology, and builders can identify the right tech stack and feature priorities — supported by cues and fun facts that make it easy to stay aligned with who they are building for.
+
+Learn more... | [[about|About]] | [[audience|Audience]] | [[insights|Insights]] |
+
+## Shout Out
+
+This [documentation](https://github.com/shaloo/web3-user-personas) is powered by open source tooling:
+
+| [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) | [GitHub](https://github.com/shaloo/web3-user-personas) | [Mylens](https://mylens.ai) | [Netlify](https://www.netlify.com) |
+
+If these insights are relevant to your project, do give a shout out on [Twitter](https://x.com/home) and reach out for the stars at [GitHub](https://github.com/shaloo/web3-user-personas).
+
+*Thank you*

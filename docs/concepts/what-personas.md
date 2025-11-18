@@ -36,14 +36,17 @@ of user behavior on a product’s viability.
 
 ## Limitations
 
-Knowing users is important but don't design a product or design documentation with the gut.
+Knowing users is important for effective engagement. Limiting Web3 persona to on-chain
+behavior, anecdotal data or gut-based insights can ruin product/solution acceptance 
+chances in the real world.
+
 Cognitive biases and conjunctive fallacies can ruin decision making.
 
 The personas can help us to really think about the problems and needs of various groups of users.
-However we need to be extra careful that we don’t get caught up in who we may hink these personas 
+However we need to be extra careful that we don’t get caught up in who we may think these personas 
 actually represent.
 
-*Note that  a persona is not a real person.*
+*Note that a persona is not a real person.*
 
 Make sure, you hypothesize but then test the hypothesis. Examine the actual numbers of real users
 who would be impacted by a particular product feature or navigational tweak in the documentation

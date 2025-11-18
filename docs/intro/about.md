@@ -4,22 +4,18 @@ title: 'About'
 description: 'Backgrounder and Benefits, about the Web3 User Personas Project.'
 ---
 
-# About
-
-The [[persona-archetypes|Web3 Personas]] project aims to spark conversations that put user empathy at 
-the center and help accelerate mass adoption. It redirects builders to deeply 
-understand the specific target personas their offerings are designed for. 
-
-It enables building Web3 solutions with clarity, intent, and real user alignment.
-
-## Mission
-
 {==
 
 *Enable builders to create products that resonate with target audiences
 and improve user onboarding experiences.*
 
 ==}
+
+The [[persona-archetypes|Web3 Personas]] project aims to spark conversations that put user empathy at 
+the center and help accelerate mass adoption. It redirects builders to deeply 
+understand the specific target personas their offerings are designed for. 
+
+It enables building Web3 solutions with clarity, intent, and real user alignment.
 
 ## Cornerstone
 
@@ -63,7 +59,7 @@ those users are evolving toward, then the landscape could look very different.
 This project highlights why deeply understanding Web3 user personas is 
 critical for building products that truly resonate with the users they are meant to serve.
 
-## Growth
+## Driving Growth
 
 User empathy plays a crucial role in enhancing product onboarding ease. A fast and seamless
 onboarding process fosters trust, while staying aligned with user behavior and needs ensures 

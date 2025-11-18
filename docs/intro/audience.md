@@ -8,7 +8,7 @@ description: 'The target audience of the Web3 User Personas Project.'
 
 Are you building the future of decentralized tech?
 
-**Great**
+**Great.**
 
 *Web3 Builders & Designers*, you are the target audience for this project.
 

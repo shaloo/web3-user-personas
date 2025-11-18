@@ -4,13 +4,14 @@ title: 'Key Insights'
 description: 'Key insights from Web3 User Personas Project and how can these help.'
 ---
 
-# Key Insights
+# Insights
 
 Web3 product builders make decisions every day. The fast-paced Web3
-landscape requires constant product evolution. New emerging blue-sky territories
+landscape needs constant product evolution. New emerging blue-sky territories
 demand ongoing product adaptation.
 
-For such environments, this Web3 user personas study delivers actionable insights.
+This Web3 user personas study delivers actionable insights in such fast paced
+environments where new solutions emerge and disappear rapidly.
 
 It also helps product designers and builders develop a deep understanding of
 user needs, behaviors, and motivations. These insights can guide the product

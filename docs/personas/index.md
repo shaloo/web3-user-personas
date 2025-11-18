@@ -1,9 +1,10 @@
 ---
 alias: persona-archetypes
-title: 'Web3 User Personas'
+title: 'Personas'
 description: 'The archetypes for Web3 User Personas.'
 ---
-# Web3 User Personas
+
+# Personas
 
 Let us begin the deep dive into Web3 Personas.
 
@@ -14,71 +15,28 @@ Web3 moves fast.
 This persona snapshot reflects Q4 2025 behaviors and drivers. Do brace for
 shifts and stay tuned to the latest trends as new personas and behaviors emerge.
 
-## Overview
-
-Web3 user personas are unique and very different from those in Web2.
-Before you jump into each persona details, let us take a quick look at
-how these personas differ from those in Web2.
-
-<div class="grid cards" markdown>
-
--   :material-vector-difference: __Web3 vs. Web3__
-
-    ---
-
-    Web3 personas traits are different largely due to how Web3 operates:
-
-    * [[web2-vs-web3#data-ownership|Data ownership]]
-    * [[web2-vs-web3#identity|User Identity]]
-    * [[web2-vs-web3#economics|Economics]]
-    * [[web2-vs-web3#interactions|User Interactions]]
-    * [[web2-vs-web3#privacy-transparency-trust|Privacy, Transparency, Trust]]
-
--   :material-vector-difference: __Web3 Archetypes__
-
-    ---
-
-    There are five primary Web3 persona archetypes:
-
-    - Traders
-    - Fun & Entertainment Lovers
-    - Builders
-    - Governance Figure
-    - Newcomers
-
-    Each archetype branches into sub-personas.
-    Secondary types are shaped by behavior, mindset, motivations, and needs.
-
-    * **Traders:** DeFi Degen, Analyst, Institutional Investor, Long-term Investor
-    * **Fun & Entertainment Lovers:** Gaming Actor, NFT Collector, Meme-culture Participant
-    * **Builders:** Developer, AI+Crypto Devs, Crypto Infuencers
-    * **Governance Figure:**: Anonymity Advocate, Sustainability Enthusiast, Regulation Navigator, DAO Participant
-    * **Newcomers:** Tenderfoot Explorer
-
-</div>
-
 Click on each persona in the table below to view details and insights on how to target each persona.
 Note that your target persona may be a combination of one or more archetypes.
 
 ## Persona Types
 
-| Primary | Secondary | Example | Tarot |
+| Primary Type | Sub-type | Persona Name | Tarot |
 | :--- | :--- | :--- | :--- |
-| Traders      | DeFi Degen | [Crypto Carl](./persona-1-de-fi-degen.md){ .md-button } | The Fool |
-|              | Analyst | [Trader Joe](./persona-3-crypto-trader.md){ .md-button }   | The Magician |
-|              | Institutional Investor | [Token Tim](./persona-10-institutional-investor.md){ .md-button }  | The Emperor |
-|              | Long-term Investor | [HODL Harold](./persona-4-hodler.md){ .md-button }  | The Hermit |
-| Fun & Entertainment Lovers      | Gaming Actor | [Metaverse Mia](./persona-7-gaming-enthusiast.md){ .md-button }  | The World |
-|              | NFT Collector | [Flipper Finn](./persona-2-nft-collector.md){ .md-button }   | The Empress |
-|              | Meme Culturist| [Meme Mervin](./persona-11-meme-participant.md){ .md-button }   | The Moon |
-| Builders     | Developer | [BUIDLer Ben](./persona-5-web3-builder.md){ .md-button }  | The Star |
-|              | AI + Crypto Wiz | [Shakey Asimotoshi](./persona-13-ai-crypto-user.md){ .md-button }  | Wheel of Fortune |
-|              | Crypto Influencer | [Content Conan](./persona-6-influencer.md){ .md-button }   | The Sun |
-| Governance Figure  | Anonymity Advocate | [Privacy Paul](./persona-12-privacy-advocate.md){ .md-button }   | The High Priestess |
-|              | Sustainability Steward | [Sustainer Suzy](./persona-15-sustainability-advocate.md){ .md-button } | ddd |
-|              | Regulation Navigator | [Governance Gabe](./persona-14-regulation-navigator.md){ .md-button }   | Temperance |
-|              | DAO Participant | [DAO Dave](./persona-8-dao-contributor.md){ .md-button }   | Justice |
-| Newcomers    | Tenderfoot Explorer | [Curious Columbus](./persona-9-newcomer.md){ .md-button }  | The Hanged Man |
+| Traders      | DeFi Degen | [[1-defi-degen|Crypto Carl]]{ .md-button } | The Fool |
+|              | Analyst | [[3-crypto-analyst|Trader Joe]]{ .md-button }   | The Magician |
+|              | Institutional Investor | [[10-inst-investor|Token Tim]]{ .md-button }  | The Emperor |
+|              | Long-term Investor | [[4-long-term-investor|HODL Harold]]{ .md-button }  | The Hermit |
+| Fun & Entertainment Lovers      | Gaming Actor | [[7-gaming-enthusiast|Metaverse Mia]]{ .md-button }  | The World |
+|              | NFT Collector | [[2-nft-collector|Flipper Finn]]{ .md-button }   | The Empress |
+|              | Meme Culturist| [[11-meme-participant|Meme Mervin]]{ .md-button }   | The Moon |
+| Builders     | Developer | [[5-web3-dev|BUIDLer Ben]]{ .md-button }  | The Star |
+|              | AI + Crypto Wiz | [[13-ai-crypto-wiz|Shakey Asimotoshi]]{ .md-button }  | Wheel of Fortune |
+|              | Crypto Influencer | [[6-web3-influencer|Content Conan]]{ .md-button }   | The Sun |
+| Governance Figure  | Anonymity Advocate | [[12-anon-advocate|Privacy Paul]]{ .md-button }   | The High Priestess |
+|              | Sustainability Steward | [[15-sustain-adv|Sustainer Suzy]]{ .md-button } | ddd |
+|              | Regulation Navigator | [[14-regulation-nav|Governance Gabe]]{ .md-button }   | Temperance |
+|              | DAO Participant | [[8-dao-contributor|DAO Dave]]{ .md-button }   | Justice |
+| Newcomers    | Tenderfoot Explorer | [[9-tenderfoot-explorer|Curious Columbus]]{ .md-button }  | The Hanged Man |
 
 ## Persona Template
 

@@ -1,10 +1,15 @@
+---
+alias: index
+title: 'Web3 User Personas'
+description: 'Project landing page with an overview of the study, key insights and purpose.'
+---
 # Web3 User Personas
 
 *Welcome.*
 
-The [Web3 User Personas](personas/index.md) project is a comprehensive research
-and documentation effort. It maps the people driving today’s rapidly evolving
-Web3 ecosystem. It also tracks the transition toward [Web4](https://www.blockchain-council.org/ai/web4/).
+The [[persona-archetypes|Web3 User Personas]] project is a comprehensive research
+and documentation effort to map the people driving today’s rapidly evolving
+Web3 ecosystem and its transition towards [Web4](https://www.blockchain-council.org/ai/web4/).
 
 ## TL;DR
 
@@ -23,7 +28,7 @@ intelligently for the Web3 ecosystem of tomorrow.
 
 **To drive meaningful engagement**, you must understand and stay aligned 
 with the evolving nuances of Web3 user personas. In reality, a user’s
-behavior may blend traits from multiple persona types featured here. 
+behavior may blend traits from [[persona-archetypes#persona-types|many persona types featured here]]. 
 
 Use these [[persona-archetypes#persona-template|persona templates]] as a baseline to craft your own target 
 personas and refine your Web3 product strategy around real user 

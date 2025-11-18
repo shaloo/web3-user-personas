@@ -35,14 +35,11 @@ theme:
     repo: fontawesome/brands/github
 
 nav:
-  - Home: 
+  - Home:
     - index.md
-    - About: intro/about.md
-    - Audience: intro/audience.md
-    - Insights: intro/insights.md
-    - Get Involved: intro/contribution.md
+    - Introduction: intro/introduction.md
   - Personas:
-    - Overview: personas/index.md
+    - index.md
     - DeFi Degen: personas/persona-1-de-fi-degen.md
     - NFT Collector: personas/persona-2-nft-collector.md
     - Crypto Analyst: personas/persona-3-crypto-trader.md
@@ -62,6 +59,11 @@ nav:
     - Personas: concepts/what-personas.md
     - Why Personas: concepts/why-personas.md
     - Web2 vs. Web3: concepts/web2-vs-web3.md
+  - About: 
+    - About: intro/about.md
+    - Audience: intro/audience.md
+    - Insights: intro/insights.md
+    - Get Involved: intro/contribution.md
   - References: references.md
 
 markdown_extensions:

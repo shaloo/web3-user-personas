@@ -93,7 +93,7 @@ and needs, not assumptions or anecdotal insights.
 ## Why Web3 Personas?
 
 User personas are essential for validating product–market fit and aligning value
-propositions, product features, and marketing.In Web3, they become even more critical 
+propositions, product features, and marketing. In Web3, they become even more critical 
 because they guide high-stakes product design and implementation decisions across UX, 
 DX, and CX. 
 
@@ -107,7 +107,7 @@ This study offers a _Tarot-inspired_ perspective on Web3 user personas, profilin
 behavioral patterns. 
 
 It helps builders design user-centric infrastructure and dApps with the right feature 
-priorities and user experience across the stack. These personas are not static.  To keep
+priorities and user experience across the stack. These personas are not static. To keep
 pace with Web3’s rapid evolution, our goal is to keep them current and adapt quickly with
 the help of community contributions and insights. 
 
@@ -139,13 +139,13 @@ how they differ from those in Web2.
 
 ## Web3 Archetypes
 
-The Web3 archetypes are defined using three core criteria:
+As part of this research, we define Web3 archetypes using three core criteria:
 
-* their primary domain of Web3 usage
-* the role they play in the ecosystem
-* the complexity and depth of their interaction and experience
+* Primary domain of Web3 usage
+* Role they play in the ecosystem
+* Interaction complexity and experience level
 
-There are five primary Web3 persona archetypes:
+Based on these criteria, Web3 user personas fall into five primary archetypes:
 
 - Traders
 - Fun & Entertainment Lovers
@@ -173,7 +173,7 @@ The primary archetypes are further divided into sub-types based on key Web3 user
 
 This study analyzes every Web3 persona through a structured template covering behavior, characteristics, mindset, motivations, and needs. It also outlines a high-level action plan based on these insights. Use this as a foundation to build your own target persona profile and drive more effective product design, feature prioritization, and messaging for each audience segment.
 
-To make the insights engaging and memorable, every persona is paired with a Tarot card and a rhyming identity that captures their mindset, motivations, and behavior. Designers gain an intuitive visual mental model, communicators can align narratives with user psychology, and builders can identify the right tech stack and feature priorities — supported by cues and fun facts that make it easy to stay aligned with who they are building for.
+To make the insights engaging and memorable, every persona is paired with a Tarot card and a rhyming identity that captures their mindset, motivations, and behavior. Designers gain an intuitive visual mental model, communicators can align narratives with user psychology, and builders can identify the right tech stack and feature priorities supported by cues and fun facts that helps to stay aligned with who they are building for.
 
 Learn more... | [[about|About]] | [[audience|Audience]] | [[insights|Insights]] |
 

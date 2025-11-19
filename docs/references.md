@@ -33,7 +33,7 @@
 31. Why 83% [institutional investors](https://finchtrade.com/blog/why-institutional-investors-are-turning-to-digital-assets) are turning to digital assets?
 32. Institutional Investor Digital Assets Study, [Key Findings](https://www.fidelitydigitalassets.com/sites/g/files/djuvja3256/files/acquiadam/June%202024%20Institutional%20Investors%20Digital%20Asset%20Survey%20-%20Key%20Findings%20%2805.29%29.pdf)
 33. [Understanding the rise of memecoins](https://public.bnbstatic.com/static/files/research/understanding-the-rise-of-memecoins.pdf)
-34. [Wired / Chainanalysis report on Token Scams 2024](https://www.wired.com/story/new-crypto-token-scams-2022/)
+34. [Wired / Chainalysis report on Token Scams 2024](https://www.wired.com/story/new-crypto-token-scams-2022/)
 35. [LBank Labs 2025 Memecoin Report](https://nftplazas.com/exchange/lbank-review/), [2024 Report](https://lbanklabs.medium.com/lbank-labs-2024-memecoins-report-from-controversial-narrative-to-a-100b-market-a3a30d49ce50)
 36. [Chainalysis: Web3 perception and trends around the world](https://consensys.io/insight-report/web3-and-crypto-global-survey)
 37. Consensys [Web3 adoption survey 2024](https://consensys.io/insight-report/web3-and-crypto-global-survey)

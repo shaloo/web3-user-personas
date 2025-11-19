@@ -15,12 +15,12 @@ description: 'All about Web3 Influencer Persona and how to target them'
 
     The Gaming/Metaverse Enthusiast, the *GameFi player*, focuses on play-to-earn games, participates in NFT economy and virtual world. 
 
-    - *Leads Gaming Economices:* Blends escapism with pragmatism, viewing games as economies amid volatility, heavily engaged in guilds and community coordination, seeks both fun and financial rewards
+    - *Leads Gaming Economics:* Blends escapism with pragmatism, viewing games as economies amid volatility, heavily engaged in guilds and community coordination, seeks both fun and financial rewards
     - *Enjoys Empowerment and Ownership:* Trades NFTs for sovereignty, controls assets, prioritizes ownership over temporary gains
     - *Prefers Security:* Hangs on around audited games, stable infrastructure, good governance that maintains and secures player reputation
     - *Takes Risks Pragmatically:* Balances fun with earning
     - *Customizes Avatars for Immersive Self-Expression:* Views avatars as an extension of identity
-    - *Skepticizes Sustainability:* Demands balanced tokenomics over hype
+    - *Sustainability Skeptic:* Demands balanced tokenomics over hype
 
 - ## Characteristics
 
@@ -52,7 +52,7 @@ description: 'All about Web3 Influencer Persona and how to target them'
 - ## Primary Platforms
 
     - Discord gaming servers
-    - Metaverse platforms (e.g., [Decentraland](https://decentraland.org/))
+    - Metaverse platforms (for example, [Decentraland](https://decentraland.org/))
     - NFT marketplaces
 
 - ## Tech Affinity
@@ -78,7 +78,7 @@ description: 'All about Web3 Influencer Persona and how to target them'
     * Community and social orientation aware, guilds, virtual events encourage sustained involvement
     * Desire ownership with meaning, Avatars, NFTs, tokens hold meaning to them and they care about owning such assets and having control over them via trading
     * Like sustainability and longevity, prefer games that combine fun with utility
-    * Explorativen and novelty seeking mindset, open to virtual worlds, avatars, metaverse experiences; exploring new genres; trying hybrid models; being early adopters
+    * Exploratory and novelty seeking mindset, open to virtual worlds, avatars, metaverse experiences; exploring new genres; trying hybrid models; being early adopters
 
 -   :material-brain: __Gaming Enthusiast Motivation__
 
@@ -110,9 +110,9 @@ description: 'All about Web3 Influencer Persona and how to target them'
 ## Action Plan
 
 * **Research & Refine:** Do your own research. Use this template to guide your design, documentation and product feature decisions. The lack of formal UX research reports in Web3 is a testament that this is an underexplored area where original research could provide significant competitive advantage.
-* **Design Philosophy:** Fun and immersive graphic experiences, avatar customization, responsive and low latency for gameplay, especially for mobile / browser play in emerging markets. Flexible monetization paths tha enable players that just want to play, and also those that want to earn as well. Offering multiple modes (free-to-play + play-to-earn + hybrid). Guild dashboards and cross-platform interoperability.
+* **Design Philosophy:** Fun and immersive graphic experiences, avatar customization, responsive and low latency for gameplay, especially for mobile / browser play in emerging markets. Flexible monetization paths that enable players that just want to play, and also those that want to earn as well. Offering multiple modes (free-to-play + play-to-earn + hybrid). Guild dashboards and cross-platform interoperability.
 * **Communication Style:** Engage using all community and guild channels. Leverage case stories highlighting players in similar geographies, contexts that are enjoying and gaining assets, build trust with transparency in tokenomics, publish reward breakdowns, inflation control, real player data, competitions, tournaments to engage exploratory and competitive mindset, consider regional economics and localization to reach target audience.
-* **Product Features:** Robust tokenomics engine that provides sinks, burn mechanisms, dual tokens if needed, inflation control. Provide player leader boards and asset portfolio tracker, analytics, transparent game statistics, value of assets, risk metrics, social and community engagement and status display features, customizability, safety and governance transparency, audited smart contracts, clear game rules, cheating mitigation strategies. Interoperabiilty and cross-interactions with metaverse and other gaming assets is a big plus. Local regulation, taxes, crypto access are important considerations for feature prioritization. Mechanisms to lock in loyalty sustains interest longer term. Game genre matters: RPGs, virtual world/social metaverse games appear to be preferred for deeper engagement & asset collecting. Action / casual P2E has audience but lower retention.
+* **Product Features:** Robust tokenomics engine that provides sinks, burn mechanisms, dual tokens if needed, inflation control. Provide player leader boards and asset portfolio tracker, analytics, transparent game statistics, value of assets, risk metrics, social and community engagement and status display features, customizability, safety and governance transparency, audited smart contracts, clear game rules, cheating mitigation strategies. Interoperability and cross-interactions with metaverse and other gaming assets is a big plus. Local regulation, taxes, crypto access are important considerations for feature prioritization. Mechanisms to lock in loyalty sustains interest longer term. Game genre matters: RPGs, virtual world/social metaverse games appear to be preferred for deeper engagement & asset collecting. Action / casual P2E has audience but lower retention.
  
 ## See Also
 

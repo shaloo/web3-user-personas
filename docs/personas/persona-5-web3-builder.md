@@ -126,7 +126,7 @@ description: 'All about Web3 Dev Persona and how to target them'
     * Prefer long-term vision over short-term tactics when evaluating protocols and solutions
     * Quality over quantity approach
     * Robust, scalable solution preference than flashy features
-    * Adaptablility to technical evolution and market uncertainty
+    * Adaptability to technical evolution and market uncertainty
     * Multi-ecosystem thinking
     * Global collaboration, innovation first, open-source mindset
 
@@ -162,7 +162,7 @@ description: 'All about Web3 Dev Persona and how to target them'
 ## Action Plan
 
 * **Research & Refine:** Do your own research. Use this template to guide your design, documentation and product feature decisions. The lack of formal UX research reports in Web3 is a testament that this is an underexplored area where original research could provide significant competitive advantage.
-* **Design Philosophy:** DX first approach with clean APIs, comprehensive documentation, sample code and intuitive tooling, focus on stablility and efficiency than flashy features, start simple and allow advanced customization, design for interoperability from ground up with multi-chain native interfaces.
+* **Design Philosophy:** DX first approach with clean APIs, comprehensive documentation, sample code and intuitive tooling, focus on stability and efficiency than flashy features, start with the basics and allow advanced customization, design for interoperability from ground up with multi-chain native interfaces.
 * **Communication Style:** Prioritize non-US geographies where blockchain development is surging, address cross-chain development needs, emphasize practical real world problem solving over speculation, target the 70% of 2+ year experienced developers, engage with technical tutorials and hands on resources, workshops, emphasize professional growth than quick financial gains, leverage developer communities and word-of-mouth recommendations.
 * **Product Features:** Ensure comprehensive SDKs and APIs with excellent documentation, learning pathways, testing and development tooling, flexibility in integration, monitoring and optimization features that cater to global developer communities, ease of collaboration across geographies.
 

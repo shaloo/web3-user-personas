@@ -13,7 +13,7 @@ Are you building the future of decentralized tech?
 *Web3 Builders & Designers*, you are the target audience for this project.
 
 Use this research to zoom in, sharpen your focus, and ship features that matter. 
-[Web3 Personas](../personas/index.md) is a deep dive into real users — what drives them,
+[Web3 Personas](../personas/index.md) is a deep dive into real users, what drives them,
 how they behave, and what keeps them engaged.
 
 Gain clarity on:

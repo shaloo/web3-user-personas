@@ -52,7 +52,7 @@ customer loyalty, and growth in a competitive ecosystem.
 ## Drive Better Decisions
 
 The Web3 User Personas research can help you in prioritizing product features.
-For example, streamline features for simpler onboarding or stronger security.
+For example, streamline features for faster onboarding or stronger security.
 Align marketing with user preferences to boost engagement.
 
 Insights also track evolving trends, keeping products competitive. They provide a clear
@@ -77,7 +77,7 @@ framework for decision-making. This focus on users fosters adoption, retention, 
 * **Segment users:** Personas categorize users into distinct groups, such as developers,
   investors, or casual users. Each group has unique goals. Insights from segmentation
   help tailor marketing messages. For example, developers might respond to technical
-  whitepapers, while casual users prefer simple explainer videos. Some prefer long‑form
+  whitepapers, while casual users prefer short explainer videos. Some prefer long‑form
   content. Others prefer short posts that link to articles or tutorial videos.
 
 * **Guide product evolution:** The Web3 landscape changes fast. Persona insights

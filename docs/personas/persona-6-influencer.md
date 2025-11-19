@@ -16,7 +16,7 @@ description: 'All about Web3 Influencer Persona and how to target them'
     The Crypto/Web3 influencers are key opinion leaders shaping market sentiment, project adoption, and community narratives.
 
     - Motivated by a mix of financial rewards, reputation growth, and early access to “alpha”
-    - Challenged by fake followership, credibility and censorship risks, platform dependence, and content workload
+    - Challenged by fake followers, credibility and censorship risks, platform dependence, and content workload
     - Prefer technologies that offer cross-platform tools, analytics, monetization options, and reputation management
     - Use tools that help balance short-term traction with sustainable credibility to beat hype-based content decay
     - Micro-influencers (smaller but deeply engaged audiences) often have higher engagement and higher credibility
@@ -126,7 +126,7 @@ description: 'All about Web3 Influencer Persona and how to target them'
 * **Research & Refine:** Do your own research. Use this template to guide your design, documentation and product feature decisions. The lack of formal UX research reports in Web3 is a testament that this is an underexplored area where original research could provide significant competitive advantage.
 * **Design Philosophy:** Clean, mobile first, on-the-go content creation options, frictionless UX, transparency showing sponsorship status, analytics showing reach / authenticity; detection of fake followers.
 * **Communication Style:** Multi-platform communication to reach influencers, educational content, case studies showing influencers using the product, transparency related to monetization, sponsorship, messaging that emphasizes early access exclusive features, ability to shape community, be first, highlight control, creativity and authenticity.
-* **Product Features:** On-chain reputation badges, content optimizer (AI-enabled) and contnet scheduler, ability to cross-post, audience authenticity verification, sentiment and trend alerts, community integrations (Discord, Telegram), ROI effectiveness metrics, monetization tools such as NFT gating, affiliate links, privacy and compliance aids (disclosure automation) to reduce regulatory risk, decentralized backup and recovery against censorship.
+* **Product Features:** On-chain reputation badges, content optimizer (AI-enabled) and content scheduler, ability to cross-post, audience authenticity verification, sentiment and trend alerts, community integrations (Discord, Telegram), ROI effectiveness metrics, monetization tools such as NFT gating, affiliate links, privacy and compliance aids (disclosure automation) to reduce regulatory risk, decentralized backup and recovery against censorship.
 
 ## See Also
 

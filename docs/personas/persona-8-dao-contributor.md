@@ -36,7 +36,7 @@ description: 'All about DAO Contributor Persona and how to target them'
     - Advocates for protocol improvements
     - Seeks delegation to deal with the information overload due to higher number of proposals than governance contributors
     - Deals with cross-DAO coordination, tracking proposals and voting, DAO operations
-    - Behavior shaped by design and tooling; engagement and decision quality is affected by the availability of elegation systems, voting interface complexity, reputation systems, proposal clarity
+    - Behavior shaped by design and tooling; engagement and decision quality is affected by the availability of delegation systems, voting interface complexity, reputation systems, proposal clarity
 
 - ## Pain Points
 
@@ -85,7 +85,7 @@ description: 'All about DAO Contributor Persona and how to target them'
     * *Autonomy & Ownership:* Prefer non-custodial wallets, exercise ownership and autonomy with self-sovereignty and control over their digital assets
     * *Skin + Stewardship Mindset:*View themselves as part of a collective, chase success via collective effort, manage a delicate balance of balance personal token/incentive interests with longer-term stewardship of protocol value (treasury health, community growth)
     * *Deeply Technical:* Tech savvy individual who wants to build and improve the systems they are a part of 
-    * *Explorative:* Open to experimenting better governance, risk aware, security-focused, reputation oriented and care about accountability
+    * *Eager to Explore:* Open to experimenting better governance, risk aware, security-focused, reputation oriented and care about accountability
 
 -   :material-brain: __DAO Contributor Motivation__
 
@@ -106,9 +106,9 @@ description: 'All about DAO Contributor Persona and how to target them'
 
     * *Digital Ownership & Self-Sovereignty:* Use of non-custodial wallets that give users complete control over their assets and data
     * *Usability:*  Increasingly demand a better user experience that addresses complex governance, time and gas optimization (batched transactions, Layer 2 integration, gasless voting options) needs, reduce onboarding and daily task friction, mobile-first access and multi-chain compatibility
-    * *Transparency:* Prefer products built on open-source code, with all relevant actions recorded on a public blockchain; aligns with the desire to verify everything and not rely on a central authority, live tracking of DAO assets and expenditures, historical governanance data availability, member participation rates and contribution metrics, verifiable smart contract implementations
+    * *Transparency:* Prefer products built on open-source code, with all relevant actions recorded on a public blockchain; aligns with the desire to verify everything and not rely on a central authority, live tracking of DAO assets and expenditures, historical governance data availability, member participation rates and contribution metrics, verifiable smart contract implementations
     * *Community:* Structured discussion forums and processes for proposal refinement, timely alerts for voting deadlines and important announcements, integration with community engagement and communication tooling, onboarding material for new participants
-    * *Security:* Secure DAO funds management via multi-sig wallets, complete transaction and decision logging trails, anti-manipulation and resitance to [whales and collusion issues](https://www.frontiersin.org/journals/blockchain/articles/10.3389/fbloc.2024.1405516/full), ability to respond to critical decision making and take actions, legal wrappers (hybrid) for DAOs, hack-resistant smart contracts 
+    * *Security:* Secure DAO funds management via multi-sig wallets, complete transaction and decision logging trails, anti-manipulation and resistance to [whales and collusion issues](https://www.frontiersin.org/journals/blockchain/articles/10.3389/fbloc.2024.1405516/full), ability to respond to critical decision making and take actions, legal wrappers (hybrid) for DAOs, hack-resistant smart contracts 
     * *UX Spectrum:* Cater to savvy DAO participants as well as the new DAO participants with low-friction but fast voting interfaces, comprehensive proposal details that facilitate clear impact analysis with technical depth, and financial implications
 
 </div>
@@ -116,9 +116,9 @@ description: 'All about DAO Contributor Persona and how to target them'
 ## Action Plan
 
 * **Research & Refine:** Do your own research. Use this template to guide your design, documentation and product feature decisions. The lack of formal UX research reports in Web3 is a testament that this is an underexplored area where original research could provide significant competitive advantage.
-* **Design Philosophy:** Minimal cognitive load, succint decision aids, progressive disclosure, show tl;dr, then allow drilling into the details, trust by design, display multi-sig signers, treasury balances, past execution outcomes, and delegate track records upfront, link forum/Discord threads to proposal drafts and vote pages; reduce copy/paste and fragmentation, target speed and efficiency in design, quick proposal review and voting flows, mobile responsive UI, easy integration with Open DAO APIs, systems to acknowledge valuable contributions, fair and transparent conflict resolution workflows, accessible to both technical and non-technical voting participants.
+* **Design Philosophy:** Minimal cognitive load, succinct decision aids, progressive disclosure, show tl;dr, then allow drilling into the details, trust by design, display multi-sig signers, treasury balances, past execution outcomes, and delegate track records upfront, link forum/Discord threads to proposal drafts and vote pages; reduce copy/paste and fragmentation, target speed and efficiency in design, quick proposal review and voting flows, mobile responsive UI, quick integration with Open DAO APIs, systems to acknowledge valuable contributions, fair and transparent conflict resolution workflows, accessible to both technical and non-technical voting participants.
 * **Communication Style:** Trust matters, use active engagement via governance specific channels (Discord, Telegram, governance forums), enable long form proposal discussions and analysis, real-time updates on community sentiment to guide voting and reduce apathy, reach out via specialized newsletters (The Defiant, Bankless), emphasise community impact in messaging and highlight growth avenues, share open communication with trade-offs and limitations to engage transparency mindset, use data driven, concise and outcome driven messaging without raw data information overload, share relevant summaries, metrics and provide links to details and sources, consistent communication about community development with regular community feedback integration details, communicate via well known community guilds and delegates, their endorsement increases vote traction, focus on educational content for builders to enable customization and API integration
-* **Product Features:** Built-in analytics, cross-chain compatibility, reputation based incentives, flexible and delegation-based voting mechanisms, proposal lifecycle management, integrated treasury and communications management, unified interface for managing multiple DAO participation, reputation systems integration, automation for workflow execution, proposal builder, review, template and checklist tools, identity and Sybil, governance attack mitigations, feature that provide participation nudges (reminders, explainers, community intel to aid voting).
+* **Product Features:** Built-in analytics, cross-chain compatibility, reputation based incentives, flexible and delegation-based voting mechanisms, proposal lifecycle management, integrated treasury and communications management, unified interface for managing multiple DAO participation, reputation systems integration, automation for workflow execution, proposal builder, review, template and checklist tools, identity and Sybil, governance attack mitigations, feature that provide participation nudges (reminders, explainers, community intelligence to aid voting).
 
 ## See Also
 

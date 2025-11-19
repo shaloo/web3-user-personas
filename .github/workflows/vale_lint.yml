@@ -7,11 +7,13 @@ on:
   # Triggers the workflow on push or pull request events on any branch
   pull_request:
   push:
-    branches: '*'
+    branches:
+    - '*'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch: 
-    branches: '*'
+    branches: 
+    - '*'
    
 
 jobs:

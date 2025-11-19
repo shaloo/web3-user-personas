@@ -6,7 +6,7 @@ description: 'Key differences between Web2 users and those in Web3'
 
 # Web2 vs. Web3
 
-Web3 user personas differ greatly from typical Web2 ones. Four key factors explain these differences:
+Web3 user personas differ from Web2 ones in the following respects:
 
 * Data ownership
 * User Identity

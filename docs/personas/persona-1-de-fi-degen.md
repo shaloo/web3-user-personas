@@ -1,7 +1,7 @@
 ---
 alias: 1-defi-degen
 title: 'DeFi Degen'
-description: 'All about Defi Degen Persona and how to target them.'
+description: 'All about DeFi Degen Persona and how to target them.'
 ---
 
 # 1. DeFi Degen: Crypto Carl

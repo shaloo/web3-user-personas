@@ -63,7 +63,7 @@ Key user behavior patterns when using any Web3 product or service. The behavior 
 
 ### Pain Points
 
-This section highlights the pain points that influence user's must-have requirements. Catering to these with priority helps align and prioritize product features and come up with a minimum sellable (not just viable) product early on.
+This section highlights the pain points that influence user's must-have requirements. Catering to these with priority helps align and prioritize product features and come up with a minimum saleable (not just viable) product early on.
 
 ### Engagement Hooks
 
@@ -76,7 +76,7 @@ Each Web3 persona hangs out on specific platforms and communities where they sha
 ### Tech Affinity
 
  The tech affinity section highlights the Web3 technologies, features, and solutions each persona cares about. Many are tech-savvy, so products should respect their time with clear know-how and smooth integrations.
-For newcomers or less tech-focused personas, prioritize education and guided onboarding — without overwhelming them — to help them achieve their real-world goals.
+For newcomers or less tech-focused personas, prioritize education and guided onboarding, without overwhelming them, to help them achieve their real-world goals.
 
 ### How to Target?
 
@@ -88,4 +88,4 @@ This section offers guidance on targeting each persona. Use these insights as a 
 
 ### See Also
 
-This section shares insights on how to target each persona. It is best to use these insights as add ons to your own research and come up with the right features, design approach, and communication style that align with their core tenets.
+This section shares insights on how to target each persona. It is best to use these insights as add on items to your own research and come up with the right features, design approach, and communication style that align with their core tenets.

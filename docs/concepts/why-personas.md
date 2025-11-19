@@ -26,9 +26,9 @@ Engineers often fall in love with solutions before understanding the user proble
 
 ### Gaining Traction
 
-Successful startups more often than not first invest time and resources
-to deeply understand users before jumpting into creating solutions.
-It is a necessary but not a sufficient predictor of a product's success.
+Successful startups invest time and resources to understand their users before
+they implement solutions. This discovery step is necessary, but it alone cannot
+guarantee a product's success.
 
 Staying aligned with users’ needs benefits product, design, marketing, and sales.
 It creates cross‑functional alignment that is crucial for success.
@@ -55,7 +55,7 @@ Web3 use cases:
 | Wallet Usage | Trust, Usability |
 | Investment Purpose | Social influence, Perceived usefulness and risk, Financial literacy |
 | Transferring Value | Security and risk perception, Performance and effort expectancy, Social influence |
-| Other Use cases | Trialability, Transparency, Cost efficiency | 
+| Other Use cases | Audit trails, Transparency, Cost efficiency | 
 
 ## User Persona Tenets
 
@@ -81,7 +81,7 @@ and impacts product success.
 
 A user's mindset refers to general attitude, assumptions, and beliefs 
 about oneself, others, and the world. These shape how a user thinks,
-feels, and behaves.  Mindset works as a mental filter or frame of 
+feels, and behaves. Mindset works as a mental filter or frame of 
 reference, influencing one's perceptions and choices. It can
 evolve over time depending upon user's motivation.
 

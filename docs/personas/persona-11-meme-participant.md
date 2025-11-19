@@ -20,7 +20,7 @@ description: 'All about Meme Culturist Persona and how to target them'
     - Seeks dopamine high in instant decisive small bets in hopes of asymmetric gains
     - Risk averse, does not go deeper into investment fundamentals but by social proof
     - Looks for protection against token scams through real-time fraud alerts
-    - Gives in to gamified UX, meme themes, community driven viral trends easily
+    - Gives in to gamified UX, meme themes, community driven viral trends
     - Fixates on "psychological illusion of token accessibility" with low prices, ignoring over 80% loss rates
 
 - ## Characteristics
@@ -68,7 +68,7 @@ description: 'All about Meme Culturist Persona and how to target them'
     - *Social Sentiment Analysis, Memetic Amplification Tools:* Example: LunarCrush, Santiment, CryptoMood. These tools enable quick discovery and community coordination for launches, memes and FOMO spread for shaping community behavior with aspirational early mover advantage. Integration with social bots for instant notifications, community coordination, viral content distribution. 
     - *Meme Creation & Sharing Tool Integration:* Integral to Meme culturist. Integrate with social channels as well as tools such as Imgflip, Canva, GIF tools, other popular meme generators.
     - *On-chain analytics & token-sniffers:* Quick sanity checks (tokenomics, owner wallets, liquidity locks). Tools that show liquidity lock status, contract ownership and [rug-pull risks](https://www.sciencedirect.com/science/article/pii/S2096720925000636) to mitigate scams. Real-time fraud detection ensures safety while allowing them to continue small investment but high-risk trading.
-    - *Low-friction Fiat on-ramp, custodial simple mobile wallets:* Enable quick onboarding, small bets from mainstream users, lowers barrier for entertainment and fun driven spends.
+    - *Low-friction Fiat on-ramp, custodial basic mobile wallets:* Enable quick onboarding, small bets from mainstream users, lowers barrier for entertainment and fun driven spends.
     - *Community Rewards, Gamified Engagement, Leaderboards:* Amplifies virality, encourages sharing, social proof, community incentive driven growth, desire for a dopamine reward loop similar to gambling.
 
 </div>
@@ -118,7 +118,7 @@ description: 'All about Meme Culturist Persona and how to target them'
 ## Action Plan
 
 * **Research & Refine:** Do your own research. Use this template to guide your design, documentation and product feature decisions. The lack of formal UX research reports in Web3 is a testament that this is an underexplored area where original research could provide significant competitive advantage.
-* **Design Philosophy:** Speed and delight first with meme-forward aesthetics. Lean towards playful, colorful, meme-inspired design elements. Meet instant gratification mindset with quick actions and instant visual feedback. Provide badges, visual rewards (like confetti for a major gain), gamified interfaces to signal achievements and sharing, easy screenshot sharing with built-in branding, easy use on mobile with one thumb navigation and single-handed use. For DX, allow community developers to easily build tools, bots, and analytics on top of the platform. Enable social integration, tools for meme creation, automation with trading bots, build real-time price notifications via webhooks. Focus on a welcoming design environment for newcomers to the community.
+* **Design Philosophy:** Speed and delight first with meme-forward aesthetics. Lean towards playful, colorful, meme-inspired design elements. Meet instant gratification mindset with quick actions and instant visual feedback. Provide badges, visual rewards (like confetti for a major gain), gamified interfaces to signal achievements and sharing, ability to share screenshots with built-in branding, quick usability on mobile with one thumb navigation and single-handed use. For DX, allow community developers to build tools, bots, and analytics on top of the platform. Enable social integration, tools for meme creation, automation with trading bots, build real-time price notifications via webhooks. Focus on a welcoming design environment for newcomers to the community.
 * **Communication Style:** Leverage primary social channels (Twitter, Discord, Telegram, TikTok, Reddit). Use memes as the predominant communication vehicle for the target audience. Tie in the product or service's value proposition directly to current viral internet and crypto trends. Frame the product as a tool or an enabler for the community, built by the community. This empowers the target audience against "whales" or "traditional finance," appealing to their rebellious mindset. Emphasize urgency and limited opportunities to appeal the FOMO mindset, highlight big wins for community members, feature key user generated content and stories, use cheeky, impudent tone that is humorous, anti-establishment and casual. Engage with frequent, viral community challenges and competitions to cater to frequent small win mentality.
 * **Product Features:** Must have three key types of product features related to meme trading, social and security with focus on business critical narrative tracking features. For example, trending meme dashboards, fast in-and-out trade capabilities, influencer alert systems, community sentiment meter, quick swap interface, memecoin calendar, raid (community buy events) coordination, trophy room and community challenges. For safety add community warning systems, rug-pull scanners, loss prevention nudges, educational safety information delivered via memes, "play money" paper trading mode for practice. Also, optimize for single-coin focused discussions, support specific coin communities to leverage viral content creation patterns. Cross-community and blockchain interactions are an added plus.
 
@@ -126,5 +126,5 @@ description: 'All about Meme Culturist Persona and how to target them'
 
 * [Crypto Influencer](persona-6-influencer.md) 
 * [NFT Collector](persona-2-nft-collector.md) for community culture.
-* [Memecoin: Only profitable sector in 2025]https://nftevening.com/meme-is-the-only-profitable-crypto-sector-in-2025/
-* [Dynamics between Bitcoin markt trends and social media activity](https://www.mdpi.com/2674-1032/3/3/20)
+* [Memecoin: Only profitable sector in 2025](https://nftevening.com/meme-is-the-only-profitable-crypto-sector-in-2025/)
+* [Dynamics between Bitcoin market trends and social media activity](https://www.mdpi.com/2674-1032/3/3/20)

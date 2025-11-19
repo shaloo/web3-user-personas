@@ -12,7 +12,7 @@ description: 'All about NFT Collector Persona and how to target them.'
 
 - ## tl;dr
 
-    NFT collectors are more psychologically complex than simple speculators.
+    NFT collectors have more complex psychology than the usual speculators.
     
     They are driven by a sense of belonging to a community, a need for self-expression, and autonomy besides financial motivations.
 
@@ -23,7 +23,7 @@ description: 'All about NFT Collector Persona and how to target them.'
 
     * Mostly engaged in EVM-compatible chains but with significant activity expanding to other blockchain universes.
 
-    * NFT [lending/borrowing is a fast growing segment](https://coinlaw.io/nft-lending-and-borrowing-statistics/) beside simply trading NFTs.
+    * NFT [lending/borrowing is a fast growing segment](https://coinlaw.io/nft-lending-and-borrowing-statistics/) beside basic NFT trading.
 
 - ## Characteristics
 
@@ -92,10 +92,10 @@ description: 'All about NFT Collector Persona and how to target them.'
     ---
 
     * Affinity for engaging in highly volatile and financially risky NFT environments
-    * Driven by 'early-bird' prospect of owning NFTs and reselling them at a higher price
+    * Driven by 'early bird' prospect of owning NFTs and reselling them at a higher price
     * A hedonic attitudes toward NFTs, driven by features that evoke aesthetic
       pleasure, curiosity, and a sense of perceived uniqueness, originality 
-    * The hedonic attitudes may be slowily evolving into utilitarian ones shaped by blockchain
+    * The hedonic attitudes may be slowly evolving into utilitarian ones shaped by blockchain
       security and privacy, along with factors like price value and NFT functionality
     * Tendency to publicly display their collections on social media platforms
       underscoring status consumption and signalling highs
@@ -141,7 +141,7 @@ description: 'All about NFT Collector Persona and how to target them.'
 * **Research & Refine:** Do your own research. Use this template to guide your design, documentation and product feature decisions. The lack of formal UX research reports in Web3 is a testament that this is an underexplored area where original research could provide significant competitive advantage.
 * **Design Philosophy:** Status-first, community-centric design that emphasizes rarity indicators, collection prestige, and social signaling. Focus on visual storytelling and inclusive accessibility that attracts both new users and technically proficient users. [Interactive and animated content](https://arxiv.org/html/2502.11078) makes for a great user experience for the NFT collector persona.
 * **Communication Style:** Use native, relatable but hype trend aligned terms such as 'diamond-hands', 'HODL'. Leverage scarcity psycology, FOMO tactics and mirror popular NFT Discord communication patterns as hooks. Build sustained communities and transparent leadership with well defined, evolving but shared roadmap instead of leading with short-term speculation. This helps draw on the social engagement and social identity needs of NFT collector persona.
-* **Product Features:** Use a mobile first approach with advanced filtering and search to enable discovery through rarity metrics, traits, price ranges. Focus on providing real-time market Data (live floor prices, volume, trending collections) along with social proof elements (listof influencers buying/selling). Other necessary features include portfolio manager that tracks collection value, profit/loss and trading analytics along with community integration (Discord, social sharing). Also, there is potential to leverage product NFTs as a valuable promotional tool for building lasting customer relationships and sustaining brand value.
+* **Product Features:** Use a mobile first approach with advanced filtering and search to enable discovery through rarity metrics, traits, price ranges. Focus on providing real-time market Data (live floor prices, volume, trending collections) along with social proof elements (list of influencers buying/selling). Other necessary features include portfolio manager that tracks collection value, profit/loss and trading analytics along with community integration (Discord, social sharing). Also, there is potential to leverage product NFTs as a valuable promotional tool for building lasting customer relationships and sustaining brand value.
 
 ## See Also
 

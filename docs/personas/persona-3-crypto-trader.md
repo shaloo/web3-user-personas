@@ -57,7 +57,7 @@ description: 'All about Crypto Analyst Persona and how to target them'
 - ## Primary Platforms
 
     - [TradingView](https://www.tradingview.com/)
-    - CEXs (e.g., [Binance](https://www.binance.com/)
+    - CEXs (for example, [Binance](https://www.binance.com/)
     - DEXs ([Pancakeswap](https://pancakeswap.finance), [Uniswap](https://app.uniswap.org))
     - [Coinbase](https://www.coinbase.com/))
     - Twitter/X/reddit
@@ -87,7 +87,7 @@ description: 'All about Crypto Analyst Persona and how to target them'
 
     * Strategic not emotional, they don't feel the trades, they calculate them
     * Well-planned, disciplined, boring, consistent and control their trades
-    * Community oriented but independently-decisive attitude of a sniper, wait patiently for the one clean shot
+    * Community oriented but independently decisive attitude of a sniper, wait patiently for the one clean shot
     * Data oriented, quick to observe divergence, fluid mindset helps adapt strategies to the market
     * They think like an analyst, not a gambler
     * Technology savvy, prefers sophisticated trading platforms, automated bots, API integrations, portfolio tracking apps, and any solution that provides speed, accuracy, and competitive advantage in execution
@@ -124,7 +124,7 @@ description: 'All about Crypto Analyst Persona and how to target them'
 
 * **Research & Refine:** Do your own research. Use this template to guide your design, documentation and product feature decisions. The lack of formal UX research reports in Web3 is a testament that this is an underexplored area where original research could provide significant competitive advantage.
 * **Design Philosophy:** Mobile first design and real-time push notifications for managing trade positions, mobile gesture support such as swipe-to-buy, pull-to-refresh, and thumb-friendly navigation to accommodate trading on-the-go. Crypto traders prefer information dense interfaces, dashboards packed with data as opposed to minimalism and customizable layouts and widgets, clear visual hierarchy that prioritizes critical information such as P&L, active positions.
-* **Communication Style:** Lead with data and proof. For example specific metrics instead of vague promises, 'execute trades 3x faster', ROI metrics, performance improvements to appeal to their analytical mindsets. Emphasize speed and competitive advantage, 'millisecond execution', 'first mover advantage'. Use proper terminology used by real crypto traders and enable community social proof prominently, 'successful trader testimonials' instead of using generic corporte messaging.
+* **Communication Style:** Lead with data and proof. For example specific metrics instead of vague promises, 'execute trades 3x faster', ROI metrics, performance improvements to appeal to their analytical mindsets. Emphasize speed and competitive advantage, 'millisecond execution', 'first mover advantage'. Use proper terminology used by real crypto traders and enable community social proof prominently, 'successful trader testimonials' instead of using generic corporate messaging.
 * **Product Features:** Provide advanced charting and technical analysis tools or integrate with the most popular ones to enable crypto trader activities, portfolio alerts, portfolio aggregation across platforms, social systems that enable copy trading feature that enables copying successful trades, premium on chain data insights for competitive advantage, risk management with features that appeal to their data-driven approach while protecting their capital.
 
 ## See Also

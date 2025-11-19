@@ -18,17 +18,17 @@ Web3 user personas differ from Web2 ones in the following respects:
 
 | Factors | Web2 | Web3 |
 | :---    | :--- | :--- |
-| Data Ownership: Control | Providers, Platforms, Orgs | Users |
+| Data Ownership: Control | Providers, Platforms, Organization | Users |
 | User Identity: Empowerment  | Fragmented, Providers, Platforms | Users |
-| Economics: Driving Force | Providers, Platforms, Orgs | DAOs, Users |
-| Privacy, Transparency, Trust: PoV | Providers, Platforms, Orgs | Users |
+| Economics: Driving Force | Providers, Platforms, Organization | DAOs, Users |
+| Privacy, Transparency, Trust: PoV | Providers, Platforms, Organization| Users |
 
 
 ## Data ownership
 
 **Control:** *Organizations vs. Users*
 
-In Web2, user’s data is owned by the service providers and the centralized platform, infrastructure organizations. In Web3, users own the data and digital assets.This ensures complete privacy to the user.
+In Web2, user’s data is owned by the service providers and the centralized platform, infrastructure organizations. In Web3, users own the data and digital assets. This ensures complete privacy to the user.
 
 ## Identity
 

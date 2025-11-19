@@ -22,7 +22,7 @@ description: 'All about Defi Degen Persona and how to target them.'
 
     * Willing to experiment and try new solutions to explore.
 
-    * Provide early-stage projects the much needed liquidity and visibility.
+    * Provide early stage projects the much needed liquidity and visibility.
 
     * Trailblazers in technology adoption, many upcoming Web3 technologies gain traction through them.
 
@@ -57,7 +57,7 @@ description: 'All about Defi Degen Persona and how to target them.'
     - Telegram alpha groups
     - Discord 
     - DeFi protocols 
-    - DEXs (e.g., [Uniswap](https://uniswap.org/), [PancakeSwap](https://pancakeswap.finance/))
+    - DEXs (for example, [Uniswap](https://uniswap.org/), [PancakeSwap](https://pancakeswap.finance/))
     - [Defillama](https://defillama.com)
     - MetaMask
     - Farcaster
@@ -124,7 +124,7 @@ description: 'All about Defi Degen Persona and how to target them.'
 * **Research & Refine:** Do your own research. Use this template to guide your design, documentation and product feature decisions. The lack of formal UX research reports in Web3 is a testament that this is an underexplored area where original research could provide significant competitive advantage.
 * **Design Philosophy:** Mobile first design, speed over efficiency, comprehensive dashboards with risk alerts, concise and brief documentation, workflow notes.
 * **Communication Style:** Engage with crypto native terminology, provide clear risk warnings. Focus on transparency, social proofs (audits) and community signals.
-* **Product Features:** Identify relevant technology affinity areas applicable in the context and address must-haves. Ensure fast transaction flows, easy to use yield, APY and other benefit indicators, integrate social features that enable them to engage with the community and see what others are doing, utilizing for better results.
+* **Product Features:** Identify relevant technology affinity areas applicable in the context and address must-haves. Ensure fast transaction flows, user-friendly interface for yields, APY and other benefit indicators, integrate social features that enable them to engage with the community and see what others are doing, utilizing for better results.
 
 ## See Also
 

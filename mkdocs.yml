@@ -1,6 +1,7 @@
 site_name: 'Web3 User Personas'
 # For production
 #site_url: !ENV [DOCS_SITE_URL,"https://shaloo/web3-user-personas"]
+
 site_url: "https://localhost:9090/web3-user-personas"
 site_author: shaloo
 site_description: Comprehensive analysis of 15 Web3 user personas, covering DeFi, NFTs, gaming, DAOs, and more, built with Material for MkDocs.
@@ -33,6 +34,8 @@ theme:
     - header.autohide 
   icon:
     repo: fontawesome/brands/github
+  font:
+    text: DM Sans
 
 nav:
   - Home: index.md

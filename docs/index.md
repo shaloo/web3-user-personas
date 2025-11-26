@@ -15,10 +15,9 @@ experimentation, disruption, and constant change._
 
 *Welcome to the [[persona-archetypes|Web3 User Personas]] project.*
 
-This is a comprehensive research and documentation effort to map the people driving today’s rapidly evolving
-Web3 ecosystem and its transition towards [Web4](https://www.blockchain-council.org/ai/web4/).
+This is a comprehensive research and documentation effort that maps the people driving today’s rapidly evolving Web3 ecosystem and its transition towards [Web4](https://www.blockchain-council.org/ai/web4/).
 
-## TL;DR
+## tl;dr
 
 {==
 
@@ -26,13 +25,9 @@ This study serves as a practical blueprint for product strategists,
 technical marketers, and architects to build for today while designing
 intelligently for the Web3 ecosystem of tomorrow.
 
-**To drive meaningful engagement**, you must understand and stay aligned
-with the evolving nuances of Web3 user personas. In reality, a user’s
-behavior may blend traits from [[persona-archetypes#persona-types|many persona types featured here]].
+**Driving meaningful engagement** through a Web3 product, solution, design, content, and messaging requires understanding and staying aligned with the evolving nuances of Web3 user personas. In reality, a user’s behavior may blend traits from [[persona-archetypes#persona-types|more than one persona types]] featured in this study.
 
-Use the [[persona-archetypes#persona-template|persona template]] in this study as a foundation
-to build your own target personas. Shape your Web3 product strategy around real user motivations
-and needs, not assumptions or anecdotal insights.
+Use the [[persona-archetypes#persona-template|persona template]] in this study as a foundation to build your own target personas. Shape your Web3 product strategy around real user motivations and needs, not assumptions or anecdotal insights.
 
 ==}
 
@@ -165,7 +160,7 @@ This study analyzes every Web3 persona through a structured template covering th
 
 Why a Web3 persona *Tarot*? You might wonder.
 
-Each persona comes alive through a Tarot card and a rhyming identity, making the insights stick.Designers see the user, communicators speak to them, and builders clarity on what to build, including the right tech stack and feature priorities. Cues and fun facts keep every team grounded in the same user, without losing alignment over time.
+Each persona comes alive through a Tarot card and a rhyming identity, making the insights stick. Designers see the user, communicators speak to them, and builders clarity on what to build, including the right tech stack and feature priorities. Cues and fun facts keep every team grounded in the same user, without losing alignment over time.
 
 Learn more... | [[about|About]] | [[audience|Audience]] | [[insights|Insights]] |
 

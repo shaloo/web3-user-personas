@@ -8,23 +8,25 @@ description: 'All about DeFi Degen Persona and how to target them.'
 
 <div class="grid cards" markdown>
 
-- *I embark on risky DeFi adventures with bold optimism and fearless exploration.* ![DeFi Degen (Tarot: The Fool)](../img/1_defi_degen.webp)
+- *Fearlessly embarking on risky adventures with bold optimism to explore.* ![DeFi Degen (Tarot: The Fool)](../img/1_defi_degen.webp)
 
 - ## tl;dr
 
-    DeFi Degens chase the highest yields using high-risk strategies.
+    DeFi Degens have a extreme-risk mindset. They chase the highest yields using high-risk strategies. Mostly males in 25-35 age group, retail investors with primary user base in North America and largest growth volumes in Asia.
 
-    * Fast movers, appear as rash to traditional finance folks.
+    * Fast movers, pushing the boundaries for trades and gains, appear as rash to traditional finance folks.
 
-    * Work with significant capital (often). 
+    * Work with significant capital towards yield farming (APY), memecoin snapping, leverage trading, and cross-chain arbitrage. Actively use platforms that enable flash loans, yield aggregators, trading bots, perpetuals, and security tools for rug pull monitoring. Deal with [slow settlements on blockchain](https://www.weex.com/news/detail/why-stablecoins-deserve-faster-blockchain-settlements-and-how-theyre-getting-there-213079) even today.
 
-    * Believe in anonymity and decentralization as core values. 
+    * Believe in the core values of anonymity, decentralization, and asymmetric bets.
 
-    * Willing to experiment and try new solutions to explore.
+    * Willing to experiment and try new solutions to explore. Hang out on Telegram/Discord alpha groups, value influencer endorsements, and transparent community sharing of win/losses.
 
-    * Provide early stage projects the much needed liquidity and visibility.
+    * Driven by exponential returns, early mover advantage, social status, and financial independence from traditional systems. Provide much needed liquidity and visibility to early stage projects.
 
-    * Trailblazers in technology adoption, many upcoming Web3 technologies gain traction through them.
+    * Require real-time price feeds with instant execution, multi-chain wallet integration, smart contract audit indicators, portfolio tracking with APY indicators optimizing returns, social signals indicating community activity, and automated stop-loss or risk management as they often fail to set controls in the hurry to act.
+
+    * Respond well to speed-optimized mobile first designs, one-click execution, comprehensive dashboard, and concise documentation. 
 
 - ## Characteristics
 
@@ -32,24 +34,27 @@ description: 'All about DeFi Degen Persona and how to target them.'
     - Active in liquidity mining and yield farming
     - First to try new protocols and products
     - Values anonymity and decentralization
-    - Often operates with significant capital
+    - Prefer Ethereum, BNB, Solana and Arbitrum platforms
+    - Affinity towards automated sniper bots and tools designed for low market cap, high volatility assets like memecoins, capable of quickly identifying and exploiting trading opportunities faster than other traders
 
 - ## Behavior Patterns
 
     - Active 24/7 across multiple time zones
+    - High affinity towards meme coins
     - Shares alpha tips and farming strategies
     - Quick to move capital based on opportunities
 
 - ## Pain Points
 
     - [Rug pulls](https://arxiv.org/pdf/2506.18398v3)
-    - Impermanent loss
-    - Gas fees, slower settlements
+    - Smart contract exploits
+    - [Impermanent loss](https://www.coinbase.com/en-in/learn/crypto-glossary/what-is-impermanent-loss)
+    - Gas fees, [slower settlements](https://medium.com/@nic__carter/its-the-settlement-assurances-stupid-5dcd1c3f4e41)
 
 - ## Engagement Hooks
 
     - High-frequency trading
-    - Complex DeFi strategies
+    - Complex, automated, bot driven DeFi strategies
 
 - ## Primary Platforms
 

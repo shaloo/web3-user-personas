@@ -4,53 +4,61 @@ title: 'Web3 Personas'
 description: 'What is a Persona?'
 ---
 
-# Personas
+A persona is an abstraction of an individual. It creates a semi-fictional profile representing an ideal user for a product or service.
 
-Persona is an abstraction of an individual.
+Web3 often struggles with optimal user experiences. Understanding the target 
+audience helps builders prioritize features. It enables them to craft engagement 
+strategies. It helps them build communities and foster trust.
 
-They refer to semi-fictional profiles that represent an ideal user for a product or service.
+<figure markdown="span">
+  <img class="custom-icon" src="{{config.extra.web3_personas.img_dir}}/infographics/gemini_dapper_dex_frog.png" alt="Web3 Persona Frog" />
+  <figcaption>Image Credits: Gemini</figcaption>
+</figure>
 
+## Deconstructing Personas
 
-In Web3, user personas are often constructed using two types of data:
+Building Web3 user personas relies on two data types:
 
-* Off-chain traits (such as demographics and interests)
-* On-chain behavior (wallet activity and transaction history)
+* **On-chain behavior** *(wallet activity, transaction history)*
+* **Off-chain traits**  *(demographics, interests, use cases)*
 
-Web3 frequently encounters challenges in providing optimal user experiences.
+Basic block explorers like [Etherscan](https://etherscan.io) and chain-specific tools provide raw on-chain user behavior data. Specialist analytics platforms like [Dune](https://dune.com/home), [Flipside Crypto](https://flipsidecrypto.xyz/home/), [Glassnode](https://glassnode.com), and [MetaCRM](https://www.metacrm.inc)  offer deeper insights. They profile trading patterns, cohort behavior, and chain-specific growth.
 
-Comprehending a product’s target user personas aids builders in prioritizing features. 
-They can refine messaging, enhance onboarding, and establish more robust communities with 
-a deeper understanding of the user and fostering user empathy.
-
-Familiarize yourself with the key 
-aspects of user personas, the factors that influence user behavior, and the potential impact 
-of user behavior on a product’s viability.
-
-[[why-personas|Click here]] for further insights on:
-
-* What drives user personas, what engages or disengages them?
-* How alignment with user behavior can impact product's viability and
-  adoption?
-* Why understanding user personas is critical when developing new
-  technology or solutions for Web3?
+This study focuses on **off-chain** Web3 user behavior. Our analysis draws from
+on-chain data and public reports. It equips Web3 builders and content provider
+with essential knowledge. They learn about user personas and behavioral drivers. They also learn how these factors impact product viability and traction.
 
 ## Limitations
 
-Knowing users is important for effective engagement. Limiting Web3 persona to on-chain
-behavior, anecdotal data or gut-based insights can ruin product/solution acceptance 
-chances in the real world.
+In Web3, 'Knowing Your Users' (KYU) matters as much as KYC does for financial compliance. Cognitive biases and conjunctive fallacies can impair decision-making.
 
-Cognitive biases and conjunctive fallacies can ruin decision making.
+Relying solely on on-chain behavior is risky. Using only anecdotal data or gut
+instincts is also risky. This approach drives products away from real market
+demands. It ruins acceptance and traction.
 
-The personas can help us to really think about the problems and needs of various groups of users.
-However we need to be extra careful that we don’t get caught up in who we may think these personas 
-actually represent.
+We must avoid a critical trap. Don't assume personas represent actual people.
 
-*Note that a persona is not a real person.*
+*A persona is not a real person.*
 
-Make sure, you hypothesize but then test the hypothesis. Examine the actual numbers of real users
-who would be impacted by a particular product feature or navigational tweak in the documentation
-before deciding on it.
+What is the way forward?
+
+- **Form** hypotheses, then test them.
+- **Examine** real user numbers before making decisions.
+- **Validate** how many users will get affected by a feature or documentation change.
+
+[[why-personas|Click here]] for further insights on:
+
+* What drives user personas?
+* What engages or disengages them?
+* How can alignment with user behavior impact product viability?
+* How does it affect adoption?
+* Why is understanding user personas critical?
+* How does this apply when developing new technology or solutions for Web3?
+
+<figure markdown="span">
+  <img class="custom-screenshots" src="{{config.extra.web3_personas.img_dir}}/infographics/gemini_personas.png" alt="Infographic Summary Personas" />
+  <figcaption>Summary Image Credits: Gemini</figcaption>
+</figure>
 
 ## Reference
 

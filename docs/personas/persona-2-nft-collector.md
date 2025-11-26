@@ -8,7 +8,7 @@ description: 'All about NFT Collector Persona and how to target them.'
 
 <div class="grid cards" markdown>
 
-- *I create and collect digital beauty with refined taste and cultural influence* ![NFT Collector (Tarot: The Empress III)](../img/2_flipper_nftcollector.webp)
+- *Creating, collecting digital beauty with refined taste and cultural influence* ![NFT Collector (Tarot: The Empress III)](../img/2_flipper_nftcollector.webp)
 
 - ## tl;dr
 

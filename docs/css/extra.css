@@ -56,6 +56,14 @@ img {
   */
 }
 
+.custom-icon {
+  border-radius: 0.1rem;
+  display: block;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .w3p-thumbnail-center {
   display: flex;
   align-items: center;

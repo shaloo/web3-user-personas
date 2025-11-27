@@ -12,17 +12,19 @@ description: 'All about DeFi Degen Persona and how to target them.'
 
 - ## tl;dr
 
-    DeFi Degens have a extreme-risk mindset. They chase the highest yields using high-risk strategies. Mostly males in 25-35 age group, retail investors with primary user base in North America and largest growth volumes in Asia.
+    DeFi Degens have an extreme-risk taking mindset. They chase the highest yields using high-risk strategies. Mostly comprised of retail investors, males in 25-35 age group, with primary user base in North America and largest growth volumes in Asia.
 
     * Fast movers, pushing the boundaries for trades and gains, appear as rash to traditional finance folks.
 
-    * Work with significant capital towards yield farming (APY), memecoin snapping, leverage trading, and cross-chain arbitrage. Actively use platforms that enable flash loans, yield aggregators, trading bots, perpetuals, and security tools for rug pull monitoring. Deal with [slow settlements on blockchain](https://www.weex.com/news/detail/why-stablecoins-deserve-faster-blockchain-settlements-and-how-theyre-getting-there-213079) even today.
+    * Work with significant capital towards yield farming (APY), memecoin snapping, leverage trading, and cross-chain arbitrage.
 
     * Believe in the core values of anonymity, decentralization, and asymmetric bets.
 
-    * Willing to experiment and try new solutions to explore. Hang out on Telegram/Discord alpha groups, value influencer endorsements, and transparent community sharing of win/losses.
+    * Willing to experiment and try new solutions to explore. Hang out on Telegram/Discord alpha groups, value influencer endorsements, and transparent community sharing of wins/losses.
 
     * Driven by exponential returns, early mover advantage, social status, and financial independence from traditional systems. Provide much needed liquidity and visibility to early stage projects.
+
+    * Actively use platforms that enable flash loans, yield aggregators, trading bots, perpetuals, and security tools for rug pull monitoring. Struggle with [slow settlements on blockchain](https://www.weex.com/news/detail/why-stablecoins-deserve-faster-blockchain-settlements-and-how-theyre-getting-there-213079).
 
     * Require real-time price feeds with instant execution, multi-chain wallet integration, smart contract audit indicators, portfolio tracking with APY indicators optimizing returns, social signals indicating community activity, and automated stop-loss or risk management as they often fail to set controls in the hurry to act.
 
@@ -46,9 +48,10 @@ description: 'All about DeFi Degen Persona and how to target them.'
 
 - ## Pain Points
 
+    - Speed of execution
     - [Rug pulls](https://arxiv.org/pdf/2506.18398v3)
     - Smart contract exploits
-    - [Impermanent loss](https://www.coinbase.com/en-in/learn/crypto-glossary/what-is-impermanent-loss)
+    - [Impermanent losses](https://www.coinbase.com/en-in/learn/crypto-glossary/what-is-impermanent-loss)
     - Gas fees, [slower settlements](https://medium.com/@nic__carter/its-the-settlement-assurances-stupid-5dcd1c3f4e41)
 
 - ## Engagement Hooks
@@ -69,19 +72,15 @@ description: 'All about DeFi Degen Persona and how to target them.'
 
 - ## Tech Affinity
 
-    Tech affinity section lists specific technologies, features, and solutions that are of interest to the
-    DeFi Degen persona.
-
     - Integration support for EVM-compatible chains
     - Cross-chain interactions (bridges, protocols that enable seamless capital movement)
+    - Multi-chain usage (Preference for Ethereum, BNB, Solana, Arbitrum)
     - Flash loan and yield protocols ([Aave](https://aave.com), [Dydx](https://dydx.exchange))
     - Integration with technologies that reduce gas fees, faster settlements across chains enabling DeFi Degens to exploit yield opportunities across fragmented blockchain ecosystems.s
 
 </div>
 
 ## How to Target?
-
-{% include "how-to-target.md" %}
 
 <div class="grid cards" markdown>
 
@@ -104,7 +103,7 @@ description: 'All about DeFi Degen Persona and how to target them.'
     * Excitement, social influence, eagerness to be the first and exploit opportunities early (to the moon!)
     * Yield farming, liquidity provision, and staking on new decentralized platforms
     * Leverage trading and perpetuals remains a popular tool for Degens chasing fast profits
-    * Foster trust within the community by sharing wins, losses - transparent
+    * Foster trust within the community through transparency, by sharing wins, losses
     * Stay updated on hypes, trends, celebrity endorsements, Reddit threads
 
 </div>
@@ -126,10 +125,10 @@ description: 'All about DeFi Degen Persona and how to target them.'
 
 ## Action Plan
 
-* **Research & Refine:** Do your own research. Use this template to guide your design, documentation and product feature decisions. The lack of formal UX research reports in Web3 is a testament that this is an underexplored area where original research could provide significant competitive advantage.
-* **Design Philosophy:** Mobile first design, speed over efficiency, comprehensive dashboards with risk alerts, concise and brief documentation, workflow notes.
-* **Communication Style:** Engage with crypto native terminology, provide clear risk warnings. Focus on transparency, social proofs (audits) and community signals.
-* **Product Features:** Identify relevant technology affinity areas applicable in the context and address must-haves. Ensure fast transaction flows, user-friendly interface for yields, APY and other benefit indicators, integrate social features that enable them to engage with the community and see what others are doing, utilizing for better results.
+* **Research & Refine:** {% include "/refine.txt" %}
+* **Design Philosophy:** Focus on demographic concentration and geographic hotspots, dark mode, data density, enable [[ape-buttons|Ape Buttons]] and provide gamified feedback such as animations and sound for dopamine hits. Leverage behavioral psychology (risk taking ability, gambling streaks, gaming wins) to enable fast execution. Lean towards mobile first design, speed over efficiency and caution, comprehensive dashboards with risk alerts, concise and brief documentation, workflow notes, under 2 seconds landing page loading time.
+* **Communication Style:** To address the address span of a goldfish, engage with crypto native terminology, provide clear risk warnings. Focus on transparency, social proofs (audits) and community signals. Lead with Telegram, Discord alpha groups. Build on hypes, trends, celebrity endorsements. Get rid of corporate polish, be raw, direct, and self-deprecating. Partner with "degen" influencers who have a track record of high-risk calls. Degens rotate capital based on "metas", the narratives. In Q1 2024 it was AI, then Memecoins, then PolitiFi (Trump coins). Your marketing must pivot with these weekly trends.
+* **Product Features:** Leaderboards to highlight who profited this week, one-click copy of the top trader and trading pattern templates, revenue share models whereby a share of protocol fees goes to users who stake or hold the token (Real Yield narrative). Besides these, multi-chain portfolio dashboard, multi-chain friction-free (signature-less transactions), rug pull detection and alerts, sniper bot integrations, automated yield optimizations and enable leverage position management. Ensure one click, fast transaction and execution flows, user-friendly interface for yields, APY and other benefit indicators, integrate social features that enable them to engage with the community and see what others are doing, utilizing for better results. 
 
 ## See Also
 

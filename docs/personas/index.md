@@ -11,9 +11,9 @@ description: 'The archetypes for Web3 User Personas.'
     This persona snapshot reflects Q4 2025 behaviors and drivers. Do brace for
     shifts and stay tuned to the latest trends as new personas and behaviors emerge.
 
-Here is a deep dive into Web3 Personas.
+Here is a deep dive into [[web3-personas|Web3 Personas]].
 
-We’ve mapped Web3 user personas using core [[index#Web3-Archetypes|archetypes]] and sub-types.
+We’ve [[why-personas|systematically mapped]] Web3 user personas using core [[index#web3-archetypes|archetypes]] and sub-types.
 
 Click on each persona in the table below to view details and insights on how to target each persona.
 Note that your target persona may be a combination of one or more archetypes.
@@ -40,11 +40,13 @@ Note that your target persona may be a combination of one or more archetypes.
 
 ## Persona Template
 
-Each Web3 user persona is analyzed using the following categories and an action plan on how best to target them for Web3 offerings is presented towards the end. Note this is an evolving model based on limited public reports and user-behavior data on-chain and otherwise.
+Each Web3 user persona is analyzed through the categories below, followed by an action plan on how best to target them with Web3 offerings. This is an evolving model based on limited public reports and both on-chain and off-chain user-behavior data.
+
+Use this Web3 persona template structure as the foundation for your own product persona template. Then keep your product features, design approach, and communication style consistently aligned with the needs of your target persona.
 
 ### Tarot Card
 
-We have personified each Web3 user persona with a Tarot Card that best encapsulates their mindset, motivation and behaviors. Designers are visual folks. Communicators can align messaging better with a persona's synopsis that matches their mental model. For builders, this is just to provide some visual cues and fun facts that help them remember who they are building for.
+We have personified each Web3 user persona with a Tarot Card and a rhyming identity that best encapsulates their mindset, motivation and behaviors. Designers are visual folks. Communicators can align messaging better with a persona's synopsis that matches their mental model. For builders, this is just to provide some visual cues and fun facts that help them remember who they are building for.
 
 We do not have the best possible Tarot card visuals yet. In the initial version of the study, we have used open source tooling to let AI generate a first cut. In the subsequent revisions, we plan to get useful constructive feedback from designers and make these visual cues more attention worthy and something to lighten the mood!
 
@@ -82,10 +84,18 @@ For newcomers or less tech-focused personas, prioritize education and guided onb
 
 This section outlines the [[why-personas#user-persona-tenets|key tenets]] of each persona in terms of their mindset, motivations, and must-haves. These factors shape user behavior and directly influence product adoption.
 
+Understanding each persona's key tenets must inform and drive your product design, website, and documentation strategy.
+
+* Understand and leverage their mindset.
+* Tap into their motivation.
+* Deliver on their must-have requirements at priority.
+
 ### Action Plan 
 
 This section offers guidance on targeting each persona. Use these insights as a complement to your own research to craft the right features, design approach, and communication style that align with their core tenets.
 
 ### See Also
 
-This section shares insights on how to target each persona. It is best to use these insights as add on items to your own research and come up with the right features, design approach, and communication style that align with their core tenets.
+This section contains useful references and other related personas. 
+
+Use this Web3 persona template structure as the foundation for your own product persona template. Then keep your product features, design approach, and communication style consistently aligned with the needs of your target persona.

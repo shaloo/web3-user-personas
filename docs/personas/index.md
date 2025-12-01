@@ -11,14 +11,15 @@ description: 'The archetypes for Web3 User Personas.'
     This persona snapshot reflects Q4 2025 behaviors and drivers. Do brace for
     shifts and stay tuned to the latest trends as new personas and behaviors emerge.
 
-Here is a deep dive into [[web3-personas|Web3 Personas]].
-
-We’ve [[why-personas|systematically mapped]] Web3 user personas using core [[index#web3-archetypes|archetypes]] and sub-types.
+We’ve systematically mapped [[web3-personas|Web3 user personas]] using the [persona template](#persona-template).
 
 Click on each persona in the table below to view details and insights on how to target each persona.
-Note that your target persona may be a combination of one or more archetypes. We recommend that you use [this Web3 persona template](#persona-template) and [create your own Web3 user persona](#using-the-template).
+
+*Note that your target persona may be a combination of one or more persona types. Learn [how to create your own Web3 user persona](#using-the-template).*
 
 ## Persona Types
+
+In this study, we have identified the following persona types. To learn more about the research objectives, methodology and how we arrived at the persona framework, refer to the [[web3-personas|concepts]] and [[about|about]] sections.
 
 | Primary Type | Sub-type | Persona Name | Tarot |
 | :--- | :--- | :--- | :--- |
@@ -128,7 +129,7 @@ Aligning with a persona's tech affinity helps product builders by providing a st
 
 ### How to Target?
 
-This section outlines the [[why-personas#user-persona-tenets|key tenets]] of each persona in terms of their mindset, motivations, and must-haves. These factors shape user behavior and directly influence product adoption patterns.
+This section outlines the [[persona-tenets|key tenets]] of each persona in terms of their mindset, motivations, and must-haves. These factors shape user behavior and directly influence product adoption patterns.
 
 Understanding each persona's key tenets must inform and drive your product design, website, and documentation strategy.
 
@@ -155,7 +156,7 @@ This section of the persona template connects the current user profile to releva
 Use this Web3 persona template structure as the foundation for your own product persona template. Then keep your product features, design approach, and communication style consistently aligned with the needs of your target persona.
 
 1. Review the [Web3 persona types](#persona-types). Your target persona may be a combination of one or more of them. Identify your target persona.
-2. Copy the persona template.
+2. Copy the [persona template](#persona-template).
 3. Update each persona block with traits specific to your target user.
 4. Continuously gather inputs from marketing, sales, stakeholders, and published online reports to refine your Web3 user persona.
 5. Keep your persona template current. Use it to guide product features, design decisions, marketing choices, and ongoing change management.

@@ -17,19 +17,6 @@ understand the specific target personas their offerings are designed for.
 
 It enables building Web3 solutions with clarity, intent, and real user alignment.
 
-## Cornerstone
-
-* **Core Problem:** Mass adoption barriers, technical complexity, poor scaling
-* **Builder Challenges:** Low traction, poor visibility, vision gaps
-* **Solution Focus:** User empathy, deep understanding of personas and how they are evolving
-* **Product Success Levers:** Fast onboarding, fostering trust, product stickiness
-* **Continuous Evolution of Web3 User Personas Framework:** Starter framework, informs product specific user persona template, collaborative and community led refinement
-
-<figure markdown="span">
-  <img class="custom-screenshots" src="{{config.extra.web3_personas.img_dir}}/mind_map/about_web3_personas_mind_map.png" alt="Web3 User Persona Mind Map" />
-  <figcaption><a href="https://claude.ai/public/artifacts/f00adea0-34ff-46ad-a663-15b54a6c8eb1">Web3 User Personas: Mind Map</a></figcaption>
-</figure>
-
 ## Background
 
 The Web3 Personas project emerged from my experiences building, refining, 
@@ -66,7 +53,7 @@ onboarding process fosters trust, while staying aligned with user behavior and n
 products and solutions that are tuned to their true purpose, leading to product stickiness and momentum.
 
 As with most evolving fields, Web3 is changing and improving for the better but we have a long way
-to go. 
+to go.
 
 The insights gained via this study are not static but serve as a valuable [[insights|starter framework]]
 for aligning product visions with the target audience. This is an attempt to encourage the wider

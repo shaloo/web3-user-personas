@@ -11,7 +11,7 @@ description: 'All about Crypto Analyst Persona and how to target them'
 - *Wielding technical analysis and market wisdom for profitable trades.*
   ![Analyst (Tarot: The Magician (I))](../img/3_trader_analyst.webp)
 
-- ## Overview
+- ## tl;dr
 
     The Crypto Trader/Analyst focuses on technical analysis and data-driven trading decisions.
 

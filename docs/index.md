@@ -4,30 +4,19 @@ title: "Web3 User Personas"
 description: "Project landing page with an overview of the study, key insights and purpose."
 ---
 
-# Web3 User Personas
-
-Web3 thrives on diversity; opinionated users driven by distinct motivations.
-
-_Builders, technologists, cryptography researchers, finance stewards,
-sustainability and privacy advocates, DeSci/DeFi/DeFAI pioneers, and
-compliance-minded innovators all collide in a fast-moving arena of
-experimentation, disruption, and constant change._
-
 *Welcome to the [[persona-archetypes|Web3 User Personas]] project.*
 
-This is a comprehensive research and documentation effort that maps the people driving today’s rapidly evolving Web3 ecosystem and its transition towards [Web4](https://www.blockchain-council.org/ai/web4/).
+Understanding the target Web3 users is the foundation for building products and solutions that stick.
 
 ## tl;dr
 
 {==
 
-This study serves as a practical blueprint for product strategists,
-technical marketers, and architects to build for today while designing
-intelligently for the Web3 ecosystem of tomorrow.
+This study serves as a practical blueprint for product strategists, technical marketers, and architects to build for Web3 today while designing intelligently for the [Web4](https://www.blockchain-council.org/ai/web4/) ecosystem of tomorrow.
 
 **Driving meaningful engagement** through a Web3 product, solution, design, content, and messaging requires understanding and staying aligned with the evolving nuances of Web3 user personas. In reality, a user’s behavior may blend traits from [[persona-archetypes#persona-types|more than one persona types]] featured in this study.
 
-Another contribution of this study is a concise [[persona-archetypes#persona-template|persona template]]. Use it to sketch your target personas. Align and reinforce your Web3 product strategy with real user motivations instead of anecdotal guesses.
+Another contribution of this study is a concise [[persona-archetypes#persona-template|persona template]]. Utilize this template to sketch your own target personas. This template draws from off-chain user behaviors published in online studies and reports. Align and reinforce your product strategy with real user motivations instead of anecdotal guesses.
 
 ==}
 
@@ -87,26 +76,19 @@ Another contribution of this study is a concise [[persona-archetypes#persona-tem
 
 ## Why Web3 Personas?
 
-User personas are essential for validating product–market fit. Personas help in aligning, streamlining and prioritizing the product's value propositions with its features and messaging. In Web3, they become even pronounced because they guide high-stakes product design decisions and tooling choices across UX, DX, and CX. 
+Web3 thrives on diversity; opinionated users driven by distinct motivations. User personas are essential for validating product–market fit.
 
-Understanding the target Web3 users is the foundation for building products and solutions that stick. 
+_Builders, technologists, cryptography researchers, finance stewards, sustainability and privacy advocates, DeSci/DeFi/DeFAI pioneers, and compliance-minded innovators all collide in a fast-moving arena of experimentation, disruption, and constant change._
+
+Personas help in aligning, streamlining and prioritizing the product's value propositions with its features and messaging. In Web3, they become even pronounced because they guide high-stakes product design decisions and tooling choices across UX, DX, and CX. 
+
+This study offers comprehensive research and documentation with an objective to map the people driving today’s rapidly evolving Web3 ecosystem and its transition towards [Web4](https://www.blockchain-council.org/ai/web4/).
 
 [[why-personas|Learn more...]]
 
-## What is Unique?
+## Web2 vs Web3
 
-This study offers a _Tarot-inspired_ perspective on Web3 user personas. It uses a systematic mapping approach for profiling [[persona-archetypes|15 archetypes]] with a focus on mindset, motivation, and behavioral patterns.
-
-It helps builders design user-centric infrastructure and dApps, prioritize product 
-features, and improve user experience across the stack. These personas are not static. To keep pace with Web3’s rapid evolution, our goal is to keep them current and adapt quickly with
-the help of [[contributions|community contributions]].
-
-Together, let us build relevant products and offerings that bring the masses on to Web3.
-
-### Anatomy
-
-Web3 user personas are unique and very different from those in Web2. This is largely
-due to Web3's anatomy, how it operates:
+Web3 user personas are unique and very different from those in Web2. This is largely due to Web3's anatomy, how it operates:
 
 * [[web2-vs-web3#data-ownership|Data ownership]]
 * [[web2-vs-web3#identity|User Identity]]
@@ -114,18 +96,29 @@ due to Web3's anatomy, how it operates:
 * [[web2-vs-web3#interactions|User Interactions]]
 * [[web2-vs-web3#privacy-transparency-trust|Privacy, Transparency, Trust]]
 
+## What is Unique?
+
+This study offers a _Tarot-inspired_ perspective on Web3 user personas. It uses a systematic mapping approach for profiling [[persona-archetypes|15 archetypes]] with a focus on mindset, motivation, and behavioral patterns.
+
+It helps builders design user-centric infrastructure and dApps. The personas also guide product feature prioritization. They improve user experience across the stack. These personas are not static.
+
+We seek your [[contributions|community contributions]] as feedback, insights, and suggestions. Help us keep the Web3 persona template current and evolving with Web3's rapid pace.
+
+Together, let us build relevant products and offerings that bring the masses on to Web3.
 
 ## Web3 Archetypes
 
-As part of this research, we define Web3 archetypes using three core criteria:
+In this research, we examined the core challenges faced by most Web3 products and content offerings. We considered the pain points of builders, designers, and content creators. To identify product success levers through the lens of UX and user personas, we focused on user empathy and the evolution of user behavior. Our goal was to develop a Web3 personas framework that can guide product decisions and grow through community contribution.
+
+With this foundation, we define Web3 archetypes using three criteria:
 
 * Primary domain of Web3 usage
 * Role played by the persona in the ecosystem
 * Interaction complexity and experience level
 
-Based on these criteria, Web3 user personas fall into five primary archetypes and several sub-types.
-
 ### Primary Archetypes
+
+Web3 user personas are grouped into five primary archetypes using the criteria listed above:
 
 - Traders
 - Fun & Entertainment Lovers 
@@ -133,9 +126,10 @@ Based on these criteria, Web3 user personas fall into five primary archetypes an
 - Governance Drivers
 - Newcomers
 
-We then apply the traits below to define distinct **sub-types** under each primary persona.
+We further applied the following user [[persona-tenets|traits and tenets]] to define distinct **sub-types** under each primary persona.
 
-* behavioral characteristics
+* characteristics
+* behavior
 * mindset
 * motivation
 * needs
@@ -149,15 +143,19 @@ We then apply the traits below to define distinct **sub-types** under each prima
 - **Governance Figure:** [[12-anon-advocate|Anonymity Advocate]], [[15-sustain-adv|Sustainability Steward]], [[14-regulation-nav|Regulation Navigator]], [[8-dao-contributor|DAO Participant]]
 - **Newcomers:** [[9-tenderfoot-explorer|Tenderfoot Explorer]]
 
+By combining insights from publicly available reports, core persona tenets, and extensive analysis supported and cross-checked by free AI tools (*Gemini, Claude, ChatGPT, Grok*), we defined each Web3 persona sub-type in detail. The [[persona-archetypes#persona-template|persona template]] serves as the foundation for this analysis.
+
 ## Personas -> Product Decisions
 
-Further, in this study we analyze the defined Web3 personas using a systematic, structured [[persona-archetypes#persona-template|persona template]]. This template covers all the  unique persona traits based on behavior, characteristics, mindset, motivations, and needs. It also outlines a high-level action plan to target the user and inform your choices as a Web3 product or service provider. Use this as a foundation to build your own target persona profile and drive more effective product design, feature prioritization, and messaging for each audience segment.
+The [[persona-archetypes#persona-template|persona template]] provides a structured way to analyze unique persona traits through the prism of user behavior, characteristics, [[persona-tenets|mindset, motivations, and needs]]. Guided by the [[web3-personas#cornerstones|cornerstones]] of this study, it also outlines a high-level action plan to target each user type and inform product or solution strategy.
 
-To bring out the fun element and keep these personas alive in your mind, we have used the Tarot card and rhyming identity perspective for each Web3 user persona type.
+Use the action plan as the foundation for your own target persona profile and drive stronger product design, feature prioritization, and messaging for each audience segment.
 
-With each persona tarot card, designers can visualize the user, communicators can speak effectively to them, and builders gain clarity on what to build. This shared reference keeps tech stack choices aligned across key product functions.
+To keep the personas engaging, each Web3 user type is paired with a Tarot-style archetype and a rhyming identity. This approach adds a sense of play while keeping every persona vivid and helps recall.
 
-If you are interested in learning how this project came about, the target audience for this study and more, select: 
+Each Tarot card acts as a shared strategic prism. Designers can picture the user through it. Communicators can speak to them with precision. Builders gain clarity on what to create. This shared language keeps decisions across product, messaging, and tech aligned.
+
+If you’d like to explore the origin of this project, its intended audience, and the key takeaways, choose one of the sections below:
 
 | [[about|About]] | [[audience|Audience]] | [[insights|Insights]] |
 

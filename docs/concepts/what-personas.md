@@ -28,6 +28,23 @@ This study focuses on **off-chain** Web3 user behavior. Our analysis draws from
 on-chain data and public reports. It equips Web3 builders and content provider
 with essential knowledge. They learn about user personas and behavioral drivers. They also learn how these factors impact product viability and traction.
 
+## Cornerstones
+
+This study is built around the following core foundations. These foundations define the problem scope, the proposed solution, and the path to continued success within the Web3 ecosystem.
+
+* **Core Problem:** Mass adoption barriers, technical complexity, poor scaling
+* **Builder Challenges:** Low traction, poor visibility, vision gaps
+* **Solution Focus:** User empathy, deep understanding of personas and how they are evolving
+* **Product Success Levers:** Fast onboarding, fostering trust, product stickiness
+* **Continuous Evolution of Web3 User Personas Framework:** Starter framework, informs product specific user persona template, collaborative and community led refinement
+
+<figure markdown="span">
+  <img class="custom-screenshots" src="{{config.extra.web3_personas.img_dir}}/mind_map/about_web3_personas_mind_map.png" alt="Web3 User Persona Mind Map" />
+  <figcaption>Web3 User Personas: Mind Map</figcaption>
+</figure>
+
+Based on extensive off-chain research and publicly available reports, this study identifies the core [[persona-tenets|Web3 persona tenets]], maps the primary and sub-types of persona archetypes, and introduces a structured [[persona-archetypes#persona-template|persona template]]. This template enables deeper insight into each defined [[index#web3-archetypes | Web3 user persona]] and serves as a systematic way to understand how they think, behave, and make decisions.
+
 ## Limitations
 
 In Web3, 'Knowing Your Users' (KYU) matters as much as KYC does for financial compliance. Cognitive biases and conjunctive fallacies can impair decision-making.

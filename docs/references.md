@@ -47,3 +47,5 @@
 45. [Environmental effects of Bitcoin mining 2025](https://www.nature.com/articles/s41598-025-92314-z)
 46. [MiCA Compliance Guide](https://sumsub.com/blog/mica-compliance/)
 47. [Howey Test Guide 2025](https://www.coinbase.com/blog/token-securities-a-guide-to-the-howey-test-and-sec-compliance-in-2025)
+48. [Cryptocurrency Trading: a systematic mapping study](https://www.sciencedirect.com/science/article/pii/S2667096824000296)
+49. [RPHunter: Unveiling rug pull schemes in crypto](https://arxiv.org/pdf/2506.18398v3)

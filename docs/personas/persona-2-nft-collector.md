@@ -83,8 +83,6 @@ description: 'All about NFT Collector Persona and how to target them.'
 
 ## How to Target?
 
-{% include "how-to-target.md" %}
-
 <div class="grid cards" markdown>
 
 -   :material-vector-difference: __NFT Collector Mindset__

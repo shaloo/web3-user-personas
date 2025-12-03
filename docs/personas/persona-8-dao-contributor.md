@@ -11,7 +11,7 @@ description: 'All about DAO Contributor Persona and how to target them'
 - *Balancing community needs with careful deliberation and fair governance* 
   ![DAO Contributor (Tarot: Justice (XI))](../img/8_dao.webp)
 
-- ## Overview
+- ## tl;dr
 
     The DAO Contributor/Governance persona drives decentralized organization decision-making.
 

@@ -50,7 +50,7 @@ Use this structure as the foundation for your own product persona template. Then
 The core building blocks of the template are:
 
 - [Tarot Card](#tarot-card)
-- [tl;dr](tldr)
+- [tl;dr](tl-dr)
 - [Characteristics](#characteristics)
 - [Behavior Patterns](#behavior-patterns)
 - [Pain Points](#pain-points)

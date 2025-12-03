@@ -11,7 +11,7 @@ audience helps builders prioritize features. It enables them to craft engagement
 strategies. It helps them build communities and foster trust.
 
 <figure markdown="span">
-  <img class="custom-icon" src="{{config.extra.web3_personas.img_dir}}/infographics/gemini_dapper_dex_frog.png" alt="Web3 Persona Frog" />
+  <img class="custom-icon" src="../../img/infographics/gemini_dapper_dex_frog.png" alt="Web3 Persona Frog" />
   <figcaption>Image Credits: Gemini</figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ This study is built around the following core foundations. These foundations def
 * **Continuous Evolution of Web3 User Personas Framework:** Starter framework, informs product specific user persona template, collaborative and community led refinement
 
 <figure markdown="span">
-  <img class="custom-screenshots" src="{{config.extra.web3_personas.img_dir}}/mind_map/about_web3_personas_mind_map.png" alt="Web3 User Persona Mind Map" />
+  <img class="custom-screenshots" src="../../img/mind_map/about_web3_personas_mind_map.png" alt="Web3 User Persona Mind Map" />
   <figcaption>Web3 User Personas: Mind Map</figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ What is the way forward?
 * How does this apply when developing new technology or solutions for Web3?
 
 <figure markdown="span">
-  <img class="custom-screenshots" src="{{config.extra.web3_personas.img_dir}}/infographics/gemini_personas.png" alt="Infographic Summary Personas" />
+  <img class="custom-screenshots" src="../../img/infographics/gemini_personas.png" alt="Infographic Summary Personas" />
   <figcaption>Summary Image Credits: Gemini</figcaption>
 </figure>
 

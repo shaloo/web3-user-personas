@@ -18,7 +18,7 @@ of any products usage.
 Next, let us explore how each of these tenets shape product **usage**, how they **govern** user's behavior, and **influences** user choices, ultimately impacting any product's market success.
 
 <figure markdown="span">
-  <img class="custom-screenshots" src="{{config.extra.web3_personas.img_dir}}/mind_map/why_personas.png" alt="Why Personas" />
+  <img class="custom-screenshots" src="../../img/mind_map/why_personas.png" alt="Why Personas" />
   <figcaption>Tenets of User Persona</figcaption>
 </figure>
 

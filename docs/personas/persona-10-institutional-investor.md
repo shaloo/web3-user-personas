@@ -49,7 +49,7 @@ description: 'All about Institutional Investor Persona and how to target them'
     - Need for connecting crypto services with traditional finance infrastructure
     - Risk Management
 
-- ## Engagement
+- ## Engagement Hooks
 
     - Professional networking
     - Strategic positioning
@@ -57,6 +57,13 @@ description: 'All about Institutional Investor Persona and how to target them'
     - LinkedIn Institutional Investor forums
     - Specialized investment forums
     - Institutional Networks (GLG, AlphaSense, Third Bridge, Guidepoint)
+
+- ## Primary Platforms
+
+    - *Trading & Infrastructure:* Coinbase Prime, Kraken Institutional, TradingView for advanced charting
+    - *Specialized DLT/Tokenization Platforms:* Private/Permissioned DLT networks, tokenization issuance platforms, and institutional-grade Layer 2 solutions
+    - *Integrated Risk/Portfolio Management Software:* BlackRock's Aladdin
+    - *Communication:* LinkedIn, Professional forums like WEF, Invest Web3 Forums, Specialized/Gated Discord/Telegram Servers
 
 - ## Tech Affinity
 
@@ -126,3 +133,5 @@ description: 'All about Institutional Investor Persona and how to target them'
 * [Regulation Navigator](persona-14-regulation-navigator.md)
 * [Chainalysis - Geography of Crypto Report 2025](https://go.chainalysis.com/2025-geography-of-cryptocurrency-report.html)
 * [PwC Crypto Hedge Fund Report Oct 2024](https://www.pwc.com/gx/en/industries/financial-services/assets/6th-annual-global-crypto-hedge-fund-report.pdf)
+* [Coinbase Crypto Market Outlook 2024](https://www.coinbase.com/en-in/institutional/research-insights/research/market-intelligence/2024-crypto-market-outlook)
+* [BIS Bulletin - Rise of tokenized money market funds](https://www.bis.org/publ/bisbull115.pdf)

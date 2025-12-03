@@ -24,27 +24,35 @@ Another contribution of this study is a concise [[persona-archetypes#persona-tem
     <div class="w3p-thumbnail-set ">
         <div class="w3p-thumbnail">
             <a href="personas/persona-1-de-fi-degen"><img  src="img/1_defi_degen.webp"/></a>
+            <p class="card-name">DeFi Degen</p>
         </div>
         <div class="w3p-thumbnail">
             <a href="personas/persona-2-nft-collector"><img  src="img/2_flipper_nftcollector.webp"/></a>
+            <p class="card-name">NFT Collector</p>
         </div>
         <div class="w3p-thumbnail">
             <a href="personas/persona-3-crypto-trader"><img  src="img/3_trader_analyst.webp"/></a>
+            <p class="card-name">Crypto Analyst</p>
         </div>
         <div class="w3p-thumbnail">
             <a href="personas/persona-4-hodler"><img  src="img/4_hodler.webp"/></a>
+            <p class="card-name">The Investor</p>
         </div>
         <div class="w3p-thumbnail">
             <a href="personas/persona-5-web3-builder"><img  src="img/5_webp_builder_dev.webp"/></a>
+            <p class="card-name">The Buidlers</p>
         </div>
         <div class="w3p-thumbnail">
             <a href="personas/persona-6-influencer"><img  src="img/6_crypto_influencer.webp"/></a>
+            <p class="card-name">The Influencer</p>
         </div>
         <div class="w3p-thumbnail">
             <a href="personas/persona-7-gaming-enthusiast"><img  src="img/7_gaming_enthu.webp"/></a>
+            <p class="card-name">The Gamer</p>
         </div>
         <div class="w3p-thumbnail">
             <a href="personas/persona-8-dao-contributor"><img  src="img/8_dao.webp"/></a>
+            <p class="card-name">DAO Participant</p>
         </div>
     </div>
  </div>
@@ -52,24 +60,31 @@ Another contribution of this study is a concise [[persona-archetypes#persona-tem
     <div class="w3p-thumbnail-set ">
         <div class="w3p-thumbnail">
             <a href="personas/persona-9-newcomer"><img  src="img/9_newcomer.webp"/></a>
+            <p class="card-name">Newcomer</p>
         </div>
         <div class="w3p-thumbnail">
             <a href="personas/persona-10-institutional-investor"><img  src="img/10_investor.webp"/></a>
+            <p class="card-name">Institutional Investor</p>
         </div>
         <div class="w3p-thumbnail">
             <a href="personas/persona-11-meme-participant"><img  src="img/11_meme-maven.webp"/></a>
+            <p class="card-name">Meme Culturist</p>
         </div>
         <div class="w3p-thumbnail">
             <a href="personas/persona-12-privacy-advocate"><img  src="img/12_privacy.webp"/></a>
+            <p class="card-name">Privacy Advocate</p>
         </div>
         <div class="w3p-thumbnail">
             <a href="personas/persona-13-ai-crypto-user"><img  src="img/13_wheel-fortune.webp"/></a>
+            <p class="card-name">AI + Crypto</p>
         </div>
         <div class="w3p-thumbnail">
             <a href="personas/persona-14-regulation-navigator"><img  src="img/14_temperance.webp"/></a>
+            <p class="card-name">Regulation Navigator</p>
         </div>
         <div class="w3p-thumbnail">
             <a href="personas/persona-15-sustainability-advocate"><img  src="img/15_sustainability.webp"/></a>
+            <p class="card-name">Sustainability Steward</p>
         </div>
     </div>
 </div>

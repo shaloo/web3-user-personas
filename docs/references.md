@@ -1,4 +1,9 @@
-# References
+---
+template: landing-style.html
+alias: references
+title: "References"
+description: ""
+---
 
 1. [Web3 User Personas](https://formo.so/blog/web3-customer-personas-what-are-they-how-to-create-them)
 2. [Web3 User Research](https://medium.com/@kristina.mayman/web3-user-research-101-2c8e973d915a)

@@ -34,10 +34,10 @@ In this study, we have identified the following persona types. To learn more abo
 |              | AI + Crypto Wiz | [[13-ai-crypto-wiz|Shakey Asimotoshi]]{ .md-button }  | Wheel of Fortune |
 |              | Crypto Influencer | [[6-web3-influencer|Content Conan]]{ .md-button }   | The Sun |
 | Governance Figure  | Anonymity Advocate | [[12-anon-advocate|Privacy Paul]]{ .md-button }   | The High Priestess |
-|              | Sustainability Steward | [[15-sustain-adv|Sustainer Suzy]]{ .md-button } | ddd |
+|              | Sustainability Steward | [[15-sustain-adv|Sustainer Suzy]]{ .md-button } | The Hanged Man |
 |              | Regulation Navigator | [[14-regulation-nav|Governance Gabe]]{ .md-button }   | Temperance |
 |              | DAO Participant | [[8-dao-contributor|DAO Dave]]{ .md-button }   | Justice |
-| Newcomers    | Tenderfoot Explorer | [[9-tenderfoot-explorer|Curious Columbus]]{ .md-button }  | The Hanged Man |
+| Newcomers    | Tenderfoot Explorer | [[9-tenderfoot-explorer|Curious Columbus]]{ .md-button }  | Page of Pentacles |
 
 ## Persona Template
 
@@ -50,7 +50,7 @@ Use this structure as the foundation for your own product persona template. Then
 The core building blocks of the template are:
 
 - [Tarot Card](#tarot-card)
-- [tl;dr](tl-dr)
+- [tl;dr](#tldr)
 - [Characteristics](#characteristics)
 - [Behavior Patterns](#behavior-patterns)
 - [Pain Points](#pain-points)

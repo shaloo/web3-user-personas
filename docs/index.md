@@ -1,4 +1,5 @@
 ---
+template: landing-style.html
 alias: index
 title: "Web3 User Personas"
 description: "Project landing page with an overview of the study, key insights and purpose."
@@ -6,17 +7,21 @@ description: "Project landing page with an overview of the study, key insights a
 
 *Welcome to the [[persona-archetypes|Web3 User Personas]] project.*
 
-Understanding the target Web3 users is the foundation for building products and solutions that stick.
+Understanding the target [[web3-personas|Web3 user personas]] is the foundation for building products and solutions that stick.
+
+This study introduces a purpose-built [[persona-archetypes#persona-template|persona template]] that we used to analyze the anatomy of Web3 users, their mindset, motivations, daily tools, pain points and behavioral patterns. The template drives a clear action plan for engaging each persona effectively and accelerating the path to onboarding the next gazillion users into the Web3 ecosystem.
 
 ## tl;dr
 
 {==
 
-This study serves as a practical blueprint for product strategists, technical marketers, and architects to build for Web3 today while designing intelligently for the [Web4](https://www.blockchain-council.org/ai/web4/) ecosystem of tomorrow.
+This study is a practical blueprint for product strategists, technical marketers, and architects. It helps you scale Web3 user onboarding and build products, content, and experiences that work for today’s Web3 landscape and the emerging [Web4](https://www.blockchain-council.org/ai/web4/) ecosystem.
 
-**Driving meaningful engagement** through a Web3 product, solution, design, content, and messaging requires understanding and staying aligned with the evolving nuances of Web3 user personas. In reality, a user’s behavior may blend traits from [[persona-archetypes#persona-types|more than one persona types]] featured in this study.
+**Driving meaningful engagement** through a Web3 product, solution, design, content, and messaging requires understanding and staying aligned with the evolving nuances of your target personas.
 
-Another contribution of this study is a concise [[persona-archetypes#persona-template|persona template]]. Utilize this template to sketch your own target personas. This template draws from off-chain user behaviors published in online studies and reports. Align and reinforce your product strategy with real user motivations instead of anecdotal guesses.
+In reality, a user’s behavior may blend traits from [[persona-archetypes#persona-types|more than one persona types]] featured in this study.
+
+You can custom build your own target persona by using our concise [[persona-archetypes#persona-template|persona template]]. This template draws from off-chain user behaviors published in online studies and reports. 
 
 ==}
 

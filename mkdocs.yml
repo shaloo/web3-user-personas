@@ -36,6 +36,7 @@ theme:
     repo: fontawesome/brands/github
   font:
     text: DM Sans
+  custom_dir: docs/overrides
 
 nav:
   - Home: index.md

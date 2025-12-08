@@ -6,10 +6,22 @@ description: 'All aboutLong-term Crypto Investor Persona and how to target them'
 
 # 4. Long-term Investor: HODL Harold
 
+*Walking the solitary path of patience and wisdom, holding the light of long-term vision*
+
 <div class="grid cards" markdown>
 
-- *Walking the solitary path of patience and wisdom, holding the light of long-term vision*
-  ![Hodler/Long-term Investor (Tarot: The Hermit (IX))](../img/4_hodler.webp)
+- ![Hodler/Long-term Investor (Tarot: The Hermit (IX))](../img/4_hodler.webp)
+
+- ## Persona Characteristics
+
+    - Long-term perspective (years to decades)
+    - Focus on fundamental analysis
+    - Lower frequency engagement
+    - Dollar-cost averaging strategies
+
+</div>
+
+<div class="grid cards" markdown>
 
 - ## tl;dr
 
@@ -21,19 +33,10 @@ description: 'All aboutLong-term Crypto Investor Persona and how to target them'
     - Seeks yields and true ownership, non-custodial designs for interacting with Web3 systems
     - Prioritizes patience over panic, views volatility as noise rather than signal,
       often draws from behavioral finance principles like loss aversion to avoid emotional trades
-    - Pain points:
 
-        - erosion in confidence due to extreme price swings
-        - security threats (hacks, lost keys)
-        - stifling of planning due to regulatory uncertainty
-        - complexity of self-custody demands
+</div>
 
-- ## Characteristics
-
-    - Long-term perspective (years to decades)
-    - Focus on fundamental analysis
-    - Lower frequency engagement
-    - Dollar-cost averaging strategies
+<div class="grid cards" markdown>
 
 - ## Behavior Patterns
 
@@ -41,25 +44,6 @@ description: 'All aboutLong-term Crypto Investor Persona and how to target them'
     - Participates in staking and governance
     - Shares educational content
     - Promotes adoption narratives
-
-- ## Pain Points
-
-    - Short-term volatility
-    - Regulatory threats
-    - Security concerns compounded by self-custody preference
-    - Irrecoverable losses, need for constant vigilance
-
-- ## Engagement Hooks
-
-    - Low-frequency but impactful interactions
-    - Consistent educational focus
-
-- ## Primary Platforms
-
-    - Reddit ([r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/))
-    - Bitcoin forums
-    - CEXs
-    - Hardware wallet communities
 
 - ## Tech Affinity
 
@@ -81,11 +65,36 @@ description: 'All aboutLong-term Crypto Investor Persona and how to target them'
     - Ability to leverage service composability and access diverse assets and liquidity pools with precision
       using advanced data-driven strategies
     - Built-in mixers/ZK proofs for transaction obfuscation; real-time phishing detection and dApp risk scoring
+    
+- ## Pain points
 
+    - *Short-term Volatility:* Erosion in confidence due to extreme price swings
+    - security threats (hacks, lost keys)
+    - *Regulatory Threats:* Stifling of planning due to regulatory uncertainty
+    - *Security:* Concerns compounded by the complexity of self-custody preference
+    - *Constant Vigilance:* Irrecoverable losses, staying ahead of mitigating threats
+
+- ## Engagement Hooks
+
+    - Low-frequency but impactful interactions
+    - Consistent educational focus
+
+- ## Communication Channels
+
+    - Reddit ([r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/))
+    - Bitcoin forums
+    - CEXs
+    - Hardware wallet communities
+
+- ## Popular Platforms
+
+    - ddd
 
 </div>
 
 ## How to Target?
+
+{% include "how_to_target.md" %}
 
 <div class="grid cards" markdown>
 
@@ -124,10 +133,36 @@ description: 'All aboutLong-term Crypto Investor Persona and how to target them'
 
 ## Action Plan
 
-* **Research & Refine:** Do your own research. Use this template to guide your design, documentation and product feature decisions. The lack of formal UX research reports in Web3 is a testament that this is an underexplored area where original research could provide significant competitive advantage.
-* **Design Philosophy:** Intuitive, non-custodial interfaces, futuristic yet accessible aesthetics, privacy focused and secure visuals emphasizing user control without confusing jargon, social recovery and DAO participation ease.
-* **Communication Style:** Respect their expertise, save the time, fact and data driven communication approach, educational rather than promotional style, multi-format content delivery, in-depth and highlight long term value proposition, align with favorable content channels and timing, long form research reports from favored channels such as Messari, Ethereum research, the Block, academic papers, smart contract audit reports, architectural whitepapers, tokenomics documentation, protocol sustainability models, governance roadmap.
-* **Product Features:** AI powered folio analytics, real-time risk assessment tools, integration enabling holding of tokenized RWA, privacy preserving transaction ability, one-tap voting and forums tied to holdings, fostering engagement and shared decision-making for long-term ecosystem alignment.
+{% include "action_plan_warning.md" %}
+
+### Design Philosophy
+
+- Intuitive, non-custodial interfaces
+- Futuristic yet accessible aesthetics
+- Privacy focused and secure visuals emphasizing user control without confusing jargon
+- Social recovery
+- Ease of DAO participation
+
+### Communication Style
+
+- Respect their expertise, save their time
+- Use fact and data driven communication approach
+- Follow educational rather than promotional style
+- Use multi-format content delivery
+- Provide information in-depth and highlight long term value proposition
+- Align with favorable content channels and timing
+- Prefer long form research reports similar to their favored channels such as Messari, Ethereum research, the Block, and academic papers
+- Latch onto smart contract audit reports, architectural whitepapers, tokenomics documentation, protocol sustainability models
+- Provide governance roadmap
+
+### Product Features
+
+- AI powered folio analytics
+- Real-time risk assessment tools
+- Integration that enables holding of tokenized RWA
+- Privacy preserving transaction ability
+- One-tap voting
+- Forums tied to holdings that foster engagement and shared decision-making for long-term ecosystem alignment
 
 ## See Also
 

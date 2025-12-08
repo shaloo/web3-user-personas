@@ -6,10 +6,33 @@ description: 'All about Web3 Dev Persona and how to target them'
 
 # 5. Developer: BUIDLer Ben
 
+*Pouring innovation into the digital realm, guided by the stars of technological possibility*
+
 <div class="grid cards" markdown>
 
-- *Pouring innovation into the digital realm, guided by the stars of technological possibility*
-  ![Web3 Developer (Tarot: The Star (XVII))](../img/5_webp_builder_dev.webp)
+- ![Web3 Developer (Tarot: The Star (XVII))](../img/5_webp_builder_dev.webp)
+
+- ## Persona Characteristics
+
+    * *Developer profile:*
+        
+        - Blockchain expert with 2+ years of Web3 experience
+        - Contributor to open-source projects
+        - Innovation- and experimentation-focused
+
+    * *Community engagement:* 
+    
+        - Active in code commits, forums, and broader Web3 communities
+
+    * *Technical focus:*
+
+        - Developing cross-chain and NFT infrastructure
+        - Integrating DeFi protocols and AI solutions
+        - Addressing scaling challenges for high-throughput applications
+
+</div>
+
+<div class="grid cards" markdown>
 
 - ## tl;dr
 
@@ -45,23 +68,9 @@ description: 'All about Web3 Dev Persona and how to target them'
         * Ecosystem-specific solutions attract builder attention
         * Stablecoin infrastructure and tooling are high-demand areas
 
-- ## Characteristics
+</div>
 
-    * *Developer profile:*
-        
-        - Blockchain expert with 2+ years of Web3 experience
-        - Contributor to open-source projects
-        - Innovation- and experimentation-focused
-
-    * *Community engagement:* 
-    
-        - Active in code commits, forums, and broader Web3 communities
-
-    * *Technical focus:*
-
-        - Developing cross-chain and NFT infrastructure
-        - Integrating DeFi protocols and AI solutions
-        - Addressing scaling challenges for high-throughput applications
+<div class="grid cards" markdown>
 
 - ## Behavior Patterns
 
@@ -76,6 +85,18 @@ description: 'All about Web3 Dev Persona and how to target them'
     - Is 30% open to remuneration in crypto
     - From of account abstraction, rollups, layer-2 scaling and wallet SDKs they are quick to jump to newer trends such as chain abstraction, restaking, AI enabled Web3 solutions
     - Adopts emerging trends quickly, shifting from [2023/24 developments](https://www.alchemy.com/blog/web3-developer-report-2023) (account abstraction, rollups, layer-2 scaling, and wallet SDKs) to newer innovations such as chain abstraction, restaking, and AI-enabled Web3 solutions
+
+- ## Tech Affinity
+
+    - Smart contract development and deployment
+    - Cross-chain development
+    - Testing on Testnets
+    - Integration with Wallet SDKs, DeFi protocols
+    - Specialized Layer-2 chains
+    - Learning and skill building 
+    - Improving UX with modern Web3 tooling and Web2 like simplicity
+    - Infrastructure libraries for onboarding, setting up new protocols, debugging tooling, AI enabled vibe coding for quickly putting together frontends and user experiences
+
 
 - ## Pain Points
 
@@ -94,7 +115,7 @@ description: 'All about Web3 Dev Persona and how to target them'
     - Hackathons, Web3 Conferences, participating in the community for intellectual and governance experiences
     - Newcomers need more hand holding, seasoned developers need intellectual challenges
 
-- ## Primary Platforms
+- ## Communication Channels
 
     * [GitHub](https://github.com/)
     * Discord dev channels
@@ -102,20 +123,15 @@ description: 'All about Web3 Dev Persona and how to target them'
     * Specialized forums on dev, Web3 trends, new EIPs, standards
     * EVM, non-EVM, L2 blockchains
 
-- ## Tech Affinity
+- ## Popular Platforms
 
-    - Smart contract development and deployment
-    - Cross-chain development
-    - Testing on Testnets
-    - Integration with Wallet SDKs, DeFi protocols
-    - Specialized Layer-2 chains
-    - Learning and skill building 
-    - Improving UX with modern Web3 tooling and Web2 like simplicity
-    - Infrastructure libraries for onboarding, setting up new protocols, debugging tooling, AI enabled vibe coding for quickly putting together frontends and user experiences
-
+    - ddd
+   
 </div>
 
 ## How to Target?
+
+{% include "how_to_target.md" %}
 
 <div class="grid cards" markdown>
 
@@ -161,17 +177,43 @@ description: 'All about Web3 Dev Persona and how to target them'
 
 ## Action Plan
 
-* **Research & Refine:** Do your own research. Use this template to guide your design, documentation and product feature decisions. The lack of formal UX research reports in Web3 is a testament that this is an underexplored area where original research could provide significant competitive advantage.
-* **Design Philosophy:** DX first approach with clean APIs, comprehensive documentation, sample code and intuitive tooling, focus on stability and efficiency than flashy features, start with the basics and allow advanced customization, design for interoperability from ground up with multi-chain native interfaces.
-* **Communication Style:** Prioritize non-US geographies where blockchain development is surging, address cross-chain development needs, emphasize practical real world problem solving over speculation, target the 70% of 2+ year experienced developers, engage with technical tutorials and hands on resources, workshops, emphasize professional growth than quick financial gains, leverage developer communities and word-of-mouth recommendations.
-* **Product Features:** Ensure comprehensive SDKs and APIs with excellent documentation, learning pathways, testing and development tooling, flexibility in integration, monitoring and optimization features that cater to global developer communities, ease of collaboration across geographies.
+
+{% include "action_plan_warning.md" %}
+
+### Design Philosophy
+
+- DX first approach with clean APIs
+- Comprehensive documentation, sample code and intuitive tooling
+- Focus on stability and efficiency than flashy features
+- Start with the basics and allow advanced customization
+- Design for interoperability from ground up with multi-chain native interfaces
+
+### Communication Style
+
+- Prioritize non-US geographies where blockchain development is surging
+- Address cross-chain development needs
+- Emphasize practical real world problem solving over speculation
+- Target the 70% of 2+ year experienced developers
+- Engage with technical tutorials and hands on resources, workshops
+- Focus on professional growth than quick financial gains
+- Leverage developer communities and word-of-mouth recommendations
+
+### Product Features
+
+- Ensure comprehensive SDKs and APIs with excellent documentation
+- Learning pathways, testing and development tooling
+- Flexibility in integration with domain-specific tooling
+- Enable monitoring and optimization features that cater to global developer communities
+- Built-in ease of collaboration across geographies
+- Integration with AI-enabled coding suggestions involving APIs, reusing code snippets, analyzing algorithms
+- Ability to download integrated API and SDK coce, copy as markdown for enabling LLM integrations
 
 ## See Also
 
 * [DeFi Degen](persona-1-de-fi-degen.md)
 * [DAO Contributor](persona-8-dao-contributor.md)
 * [Web3 Foundation](https://web3.foundation/)
-* [2025 Web3 Trends](https://metana.io/blog/top-15-web3-trends-to-watch-in-2025/)
+* [2025 Web3 Tech Trends](https://metana.io/blog/top-15-web3-trends-to-watch-in-2025/)
 * [Web3 Workforce Survey 2024](https://consensys.io/insight-report/web3-workforce-survey#05-a-decentralized-future-for-compensation)
 * [Web3 Developer Motivations](https://www.risein.com/blog/report-motivations-of-developers-in-joining-web3)
 * [Intersection of Web3 and AI](https://arxiv.org/html/2411.04318v1)

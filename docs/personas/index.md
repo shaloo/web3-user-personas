@@ -51,11 +51,12 @@ The core building blocks of the template are:
 
 - [Tarot Card](#tarot-card)
 - [tl;dr](#tldr)
-- [Characteristics](#characteristics)
+- [Persona Characteristics](#persona-characteristics)
 - [Behavior Patterns](#behavior-patterns)
 - [Pain Points](#pain-points)
 - [Engagement Hooks](#engagement-hooks)
-- [Primary Platforms](#primary-platforms)
+- [Communication Channels](#communication-channels)
+- [Popular Platforms](#popular-platforms)
 - [Tech Affinity](#tech-affinity)
 - [How to Target?](#how-to-target)
 - [Action Plan](#action-plan)
@@ -67,16 +68,16 @@ We have personified each Web3 user persona with a Tarot Card and a rhyming ident
 
 We do not have the best possible Tarot card visuals yet. In the initial version of the study, we have used open source tooling to let AI generate a first cut. In the subsequent revisions, we plan to get useful constructive feedback from designers and make these visual cues more attention worthy and something to lighten the mood!
 
-### tl;dr
-
-This section gives decision-makers a quick, high-level view of the personas.
-Use this to quickly align on product, design, and marketing strategies before sign-off.
-
-### Characteristics
+### Persona Characteristics
 
 Characteristics of a user define traits such as their values, beliefs and thinking patterns. These are not directly visible but inferred via observed behavior. Characteristics answer the 'Who' and 'Why' questions about a user. They uniquely identify, differentiate, and influence the user's mindset and motivations.
 
 *Example: A person who is intelligent, naturally curious, rebellious and risk taking.*
+
+### tl;dr
+
+This section gives decision-makers a quick, high-level view of the personas along with key behaviors, pain points, ways to target them and insights on building an action plan.
+Use this to quickly align on product, design, and marketing strategies before sign-off.
 
 ### Behavior Patterns
 
@@ -84,6 +85,15 @@ Behavior of a user refers to the observable action or reaction in a specific sit
 
 *Example: Betting on high risk projects that are not regulated, or defying traditional norms. In case of a market drop or any unforeseen financial event, this behavior may change temporarily but the underlying character may not change in the long run.*
 
+### Tech Affinity
+
+Tech Affinity maps the specific Web3 technologies and solutions that resonate with each persona. It highlights the tools and features distinct to each user type. For example:
+
+* **For Power Users:** Deliver efficiency, advanced integrations, and technical depth.
+
+* **For Newcomers:** Focus on guardrails for successful onboarding without overwhelming. Use guided onboarding and simplified education that reduces friction.
+
+Aligning with a persona's tech affinity helps product builders by providing a strategic blueprint for resource allocation, feature prioritization, and user experience (UX) design. Essentially, it ensures the product is built on the right infrastructure and offers the right level of complexity for its target user.
 
 ### Pain Points
 
@@ -111,21 +121,17 @@ In today’s attention economy, an engagement hook is essential to capture the i
 
 Web3 user personas respond to distinct engagement hooks as per their behavior, affinities, and tendencies. These shape how a new product is received and whether it retains users over time. Technical marketers can use these insights to time and tailor product messaging and content for stronger traction.
 
-### Primary Platforms
+### Communication Channels
 
-Primary platforms are the channels where a Web3 persona engages.
+This refers to the communication channels where a Web3 persona is most active and reachable.
 
-These may include domain or interest-specific communities. Users and influencers share insights there that shape product design and communication strategy for better reach.
+These often include domain-specific or interest-specific communities where users and the social influencers share insights that can inform product design and communication strategies for greater reach and impact.
 
-### Tech Affinity
+### Popular Platforms
 
-Tech Affinity maps the specific Web3 technologies and solutions that resonate with each persona. It highlights the tools and features distinct to each user type. For example:
+“Popular platforms” refers to the Web3 products, services, and solutions a persona regularly uses or prefers.
 
-* **For Power Users:** Deliver efficiency, advanced integrations, and technical depth.
-
-* **For Newcomers:** Focus on guardrails for successful onboarding without overwhelming. Use guided onboarding and simplified education that reduces friction.
-
-Aligning with a persona's tech affinity helps product builders by providing a strategic blueprint for resource allocation, feature prioritization, and user experience (UX) design. Essentially, it ensures the product is built on the right infrastructure and offers the right level of complexity for its target user.
+Understanding these choices helps reveal which product features, design patterns, messaging styles, and engagement hooks resonate most with that persona.
 
 ### How to Target?
 

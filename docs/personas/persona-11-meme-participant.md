@@ -6,10 +6,23 @@ description: 'All about Meme Culturist Persona and how to target them'
 
 # 11. Meme Culturist: Meme Mervin
 
+*Surfing the illusive waves of meme magic under the mysterious crypto moonlight*
+  
 <div class="grid cards" markdown>
 
-- *Surfing the illusive waves of meme magic under the mysterious crypto moonlight*
-  ![Meme Culturist (Tarot: The Moon (XVIII))](../img/11_meme-maven.webp)
+- ![Meme Culturist (Tarot: The Moon (XVIII))](../img/11_meme-maven.webp)
+
+- ## Persona Characteristics
+
+    - Entertainment, humor and community culture focused
+    - Speculative small investments
+    - Rapid decision making driven by social media narratives
+    - Believes in rebellion against norms, institutions
+    - FOMO and trend following, interest waxes and wanes within a short span
+
+</div>
+
+<div class="grid cards" markdown>
 
 - ## tl;dr
 
@@ -23,13 +36,9 @@ description: 'All about Meme Culturist Persona and how to target them'
     - Gives in to gamified UX, meme themes, community driven viral trends
     - Fixates on "psychological illusion of token accessibility" with low prices, ignoring over 80% loss rates
 
-- ## Characteristics
+</div>
 
-    - Entertainment, humor and community culture focused
-    - Speculative small investments
-    - Rapid decision making driven by social media narratives
-    - Believes in rebellion against norms, institutions
-    - FOMO and trend following, interest waxes and wanes within a short span
+<div class="grid cards" markdown>
 
 - ## Behavior Patterns
 
@@ -38,6 +47,16 @@ description: 'All about Meme Culturist Persona and how to target them'
     - Shares crypto memes and culture, promotes sharing of narratives
     - Follows viral trends and challenges, latched onto influencer, seeks latest influencer
     - Engages in community celebrations (HODL posts, Profit Screenshots, Moon shots), gain parades, underlying humor, irony, and rebellious spirit
+
+- ## Tech Affinity.
+
+    - *Layer 2, Layer 3 Scaling:* These solutions enable faster transactions and lower gas fees, which is critical for high-frequency, low-value speculative trading.
+    - *Decentralized exchanges & one-click swap UIs :* Example: Uniswap, PancakeSwap, 1-inch, aggregator UIs. These enable instant access to meme token listings, low friction for small, speculative trades, and token sniping.
+    - *Social Sentiment Analysis, Memetic Amplification Tools:* Example: LunarCrush, Santiment, CryptoMood. These tools enable quick discovery and community coordination for launches, memes and FOMO spread for shaping community behavior with aspirational early mover advantage. Integration with social bots for instant notifications, community coordination, viral content distribution. 
+    - *Meme Creation & Sharing Tool Integration:* Integral to Meme culturist. Integrate with social channels as well as tools such as Imgflip, Canva, GIF tools, other popular meme generators.
+    - *On-chain analytics & token-sniffers:* Quick sanity checks (tokenomics, owner wallets, liquidity locks). Tools that show liquidity lock status, contract ownership and [rug-pull risks](https://www.sciencedirect.com/science/article/pii/S2096720925000636) to mitigate scams. Real-time fraud detection ensures safety while allowing them to continue small investment but high-risk trading.
+    - *Low-friction Fiat on-ramp, custodial basic mobile wallets:* Enable quick onboarding, small bets from mainstream users, lowers barrier for entertainment and fun driven spends.
+    - *Community Rewards, Gamified Engagement, Leaderboards:* Amplifies virality, encourages sharing, social proof, community incentive driven growth, desire for a dopamine reward loop similar to gambling.
 
 - ## Pain Points
 
@@ -53,7 +72,7 @@ description: 'All about Meme Culturist Persona and how to target them'
     - Gamified trading
     - Social proof, intermittent variable rewards
 
-- ## Primary Platforms 
+- ## Communication Channels
 
     - Twitter/X
     - Reddit [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/)
@@ -61,19 +80,15 @@ description: 'All about Meme Culturist Persona and how to target them'
     - Discord
     - TikTok
 
-- ## Tech Affinity.
+- ## Popular Platforms
 
-    - *Layer 2, Layer 3 Scaling:* These solutions enable faster transactions and lower gas fees, which is critical for high-frequency, low-value speculative trading.
-    - *Decentralized exchanges & one-click swap UIs :* Example: Uniswap, PancakeSwap, 1-inch, aggregator UIs. These enable instant access to meme token listings, low friction for small, speculative trades, and token sniping.
-    - *Social Sentiment Analysis, Memetic Amplification Tools:* Example: LunarCrush, Santiment, CryptoMood. These tools enable quick discovery and community coordination for launches, memes and FOMO spread for shaping community behavior with aspirational early mover advantage. Integration with social bots for instant notifications, community coordination, viral content distribution. 
-    - *Meme Creation & Sharing Tool Integration:* Integral to Meme culturist. Integrate with social channels as well as tools such as Imgflip, Canva, GIF tools, other popular meme generators.
-    - *On-chain analytics & token-sniffers:* Quick sanity checks (tokenomics, owner wallets, liquidity locks). Tools that show liquidity lock status, contract ownership and [rug-pull risks](https://www.sciencedirect.com/science/article/pii/S2096720925000636) to mitigate scams. Real-time fraud detection ensures safety while allowing them to continue small investment but high-risk trading.
-    - *Low-friction Fiat on-ramp, custodial basic mobile wallets:* Enable quick onboarding, small bets from mainstream users, lowers barrier for entertainment and fun driven spends.
-    - *Community Rewards, Gamified Engagement, Leaderboards:* Amplifies virality, encourages sharing, social proof, community incentive driven growth, desire for a dopamine reward loop similar to gambling.
+    - ddd
 
 </div>
 
 ## How to Target?
+
+{% include "how_to_target.md" %}
 
 <div class="grid cards" markdown>
 
@@ -117,10 +132,34 @@ description: 'All about Meme Culturist Persona and how to target them'
 
 ## Action Plan
 
-* **Research & Refine:** Do your own research. Use this template to guide your design, documentation and product feature decisions. The lack of formal UX research reports in Web3 is a testament that this is an underexplored area where original research could provide significant competitive advantage.
-* **Design Philosophy:** Speed and delight first with meme-forward aesthetics. Lean towards playful, colorful, meme-inspired design elements. Meet instant gratification mindset with quick actions and instant visual feedback. Provide badges, visual rewards (like confetti for a major gain), gamified interfaces to signal achievements and sharing, ability to share screenshots with built-in branding, quick usability on mobile with one thumb navigation and single-handed use. For DX, allow community developers to build tools, bots, and analytics on top of the platform. Enable social integration, tools for meme creation, automation with trading bots, build real-time price notifications via webhooks. Focus on a welcoming design environment for newcomers to the community.
-* **Communication Style:** Leverage primary social channels (Twitter, Discord, Telegram, TikTok, Reddit). Use memes as the predominant communication vehicle for the target audience. Tie in the product or service's value proposition directly to current viral internet and crypto trends. Frame the product as a tool or an enabler for the community, built by the community. This empowers the target audience against "whales" or "traditional finance," appealing to their rebellious mindset. Emphasize urgency and limited opportunities to appeal the FOMO mindset, highlight big wins for community members, feature key user generated content and stories, use cheeky, impudent tone that is humorous, anti-establishment and casual. Engage with frequent, viral community challenges and competitions to cater to frequent small win mentality.
-* **Product Features:** Must have three key types of product features related to meme trading, social and security with focus on business critical narrative tracking features. For example, trending meme dashboards, fast in-and-out trade capabilities, influencer alert systems, community sentiment meter, quick swap interface, memecoin calendar, raid (community buy events) coordination, trophy room and community challenges. For safety add community warning systems, rug-pull scanners, loss prevention nudges, educational safety information delivered via memes, "play money" paper trading mode for practice. Also, optimize for single-coin focused discussions, support specific coin communities to leverage viral content creation patterns. Cross-community and blockchain interactions are an added plus.
+{% include "action_plan_warning.md" %}
+
+### Design Philosophy
+
+- Speed and delight first with meme-forward aesthetics
+- Lean towards playful, colorful, meme-inspired design elements
+- Meet instant gratification mindset with quick actions and instant visual feedback
+- Provide badges, visual rewards (like confetti for a major gain), gamified interfaces to signal achievements and sharing, ability to share screenshots with built-in branding, quick usability on mobile with one thumb navigation and single-handed use
+- For DX, allow community developers to build tools, bots, and analytics on top of the platform
+- Enable social integration, tools for meme creation, automation with trading bots, build real-time price notifications via webhooks
+- Focus on a welcoming design environment for newcomers to the community
+
+### Communication Style
+
+- Leverage primary social channels (Twitter, Discord, Telegram, TikTok, Reddit)
+- Use memes as the predominant communication vehicle for the target audience
+- Tie in the product or service's value proposition directly to current viral internet and crypto trends
+- Frame the product as a tool or an enabler for the community, built by the community
+- This empowers the target audience against "whales" or "traditional finance," appealing to their rebellious mindset
+- Emphasize urgency and limited opportunities to appeal the FOMO mindset, hghlight big wins for community members, feature key user generated content and stories, use cheeky, impudent tone that is humorous, anti-establishment and casual
+- Engage with frequent, viral community challenges and competitions to cater to frequent small win mentality
+
+### Product Features
+
+- Must have three key types of product features related to meme trading, social and security with focus on business critical narrative tracking features *(for example, trending meme dashboards, fast in-and-out trade capabilities, influencer alert systems, community sentiment meter, quick swap interface, memecoin calendar, raid (community buy events) coordination, trophy room and community challenges)*
+- For safety add community warning systems, rug-pull scanners, loss prevention nudges, educational safety information delivered via memes, "play money" paper trading mode for practice
+- Optimize for single-coin focused discussions, support specific coin communities to leverage viral content creation patterns
+- Cross-community and blockchain interactions are an added plus
 
 ## See Also
 

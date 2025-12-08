@@ -6,10 +6,23 @@ description: 'All about AI + Crypto Wiz persona and how to target them'
 
 # 13. AI + Crypto Wiz: Shakey Asimotoshi
 
+*Spinning the algorithmic wheel where artificial intelligence meets decentralized fortune*
+
 <div class="grid cards" markdown>
 
-- *Spinning the algorithmic wheel where artificial intelligence meets decentralized fortune*
-  ![AI + Crypto Wiz (Tarot: The Wheel of Fortune (X))](../img/13_wheel-fortune.webp)
+- ![AI + Crypto Wiz (Tarot: The Wheel of Fortune (X))](../img/13_wheel-fortune.webp)
+
+- ## Persona Characteristics
+
+    - Operates on the intersection of AI and blockchain, manages agent wallets, permissions
+    - Participates in AI-powered, on-chain trading and analytics for real-time financial insights
+    - Engages with AI-generated content and NFTs
+    - Contributes compute/data, rents out GPUs, submits curated data sets (as data scientist) to earn token rewards
+    - Often this persona is a developer, researcher, or highly-informed investor who prefers desktop experiences and technical documentation
+
+</div>
+
+<div class="grid cards" markdown>
   
 - ## tl;dr
 
@@ -21,13 +34,10 @@ description: 'All about AI + Crypto Wiz persona and how to target them'
     - Creates/mints and market AI-generated NFTs and on-chain creative outputs
     - Participates in decentralized AI governance & token economies (stake, run nodes/providers votes on model upgrades, treasury spending, or compute pricing)
 
-- ## Characteristics
+</div>
 
-    - Operates on the intersection of AI and blockchain, manages agent wallets, permissions
-    - Participates in AI-powered, on-chain trading and analytics for real-time financial insights
-    - Engages with AI-generated content and NFTs
-    - Contributes compute/data, rents out GPUs, submits curated data sets (as data scientist) to earn token rewards
-
+<div class="grid cards" markdown>
+  
 - ## Behavior Patterns
 
     - Uses AI for trading strategies, DeFAI yields
@@ -36,29 +46,6 @@ description: 'All about AI + Crypto Wiz persona and how to target them'
     - Explores AI-generated NFT markets
     - Participates in tech-focused communities
     - Mesmerized with the explosive growth potential of AI+Crypto tech, eager to explore unchartered territories of bots spanning legal and regulatory jurisdictions
-
-- ## Pain Points
-
-    - Data privacy concerns
-    - Adapting to market volatility
-    - Technical complexity, factoring in non-AI insights, access to SOTA GPUs
-    - Integration challenges with both Web3 and AI popular tech and off-chain data reliably
-    - Infrastructure reliability for moving heavy AI workloads fully on-chain; currently hybrid (on-chain orchestration + off-chain compute)
-    - Rising regulatory risk around automated trading agents and algorithmic collusion
-
-- ## Engagement Hooks
-
-    - Tech-driven communities (cutting edge AI, Crypto, Blockchain research and insights)
-    - Experimental focus, GPU access
-    - Efficiency and optimization maximization, ROI performance, AI Strategy
-    - 24x7 APY growth yield optimization across thousands of pools
-
-- ## Primary Platforms
-
-    - AI-powered trading platforms, solutions (Uniswap, Compound, BluWhale, 3Comma, Stoic, Akash Networks)
-    - Discord dev channels
-    - Twitter/X
-    - GPU and AI conferences (ETHDenver, NVIDIA GTC, KubeCon)
 
 - ## Tech Affinity
 
@@ -70,9 +57,47 @@ description: 'All about AI + Crypto Wiz persona and how to target them'
     - AI-centric tokens & incentive layers, NFTs & generative AI pipelines (content)
     - Privacy-preserving computation (FHE, MPC, TEEs)
 
+- ## Pain Points
+
+    - Handling 24x7 APY growth yield optimization across thousands of pools
+    - Data privacy concerns
+    - Adapting to market volatility
+    - Technical complexity, factoring in non-AI insights, access to SOTA GPUs
+    - Integration challenges with both Web3 and AI popular tech and off-chain data reliably
+    - Infrastructure reliability for moving heavy AI workloads fully on-chain; currently hybrid (on-chain orchestration + off-chain compute)
+    - Rising regulatory risk around automated trading agents and algorithmic collusion
+
+- ## Engagement Hooks
+
+    - Tech-driven communities (cutting edge AI, Crypto, Blockchain research and insights)
+    - Experimental focus, GPU access *(for example, launch your own decentralized monetized node, stake spare GPU power)*
+    - Efficiency and optimization maximization, ROI performance, AI Strategy
+    - Publicly verifiable leaderboards, real-time dashboard challenges
+    - Appeal to the need for technical depth and decentralized security *(for example, deep dive paper that uses the blockchain's transparency layer to verify the AI's logic, mitigating the risk of rug pulls or unaccountable algorithms)*
+
+- ## Communication Channels
+
+    - Discord dev channels
+    - Twitter/X
+    - GitHub, GitLab, code repository discussion forums
+    - Web3-Native Research and Analytical Media (Substack, )
+    - GPU and AI conferences (ETHDenver, NVIDIA GTC, KubeCon)
+
+
+- ## Popular Platforms
+
+    - AI-powered trading platforms (Uniswap, Compound, BluWhale, Stoic)
+    - [3Commas](https://3commas.io/) (**Users:** 220K, **Funding:** [~$40M](https://finestel.com/blog/3commas-review/))
+    - [Cryptohopper](https://www.cryptohopper.com/)  (**Users:** [~400K](https://www.nansen.ai/post/top-automated-trading-bots-for-cryptocurrency-in-2025-maximize-your-profits-with-ai)
+    - [Akash Network](https://akash.network/) (**Active Leases/Deployments:** 20K, **Market Cap:** [$125.7M](https://tokenterminal.com/explorer/projects/akash-network/metrics/market-cap-fully-diluted?interval=ytd&granularity=quarter))
+    - [SingularityNET](https://singularitynet.io/) (**Market Cap:** [~$30M](https://www.bybit.com/en/price/singularitynet/#:~:text=Price%20Statistics,recorded%20on%20Dec%208%2C%202025.))
+    - ChainGPT (**Market Cap:** $32M)
+
 </div>
 
 ## How to Target?
+
+{% include "how_to_target.md" %}
 
 <div class="grid cards" markdown>
 
@@ -120,10 +145,38 @@ description: 'All about AI + Crypto Wiz persona and how to target them'
 
 ## Action Plan
 
-* **Research & Refine:** Do your own research. Use this template to guide your design, documentation and product feature decisions. The lack of formal UX research reports in Web3 is a testament that this is an underexplored area where original research could provide significant competitive advantage.
-* **Design Philosophy:** Data heavy UX but insightful dashboards with customizable visualizations, backtest graphs, logs, and health metrics. Modular building DX blocks (compute, data, tokens) and an SDK so builders wire up agents quickly, low friction onboarding, and one click deployment.
-* **Communication Style:** Reach via research and active dev channels across GitHub, DevRel content, Discord, specialized forums, and technical webinars. Use notebooks, backtest reproducible examples, and compute cost breakdowns to build trust. Resonate with sovereignty mindset with protocol grants, hackathons, and data/model monetization case studies, establish thought leaderships on privacy and ethics by publishing whitepapers, hosting AMAs about FHE, privacy and agent governance. AI focused crypto channels, performance driven marketing approach, educational content on automation and Web 4.0, integrate with industry consortiums (Fetch.ai partnered with Bosch to form a consortium for industrial applications of AI agents, while SingularityNET collaborated with Cardano and trialed AI in healthcare diagnostics with the Mayo Clinic).
-* **Product Features:** Essential features include single click agent deployment, rollback, flexible, secure and customizable AI agent policies, kill switches, audit trails and on-chain controls, governance UIs, token payment rails and revenue splits, [verifiable compute, reasoning and performance](https://www.researchgate.net/publication/365377903_Applying_Artificial_Intelligence_in_Cryptocurrency_Markets_A_Survey),  built-in progressive disclosure that defaults to quick launch but also offers an “expert mode” for parameter tuning, model selection and API keys for composability. No-code platform for launching AI agents that act asWeb3 AI Chatbot, Smart Contract Auditor, NFT Generator, Trading Assistant and evolve. Wealth coach that personalizes financial insights, strategies, and risk analysis. AI powered strategy marketplace, predictive analytics dashboard, cross-chain AI agent orchestration, automated compliance and reporting.
+{% include "action_plan_warning.md" %}
+
+### Design Philosophy
+
+- Offer data heavy UX but insightful dashboards with customizable visualizations
+- Include backtest graphs, logs, and health metrics
+- Modular building DX blocks (compute, data, tokens) and an SDK so builders wire up agents quickly
+- Provide low friction onboarding and one click deployment.
+
+###Communication Style
+
+- Reach via research and active dev channels across GitHub, DevRel content, Discord, specialized forums, and technical webinars
+- Use notebooks, backtest reproducible examples, and compute cost breakdowns to build trust
+- Resonate with sovereignty mindset with protocol grants, hackathons, and data/model monetization case studies
+- Establish thought leaderships on privacy and ethics by publishing whitepapers, hosting AMAs about FHE, privacy and agent governance
+- AI focused crypto channels
+- Performance driven marketing approach
+- Educational content on automation and Web 4.0
+- Integrate with industry consortiums *(Fetch.ai partnered with Bosch to form a consortium for industrial applications of AI agents, while SingularityNET collaborated with Cardano and trialed AI in healthcare diagnostics with the Mayo Clinic)*
+
+###Product Features
+
+- Essential features include single click agent deployment and rollback
+- Flexible, secure and customizable AI agent policies
+- Fetures such as kill switches, audit trails and on-chain controls, governance UIs, token payment rails and revenue splits, [verifiable compute, reasoning and performance](https://www.researchgate.net/publication/365377903_Applying_Artificial_Intelligence_in_Cryptocurrency_Markets_A_Survey)
+- Built-in progressive disclosure that defaults to quick launch but also offers an “expert mode” for parameter tuning
+- Model selection and API keys for composability
+- No-code platform for launching AI agents that act as evolving Web3 AI Chatbot, smart contract auditors, NFT Generators, and trading assistants
+- Wealth coach that personalizes financial insights, strategies, and risk analysis
+- AI powered strategy marketplace, predictive analytics dashboards
+- Cross-chain AI agent orchestration
+- Automated compliance and reporting
 
 ## See Also
 

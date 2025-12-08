@@ -6,10 +6,22 @@ description: 'All about Anonymity Advocate Persona and how to target them'
 
 # 12. Anonymity Advocate: Privacy Paul
 
+*Guarding sacred knowledge behind veils of cryptographic mystery and digital shadows* 
+  
 <div class="grid cards" markdown>
 
-- *Guarding sacred knowledge behind veils of cryptographic mystery and digital shadows* 
-  ![Anonymity Advocate (Tarot: The High Priestess (II))](../img/12_privacy.webp)
+- ![Anonymity Advocate (Tarot: The High Priestess (II))](../img/12_privacy.webp)
+
+- ## Persona Characteristics
+
+    - Privacy coin investment and usage
+    - Decentralization maximalist
+    - Anti-surveillance technology adoption
+    - Pseudonymous online presence
+
+</div>
+
+<div class="grid cards" markdown>
 
 - ## tl;dr
 
@@ -23,12 +35,9 @@ description: 'All about Anonymity Advocate Persona and how to target them'
     - *Must-Haves:* Zero-KYC, open-source, default shielding, air-gapped signing, live anonymity score, emergency nuke switch, metadata resistance, good usability, multi-layer privacy controls, enhanced wallet security, recovery mechanisms, resilience to regulatory de-listing, compliance optionality and community transparency
     - *Target Strategy:* Dark-mode, privacy-first UX, communications emphasising autonomy and cryptographic credibility, products supporting  self-sovereign identity solutions, Nym/Session drops, FHE governance, badge flex during delist FUD
 
-- ## Characteristics
+</div>
 
-    - Privacy coin investment and usage
-    - Decentralization maximalist
-    - Anti-surveillance technology adoption
-    - Pseudonymous online presence
+<div class="grid cards" markdown>
 
 - ## Behavior Patterns
 
@@ -38,6 +47,14 @@ description: 'All about Anonymity Advocate Persona and how to target them'
     - Participates in cypherpunk communities interacting with like-minded individuals on pseudonymous platforms
     - Promotes financial sovereignty
     - Contributes to the network's resilience by running their own autonomous, self-contained light node (blockchain)
+
+- ## Tech Affinity
+
+    - *Privacy Platforms, Coins:*  Technologies that eliminate surveillance of financial activity, support privacy-preserved interactions, obscures wealth, confidential, anonymous transactions, app deployment where data is encrypted, confidential computations (Zero-knowledge proofs (ZKPs) / encrypted computation / metadata obfuscation, secure multi-party computations (sMPC)), pseudonymous user identity (Oasis Network, Secret Network)
+    - *DID:* Self-Sovereign decentralized Identity (SSI) enables verification of identity without needing to expose personal data
+    - *Data Resilience:* IPFS, Filecoin, Arweave like solutions to distributes data across decentralized nodes to eliminate SPOF and protects against monopolistic data locking, hacks, outages, and censorship
+    - *Community Governance:* DAOs that enable transparent, on-chain decision-making, platforms that operate on community agreed rules
+    - *Decentralized Socials:* Censorship resistance and protection from Web3 algorithmic bias (Mastodon, Farcaster)
 
 - ## Pain Points
 
@@ -52,23 +69,21 @@ description: 'All about Anonymity Advocate Persona and how to target them'
     - Technology focused, privacy-preserving blockchains
     - Identity verification without data exposure
 
-- ## Primary Platforms 
+- ## Communication Channels
 
     - Privacy-focused forums
     - Encrypted channels
     - Decentralized platforms (for example, [Lens Protocol](https://www.lens.xyz/))
 
-- ## Tech Affinity
+- ## Popular Platforms
 
-    - *Privacy Platforms, Coins:*  Technologies that eliminate surveillance of financial activity, support privacy-preserved interactions, obscures wealth, confidential, anonymous transactions, app deployment where data is encrypted, confidential computations (Zero-knowledge proofs (ZKPs) / encrypted computation / metadata obfuscation, secure multi-party computations (sMPC)), pseudonymous user identity (Oasis Network, Secret Network)
-    - *DID:* Self-Sovereign decentralized Identity (SSI) enables verification of identity without needing to expose personal data
-    - *Data Resilience:* IPFS, Filecoin, Arweave like solutions to distributes data across decentralized nodes to eliminate SPOF and protects against monopolistic data locking, hacks, outages, and censorship
-    - *Community Governance:* DAOs that enable transparent, on-chain decision-making, platforms that operate on community agreed rules
-    - *Decentralized Socials:* Censorship resistance and protection from Web3 algorithmic bias (Mastodon, Farcaster)
+    - ddd
 
 </div>
 
 ## How to Target?
+
+{% include "how_to_target.md" %}
 
 <div class="grid cards" markdown>
 
@@ -115,10 +130,29 @@ description: 'All about Anonymity Advocate Persona and how to target them'
 
 ## Action Plan
 
-* **Research & Refine:** Do your own research. Use this template to guide your design, documentation and product feature decisions. The lack of formal UX research reports in Web3 is a testament that this is an underexplored area where original research could provide significant competitive advantage. 
-* **Design Philosophy:** Design for privacy, confidentiality, auditability in UX. Transparent DX with open source, fully secure audited code, documentation and pluggable SDKs, simplicity in privacy without compromising critical features such as key management. 
-* **Communication Style:** The primary communication channels should be privacy-focused forums, cypherpunk communities, encrypted channels, and decentralized social platforms, where the persona already participates. Use language that appeals to "digital autonomy," "sovereignty," and "self-ownership" mindset. Marketing should engage them by detailing the technological advancements (for example, specific cryptographic primitives like zk-SNARKs) that underpin the privacy features, 15 sec YouTube shorts. The market share of traditional “privacy coins” (for example, Monero, Zcash) has declined, while “privacy-blockchains” (that is broader tech beyond currency) [are rising](https://www.coingecko.com/research/publications/privacy-blockchains-vs-privacy-coins?utm_source=chatgpt.com), signalling that the privacy community is chasing more than coins. Ethereum is offering [privacy as a platform](https://www.tradingview.com/news/coinpedia:f017aa9b5094b:0-ethereum-foundation-s-privacy-push-brings-monero-and-zcash-back-into-focus/), likely killing the "privacy narrative" buzz. 
-* **Product Features:** Default shielded private transaction support, shield score (untraceable meter), immutable governance, decentralized identity and data management, auditability proofs, badge flex (100% shielded), minimal trust assumptions, zk-attestations and selective disclosures to validate on-chain information without revealing its contents.
+{% include "action_plan_warning.md" %}
+
+### Design Philosophy
+
+- Design for privacy, confidentiality, auditability in UX
+- Transparent DX with open source, fully secure audited code, documentation and pluggable SDKs
+- Focus on simplicity in privacy without compromising critical features such as key management
+
+### Communication Style
+
+- The primary communication channels should be privacy-focused forums, cypherpunk communities, encrypted channels, and decentralized social platforms, where the persona already participates
+- Use language that appeals to "digital autonomy," "sovereignty," and "self-ownership" mindset
+- Marketing should engage them by detailing the technological advancements (for example, specific cryptographic primitives like zk-SNARKs) that underpin the privacy features, 15 sec YouTube shorts
+- The market share of traditional “privacy coins” (for example, Monero, Zcash) has declined, while “privacy-blockchains” (that is broader tech beyond currency) [are rising](https://www.coingecko.com/research/publications/privacy-blockchains-vs-privacy-coins?utm_source=chatgpt.com), signalling that the privacy community is chasing more than coins. *( Note: Ethereum is offering [privacy as a platform](https://www.tradingview.com/news/coinpedia:f017aa9b5094b:0-ethereum-foundation-s-privacy-push-brings-monero-and-zcash-back-into-focus/), likely killing the "privacy narrative" buzz)*
+
+### Product Features
+
+- Default shielded private transaction support, shield score (untraceable meter), immutable governance
+- Decentralized identity and data management
+- Auditability proofs
+- Badge flex (100% shielded)
+- Minimal trust assumptions
+- ZK-attestations and selective disclosures to validate on-chain information without revealing its contents
 
 ## See Also
 

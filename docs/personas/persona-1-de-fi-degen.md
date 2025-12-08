@@ -6,9 +6,24 @@ description: 'All about DeFi Degen Persona and how to target them.'
 
 # 1. DeFi Degen: Crypto Carl
 
+*Fearlessly embarking on risky adventures with bold optimism to explore.* 
+
 <div class="grid cards" markdown>
 
-- *Fearlessly embarking on risky adventures with bold optimism to explore.* ![DeFi Degen (Tarot: The Fool)](../img/1_defi_degen.webp)
+- ![DeFi Degen (Tarot: The Fool)](../img/1_defi_degen.webp)
+
+- ## Persona Characteristics
+
+    - High-risk tolerance, impatient, seeks highest yields
+    - First to try new protocols and products
+    - High affinity towards meme coins
+    - Values anonymity and decentralization
+    - Prefers high-throughput blockchains: Ethereum, BNB, Solana and Arbitrum
+    - Resents "Low Float, High FDV" (Fully Diluted Valuation) tokens backed by Venture Capitalists
+
+</div>
+
+<div class="grid cards" markdown>
 
 - ## tl;dr
 
@@ -28,16 +43,11 @@ description: 'All about DeFi Degen Persona and how to target them.'
 
     * Require real-time price feeds with instant execution, multi-chain wallet integration, smart contract audit indicators, portfolio tracking with APY indicators optimizing returns, social signals indicating community activity, and automated stop-loss or risk management as they often fail to set controls in the hurry to act.
 
-    * Respond well to speed-optimized mobile first designs, one-click execution, comprehensive dashboard, and concise documentation. 
+    * Respond well to speed-optimized mobile first designs, one-click execution, comprehensive dashboard, and concise documentation.
 
-- ## Characteristics
+</div>
 
-    - High-risk tolerance, impatient, seeks highest yields
-    - First to try new protocols and products
-    - High affinity towards meme coins
-    - Values anonymity and decentralization
-    - Prefers high-throughput blockchains: Ethereum, BNB, Solana and Arbitrum
-    - Resents "Low Float, High FDV" (Fully Diluted Valuation) tokens backed by Venture Capitalists
+<div class="grid cards" markdown>
 
 - ## Behavior Patterns
 
@@ -47,6 +57,14 @@ description: 'All about DeFi Degen Persona and how to target them.'
     - Quick to move capital based on opportunities
     - Engages with automated sniper bots and tools designed for low market cap, high volatility assets like memecoins, that can quickly help in identifying and exploiting trading opportunities faster than other traders
     - Aggressively hunts for alphas in Discords/Telegram
+
+- ## Tech Affinity
+
+    - Integration support for EVM-compatible chains
+    - Cross-chain interactions (bridges, protocols that enable seamless capital movement)
+    - Multi-chain usage (Preference for Ethereum, BNB, Solana, Arbitrum)
+    - Flash loan and yield protocols ([Aave](https://aave.com), [Dydx](https://dydx.exchange))
+    - Integration with technologies that reduce gas fees, faster settlements across chains enabling DeFi Degens to exploit yield opportunities across fragmented blockchain ecosystems.s
 
 - ## Pain Points
 
@@ -61,7 +79,7 @@ description: 'All about DeFi Degen Persona and how to target them.'
     - High-frequency trading
     - Complex, automated, bot driven DeFi strategies
 
-- ## Primary Platforms
+- ## Communication Channels
 
     - Twitter
     - Telegram alpha groups
@@ -72,17 +90,15 @@ description: 'All about DeFi Degen Persona and how to target them.'
     - MetaMask
     - Farcaster
 
-- ## Tech Affinity
+- ## Popular Platforms
 
-    - Integration support for EVM-compatible chains
-    - Cross-chain interactions (bridges, protocols that enable seamless capital movement)
-    - Multi-chain usage (Preference for Ethereum, BNB, Solana, Arbitrum)
-    - Flash loan and yield protocols ([Aave](https://aave.com), [Dydx](https://dydx.exchange))
-    - Integration with technologies that reduce gas fees, faster settlements across chains enabling DeFi Degens to exploit yield opportunities across fragmented blockchain ecosystems.s
+    - ddd
 
 </div>
 
 ## How to Target?
+
+{% include "how_to_target.md" %}
 
 <div class="grid cards" markdown>
 
@@ -130,10 +146,43 @@ description: 'All about DeFi Degen Persona and how to target them.'
 
 ## Action Plan
 
-* **Research & Refine:** {% include "/refine.txt" %}
-* **Design Philosophy:** Focus on demographic concentration and geographic hotspots, dark mode, data density, enable [[ape-buttons|Ape Buttons]] and provide gamified feedback such as animations and sound for dopamine hits. Leverage behavioral psychology (risk taking ability, gambling streaks, gaming wins) to enable fast execution. Lean towards mobile first design, speed over efficiency and caution, comprehensive dashboards with risk alerts, concise and brief documentation, workflow notes, under 2 seconds landing page loading time.
-* **Communication Style:** To address the address span of a goldfish, engage with crypto native terminology, provide clear risk warnings. Focus on transparency, social proofs (audits) and community signals. Lead with Telegram, Discord alpha groups. Build on hypes, trends, celebrity endorsements. Get rid of corporate polish, be raw, direct, and self-deprecating. Partner with "degen" influencers who have a track record of high-risk calls. Degens rotate capital based on "metas," the narratives. In Q1 2024 it was AI, then Memecoins, then PolitiFi (Trump coins). Your marketing must pivot with these weekly trends.
-* **Product Features:** Leaderboards to highlight who profited this week, one-click copy of the top trader and trading pattern templates, revenue share models whereby a share of protocol fees goes to users who stake or hold the token (Real Yield narrative). Besides these, multi-chain portfolio dashboard, multi-chain friction-free (signature-less transactions), rug pull detection and alerts, sniper bot integrations, automated yield optimizations and enable leverage position management. Ensure one click, fast transaction and execution flows, user-friendly interface for yields, APY and other benefit indicators, integrate social features that enable them to engage with the community and see what others are doing, utilizing for better results. 
+{% include "action_plan_warning.md" %}
+
+### Design Philosophy
+
+- Focus on demographic concentration and geographic hotspots, dark mode, data density
+- Enable [[ape-buttons|Ape Buttons]] and provide gamified feedback such as animations and sound for dopamine hits
+- Leverage behavioral psychology (risk taking ability, gambling streaks, gaming wins) to enable fast execution
+- Lean towards mobile first design, speed over efficiency and caution
+- Comprehensive dashboards with risk alerts
+- Concise and brief documentation
+- Workflow notes and context-sensitive wizards that can be ignored
+- Under 2 seconds loading time for the landing page.
+
+### Communication Style
+
+- To address the address span of a goldfish, engage with crypto native terminology
+- Provide clear risk warnings
+- Focus on transparency, social proofs (audits) and community signals
+- Lead with Telegram, Discord alpha groups
+- Build on hypes, trends, celebrity endorsements
+- Get rid of corporate polish, be raw, direct, and self-deprecating
+- Partner with "degen" influencers who have a track record of high-risk calls
+- Degens rotate capital based on "metas," the narratives *(for example, in Q1 2024 it was AI, then Memecoins, then PolitiFi, the Trump coins)*, marketing must pivot with the relevant trends
+
+### Product Features
+
+- Leaderboards to highlight who profited this week *(for example, one-click copy of the top trader and trading pattern templates)*
+- Revenue share models whereby a share of protocol fees goes to users who stake or hold the token (Real Yield narrative)
+- Multi-chain portfolio dashboard
+- Multi-chain friction-free (signature-less transactions)
+- Rug pull detection and alerts
+- Sniper bot integrations
+- Automated yield optimizations
+- Enable leverage position management
+- Ensure one click, fast transaction and execution flows
+- User-friendly interface for yields, APY and other benefit indicators
+- Integrate social features that enable them to engage with the community, see what others are doing, replicate behavior for better results
 
 ## See Also
 

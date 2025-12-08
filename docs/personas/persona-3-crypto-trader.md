@@ -6,10 +6,23 @@ description: 'All about Crypto Analyst Persona and how to target them'
 
 # 3. Crypto Analyst: Trader Joe
 
+*Wielding technical analysis and market wisdom for profitable trades.*
+
 <div class="grid cards" markdown>
 
-- *Wielding technical analysis and market wisdom for profitable trades.*
-  ![Analyst (Tarot: The Magician (I))](../img/3_trader_analyst.webp)
+- ![Analyst (Tarot: The Magician (I))](../img/3_trader_analyst.webp)
+
+- ## Persona Characteristics
+
+    - Highly technical, often proficient in programming (Python, C++), data analysis, and machine learning, AI
+    - Technical analysis focused
+    - Risk management conscious
+    - Data-driven decision making
+    - Professional or semi-professional approach
+
+</div>
+
+<div class="grid cards" markdown>
 
 - ## tl;dr
 
@@ -24,13 +37,9 @@ description: 'All about Crypto Analyst Persona and how to target them'
     * As opposed to institutional investors that prefer established CEXs with robust compliance, crypto
       investor persona operate between user-friendly CEXs and yield-generating DeFi platforms.
 
-- ## Characteristics
+</div>
 
-    - Highly technical, often proficient in programming (Python, C++), data analysis, and machine learning, AI
-    - Technical analysis focused
-    - Risk management conscious
-    - Data-driven decision making
-    - Professional or semi-professional approach
+<div class="grid cards" markdown>
 
 - ## Behavior Patterns
 
@@ -38,6 +47,18 @@ description: 'All about Crypto Analyst Persona and how to target them'
     - Participates in trading competitions
     - Follows macro economic trends
     - Uses advanced, sophisticated trading tools
+
+- ## Tech Affinity
+
+    Tech affinity section lists specific technologies, features, and solutions that are of interest to the
+    Crypto Analyst persona.
+
+    - Automation, bots and advanced real-time, turtle, arbitrage trading systems
+    - Machine learning and AI powered analytics
+    - Technical analysis tooling (moving average, stochastic oscillator, [other crypto indicators](https://www.tokenmetrics.com/blog/best-indicators-for-crypto-trading-and-analysis))
+    - Cross-chain and multi-exchange infrastructure for arbitrage and portfolio management
+    - Risk management and optimization technologies for high-frequency trading on systems capable of placing or
+      canceling orders in milliseconds.
 
 - ## Pain Points
 
@@ -54,7 +75,7 @@ description: 'All about Crypto Analyst Persona and how to target them'
     - Daily active trading
     - Content creation
 
-- ## Primary Platforms
+- ## Communication Channels
 
     - [TradingView](https://www.tradingview.com/)
     - CEXs (for example, [Binance](https://www.binance.com/)
@@ -63,21 +84,15 @@ description: 'All about Crypto Analyst Persona and how to target them'
     - Twitter/X/reddit
     - Specialized Discord servers
 
-- ## Tech Affinity
+- ## Popular Platforms
 
-    Tech affinity section lists specific technologies, features, and solutions that are of interest to the
-    Crypto Analyst persona.
-
-    - Automation, bots and advanced real-time, turtle, arbitrage trading systems
-    - Machine learning and AI powered analytics
-    - Technical analysis tooling (moving average, stochastic oscillator, [other crypto indicators](https://www.tokenmetrics.com/blog/best-indicators-for-crypto-trading-and-analysis))
-    - Cross-chain and multi-exchange infrastructure for arbitrage and portfolio management
-    - Risk management and optimization technologies for high-frequency trading on systems capable of placing or
-      canceling orders in milliseconds.
+    - ddd
 
 </div>
 
 ## How to Target?
+
+{% include "how_to_target.md" %}
 
 <div class="grid cards" markdown>
 
@@ -122,10 +137,30 @@ description: 'All about Crypto Analyst Persona and how to target them'
 
 ## Action Plan
 
-* **Research & Refine:** Do your own research. Use this template to guide your design, documentation and product feature decisions. The lack of formal UX research reports in Web3 is a testament that this is an underexplored area where original research could provide significant competitive advantage.
-* **Design Philosophy:** Mobile first design and real-time push notifications for managing trade positions, mobile gesture support such as swipe-to-buy, pull-to-refresh, and thumb-friendly navigation to accommodate trading on-the-go. Crypto traders prefer information dense interfaces, dashboards packed with data as opposed to minimalism and customizable layouts and widgets, clear visual hierarchy that prioritizes critical information such as P&L, active positions.
-* **Communication Style:** Lead with data and proof. For example specific metrics instead of vague promises, 'execute trades 3x faster', ROI metrics, performance improvements to appeal to their analytical mindsets. Emphasize speed and competitive advantage, 'millisecond execution', 'first mover advantage'. Use proper terminology used by real crypto traders and enable community social proof prominently, 'successful trader testimonials' instead of using generic corporate messaging.
-* **Product Features:** Provide advanced charting and technical analysis tools or integrate with the most popular ones to enable crypto trader activities, portfolio alerts, portfolio aggregation across platforms, social systems that enable copy trading feature that enables copying successful trades, premium on chain data insights for competitive advantage, risk management with features that appeal to their data-driven approach while protecting their capital.
+{% include "action_plan_warning.md" %}
+
+### Design Philosophy
+
+- Mobile first design and real-time push notifications for managing trade positions
+- Mobile gesture support such as swipe-to-buy, pull-to-refresh, and thumb-friendly navigation to accommodate trading on-the-go
+- Crypto traders prefer information dense interfaces
+- Dashboards packed with data as opposed to minimalism and customizable layouts and widgets
+- Clear visual hierarchy that prioritizes critical information such as P&L, active positions
+
+### Communication Style
+
+- Lead with data and proof *(for example, specific metrics instead of vague promises, say 'execute trades 3x faster', ROI metrics)* 
+- Highlight performance improvements to appeal to their analytical mindsets
+- Emphasize speed and competitive advantage, 'millisecond execution', 'first mover advantage'
+- Use proper terminology used by real crypto traders and enable community social proof prominently
+- Use 'successful trader' testimonials in content instead of using generic corporate messaging
+
+### Product Features
+
+- Provide advanced charting and technical analysis tools or integrate with the most popular ones to enable crypto trader activities, portfolio alerts, portfolio aggregation across platforms
+- Social systems that enable copy trading feature to enable copying successful trades
+- Premium on-chain data insights for competitive advantage
+- Risk management with features that appeal to their data-driven approach while protecting their capital
 
 ## See Also
 

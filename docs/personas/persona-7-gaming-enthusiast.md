@@ -6,10 +6,23 @@ description: 'All about Web3 Influencer Persona and how to target them'
 
 # 7. Gaming Enthusiast: Metaverse Mia
 
+*Dancing in virtual realms, achieving completion through play and digital exploration*
+  
 <div class="grid cards" markdown>
 
-- *Dancing in virtual realms, achieving completion through play and digital exploration*
-  ![Gaming/Metaverse (Tarot: The World (XXI))](../img/7_gaming_enthu.webp)
+- ![Gaming/Metaverse (Tarot: The World (XXI))](../img/7_gaming_enthu.webp)
+
+- ## Persona Characteristics
+
+    - Engages in daily gaming sessions
+    - Focuses on play-to-earn and GameFi
+    - Actively participates in virtual world and avatar culture
+    - Trades and collects in-game assets
+    - Takes part in Web3 community guilds
+
+</div>
+
+<div class="grid cards" markdown>
 
 - ## tl;dr
 
@@ -22,13 +35,9 @@ description: 'All about Web3 Influencer Persona and how to target them'
     - *Customizes Avatars for Immersive Self-Expression:* Views avatars as an extension of identity
     - *Sustainability Skeptic:* Demands balanced tokenomics over hype
 
-- ## Characteristics
+</div>
 
-    - Engages in daily gaming sessions
-    - Focuses on play-to-earn and GameFi
-    - Actively participates in virtual world and avatar culture
-    - Trades and collects in-game assets
-    - Takes part in Web3 community guilds
+<div class="grid cards" markdown>
 
 - ## Behavior Patterns
 
@@ -36,6 +45,14 @@ description: 'All about Web3 Influencer Persona and how to target them'
     - Coordinates guild strategy
     - Trades gaming NFTs and tokens
     - Participates in virtual events
+
+- ## Tech Affinity
+
+    - *Tokenomics design tools:* Tools that help control token inflation, implement sinks/burns, dual-token systems
+    - *Guild and scholarship management systems:* Organize, manage and monitor shared assets and game rewards
+    - *Analytics & player behavior tools:* Tools that help track DAU, wallet activity, earnings
+    - *Interoperable NFTs & marketplaces:* Secure ownership and trading of gaming assets
+    - *Metaverse & immersive tech:* Avatars, VR/AR experiences
 
 - ## Pain Points
 
@@ -49,23 +66,21 @@ description: 'All about Web3 Influencer Persona and how to target them'
     - High time investment
     - Social gaming focus
 
-- ## Primary Platforms
+- ## Communication Channels
 
     - Discord gaming servers
     - Metaverse platforms (for example, [Decentraland](https://decentraland.org/))
     - NFT marketplaces
 
-- ## Tech Affinity
+- ## Popular Platforms
 
-    - *Tokenomics design tools:* Tools that help control token inflation, implement sinks/burns, dual-token systems
-    - *Guild and scholarship management systems:* Organize, manage and monitor shared assets and game rewards
-    - *Analytics & player behavior tools:* Tools that help track DAU, wallet activity, earnings
-    - *Interoperable NFTs & marketplaces:* Secure ownership and trading of gaming assets
-    - *Metaverse & immersive tech:* Avatars, VR/AR experiences
+    - ddd
 
 </div>
 
 ## How to Target?
+
+{% include "how_to_target.md" %}
 
 <div class="grid cards" markdown>
 
@@ -109,10 +124,34 @@ description: 'All about Web3 Influencer Persona and how to target them'
 
 ## Action Plan
 
-* **Research & Refine:** Do your own research. Use this template to guide your design, documentation and product feature decisions. The lack of formal UX research reports in Web3 is a testament that this is an underexplored area where original research could provide significant competitive advantage.
-* **Design Philosophy:** Fun and immersive graphic experiences, avatar customization, responsive and low latency for gameplay, especially for mobile / browser play in emerging markets. Flexible monetization paths that enable players that just want to play, and also those that want to earn as well. Offering multiple modes (free-to-play + play-to-earn + hybrid). Guild dashboards and cross-platform interoperability.
-* **Communication Style:** Engage using all community and guild channels. Leverage case stories highlighting players in similar geographies, contexts that are enjoying and gaining assets, build trust with transparency in tokenomics, publish reward breakdowns, inflation control, real player data, competitions, tournaments to engage exploratory and competitive mindset, consider regional economics and localization to reach target audience.
-* **Product Features:** Robust tokenomics engine that provides sinks, burn mechanisms, dual tokens if needed, inflation control. Provide player leader boards and asset portfolio tracker, analytics, transparent game statistics, value of assets, risk metrics, social and community engagement and status display features, customizability, safety and governance transparency, audited smart contracts, clear game rules, cheating mitigation strategies. Interoperability and cross-interactions with metaverse and other gaming assets is a big plus. Local regulation, taxes, crypto access are important considerations for feature prioritization. Mechanisms to lock in loyalty sustains interest longer term. Game genre matters: RPGs, virtual world/social metaverse games appear to be preferred for deeper engagement & asset collecting. Action / casual P2E has audience but lower retention.
+{% include "action_plan_warning.md" %}
+
+### esign Philosophy
+
+- Fun and immersive graphic experiences
+- Avatar customization
+- Responsive and low latency for gameplay, especially for mobile / browser play in emerging markets
+- Flexible monetization paths that enable players that just want to play, and also those that want to earn as well
+- Offer multiple modes *(for example, free-to-play + play-to-earn + hybrid)*
+- Guild dashboards and cross-platform interoperability.
+
+### Communication Style
+
+- Engage using all community and guild channels
+- Leverage case stories highlighting players in similar geographies, contexts that are enjoying and gaining assets
+- Build trust with transparency in tokenomics
+- Publish reward breakdowns, inflation control, real player data, competitions, tournaments to engage exploratory and competitive mindset
+- Consider regional economics and localization to reach target audience
+
+### Product Features
+
+- Robust tokenomics engine that provides sinks, burn mechanisms, dual tokens (if needed), and inflation control
+- Provide player leader boards and asset portfolio tracker, analytics, transparent game statistics, value of assets, risk metrics, social and community engagement and status display features, customizability, safety and governance transparency, audited smart contracts, clear game rules, cheating mitigation strategies
+- Interoperability and cross-interactions with metaverse and other gaming assets is a big plus
+- Local regulation, taxes, crypto access are important considerations for feature prioritization
+- Mechanisms to lock in loyalty sustains interest longer term
+- Game genre matters: RPGs, virtual world/social metaverse games appear to be preferred for deeper engagement & asset collecting
+- Action / casual P2E has audience but lower retention
  
 ## See Also
 

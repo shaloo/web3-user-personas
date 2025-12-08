@@ -6,10 +6,22 @@ description: 'All about Institutional Investor Persona and how to target them'
 
 # 10. Institutional Investor: Token Tim
 
+*Ruling with structured authority and commanding vast financial resources*
+  
 <div class="grid cards" markdown>
 
-- *Ruling with structured authority and commanding vast financial resources* 
-  ![Institutional Investor (Tarot: The Emperor (IV))](../img/10_investor.webp)
+- ![Institutional Investor (Tarot: The Emperor (IV))](../img/10_investor.webp)
+
+- ## Persona Characteristics
+
+    - Compliance and regulatory focused
+    - Large capital deployment
+    - Professional risk management
+    - Traditional finance background
+
+</div>
+
+<div class="grid cards" markdown>
 
 - ## tl;dr
 
@@ -26,12 +38,9 @@ description: 'All about Institutional Investor Persona and how to target them'
     - Strong conviction in blockchain technology's long-term value, cautious but strategic approach rather than speculative
     - Shields low risk tolerance by starting with indirect exposure via VC funds backing blockchain builders
 
-- ## Characteristics
+</div>
 
-    - Compliance and regulatory focused
-    - Large capital deployment
-    - Professional risk management
-    - Traditional finance background
+<div class="grid cards" markdown>
 
 - ## Behavior Patterns
 
@@ -40,6 +49,15 @@ description: 'All about Institutional Investor Persona and how to target them'
     - Engages with regulatory discussions
     - Seeks institutional-grade infrastructure
     - Deeply analyzes structure, fees, and underlying assets of registered investment vehicles
+
+- ## Tech Affinity
+
+    - *DID, KYC, AML Tools:* Integrating on-chain identity and compliance checks into a trading or lending protocol. Security, compliance and user control for dealing with regulatory risks related to cross-border transactions.
+    - *Auditability & Transparency:* For reporting, tax, and compliance purposes. Regulatory compliance tools such as Chainalysis, Elliptic, compliance monitoring systems.
+    - *TradeFi Integration:* Seamless integration into existing Treasury management systems, portfolio management software, and back-office operations used by traditional financial firms.
+    - *Enterprise-grade SLAs & SSO / IAM:* Bank grade custody, insurance, role-based access, audit logs, multi-sig workflows and enterprise authentication.
+    - *Stablecoins:* Yield generation, FX hedging, cash management, securities settlement, transactional convenience at lower costs.
+    - *DeFI Protocols, Layer-1 Blockchains:* Staking, lending, derivatives, cross-border settlements, high TPS for enterprise volume, technologies that solve infrastructure gap for risk management.
 
 - ## Pain Points
 
@@ -58,25 +76,24 @@ description: 'All about Institutional Investor Persona and how to target them'
     - Specialized investment forums
     - Institutional Networks (GLG, AlphaSense, Third Bridge, Guidepoint)
 
-- ## Primary Platforms
+- ## Communication Channels
+
+    - LinkedIn
+    - Professional forums like WEF, Invest Web3 Forums
+    - Specialized/Gated Discord/Telegram Servers
+
+- ## Popular Platforms
 
     - *Trading & Infrastructure:* Coinbase Prime, Kraken Institutional, TradingView for advanced charting
     - *Specialized DLT/Tokenization Platforms:* Private/Permissioned DLT networks, tokenization issuance platforms, and institutional-grade Layer 2 solutions
     - *Integrated Risk/Portfolio Management Software:* BlackRock's Aladdin
     - *Communication:* LinkedIn, Professional forums like WEF, Invest Web3 Forums, Specialized/Gated Discord/Telegram Servers
 
-- ## Tech Affinity
-
-    - *DID, KYC, AML Tools:* Integrating on-chain identity and compliance checks into a trading or lending protocol. Security, compliance and user control for dealing with regulatory risks related to cross-border transactions.
-    - *Auditability & Transparency:* For reporting, tax, and compliance purposes. Regulatory compliance tools such as Chainalysis, Elliptic, compliance monitoring systems.
-    - *TradeFi Integration:* Seamless integration into existing Treasury management systems, portfolio management software, and back-office operations used by traditional financial firms.
-    - *Enterprise-grade SLAs & SSO / IAM:* Bank grade custody, insurance, role-based access, audit logs, multi-sig workflows and enterprise authentication.
-    - *Stablecoins:* Yield generation, FX hedging, cash management, securities settlement, transactional convenience at lower costs.
-    - *DeFI Protocols, Layer-1 Blockchains:* Staking, lending, derivatives, cross-border settlements, high TPS for enterprise volume, technologies that solve infrastructure gap for risk management.
-
 </div>
 
 ## How to Target?
+
+{% include "how_to_target.md" %}
 
 <div class="grid cards" markdown>
 
@@ -122,10 +139,38 @@ description: 'All about Institutional Investor Persona and how to target them'
 
 ## Action Plan
 
-* **Research & Refine:** Do your own research. Use this template to guide your design, documentation and product feature decisions. The lack of formal UX research reports in Web3 is a testament that this is an underexplored area where original research could provide significant competitive advantage.
-* **Design Philosophy:** For transparency and explicability, UI must expose provenance, signer attestations and validations. Prioritize risk control with clear, well-labeled warnings, configurable limit orders, and comprehensive, real-time reporting dashboards that show regulatory status, counterparty risk, and portfolio volatility. Customizable dashboards that show consolidated exposures, compliance flags, audit trails, role-based access controls and multi-user workflows (committee approvals). Focus on Developer Experience (DX). Provide robust, high-performance APIs and documentation for seamless integration into existing financial infrastructure, minimizing the need for manual data entry or specialized Web3 knowledge. For CX, provide white-glove service with dedicated account managers who understand finance, rapid technical support, and consultative services on regulatory compliance and asset allocation.
-* **Communication Style:** Institutional investors expect information density, detailed technical/legal whitepapers and third-party audit reports. Communication should be distributed through their preferred channels like specialized research reports, white papers, and webinars. Establish credibility by publishing original, high-quality research and reports with global financial institutions that can quantify risks and benefits. Do not use marketing hype but focus on using language like "governance framework," "institutional-grade custody," and "risk-adjusted returns." Share regular insights from industry thought leaders, timely regulatory updates.
-* **Product Features:** Multi-Jurisdictional reporting with multi-monitor, granular, downloadable reports covering tax, accounting, and regulatory compliance across different jurisdictions. Built-in features for automated AML/KYC checks, configurable geo-fencing for cross-border operations, and mandatory transaction monitoring. Multi-sig vault controls. Offer regulated wrapper and integration services that provide exposure to digital assets without requiring the institution to handle the underlying assets directly. Provide modular integration with pluggable APIs for reporting, accounting systems, custody connectors, and compliance workflows (so institutions can integrate with internal systems). Provide region-specific legal and regulatory guidance. Real-time event notification systems, Webhooks integration, SDKs for custom integration, and sandbox environments for testing.
+{% include "action_plan_warning.md" %}
+
+### Design Philosophy
+
+- For transparency and ease of explanation, UI must expose provenance, signer attestations and validations
+- Prioritize risk control with clear, well-labeled warnings, configurable limit orders, and comprehensive, real-time reporting dashboards that show regulatory status, counterparty risk, and portfolio volatility
+- Customizable dashboards that show consolidated exposures, compliance flags, audit trails, role-based access controls and multi-user workflows (committee approvals)
+- Focus on Developer Experience (DX). Provide robust, high-performance APIs and documentation for seamless integration into existing financial infrastructure, minimizing the need for manual data entry or specialized Web3 knowledge
+- For CX, provide white-glove service with dedicated account managers who understand finance, rapid technical support, and consultative services on regulatory compliance and asset allocation
+
+### Communication Style
+
+- Institutional investors expect information density, detailed technical/legal whitepapers and third-party audit reports
+- Communication should be distributed through their preferred channels like specialized research reports, white papers, and webinars
+- Establish credibility by publishing original, high-quality research and reports with global financial institutions that can quantify risks and benefits
+- Do not use marketing hype but focus on using language like "governance framework," "institutional-grade custody," and "risk-adjusted returns."
+- Share regular insights from industry thought leaders, timely regulatory updates
+
+### Product Features
+
+- Multi-Jurisdictional reporting with multi-monitor, granular, downloadable reports covering tax, accounting, and regulatory compliance across different jurisdictions
+- Built-in features for:
+
+    - Automated AML/KYC checks
+    - Configurable geo-fencing for cross-border operations
+    - Mandatory transaction monitoring
+    - Multi-sig vault controls
+
+- Offer regulated wrapper and integration services that provide exposure to digital assets without requiring the institution to handle the underlying assets directly
+- Provide modular integration with pluggable APIs for reporting, accounting systems, custody connectors, and compliance workflows (so institutions can integrate with internal systems)
+- Allow region-specific legal and regulatory guidance
+- Real-time event notification systems, Webhooks integration, SDKs for custom integration, and sandbox environments for testing
 
 ## See Also
 

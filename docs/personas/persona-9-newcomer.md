@@ -6,10 +6,23 @@ description: 'All about Tenderfoot Explorer Persona and how to target them'
 
 # 9. Tenderfoot Explorer: Curious Columbus
 
+*Learning the ropes with dedication, planting seeds of cautious Web3 adoption in the promising crypto lands*
+  
 <div class="grid cards" markdown>
 
-- *Learning the ropes with dedication, planting seeds of cautious Web3 adoption in the promising crypto lands*
-  ![Newcomer/Curious Explorer (Tarot: Page of Pentacles)](../img/9_newcomer.webp)
+- ![Newcomer/Curious Explorer (Tarot: Page of Pentacles)](../img/9_newcomer.webp)
+
+- ## Persona Characteristics
+
+    - Learning-focused approach
+    - Risk-averse initial behavior
+    - Seeking trusted sources and education
+    - Small initial investments
+    - Motivated by FOMO on a growing financial trend
+
+</div>
+
+<div class="grid cards" markdown>
 
 - ## tl;dr
 
@@ -24,13 +37,9 @@ description: 'All about Tenderfoot Explorer Persona and how to target them'
     - Envied by Web3 veterans as their 'fresh eyes' perspective often catalyzes new Web3 usecases and spearheads technology evolution such as 'swap' feature
     - Interested in investing only in stablecoins and the leading, trustworthy blockchain protocols but open to investing their time into trying newer protocols
 
-- ## Characteristics
+</div>
 
-    - Learning-focused approach
-    - Risk-averse initial behavior
-    - Seeking trusted sources and education
-    - Small initial investments
-    - Motivated by FOMO on a growing financial trend
+<div class="grid cards" markdown>
 
 - ## Behavior Patterns
 
@@ -40,6 +49,17 @@ description: 'All about Tenderfoot Explorer Persona and how to target them'
     - Starts with major cryptocurrencies, small investments
     - Explores newer sectors gradually, likes layered approach to consumption
     - Heavily relies on peer recommendations and social proof
+
+- ## Tech Affinity
+
+    - *SocialFi Platforms:* Attracted to participating in decentralized networks, token-gated communities that builds gradual social engagement and rewards for achieving milestones
+    - *High Affinity for CEXs:* User-friendly interfaces, educational content, engaged customer support, and security emphasis of Coinbase, Binance, Kraken encourages new traders
+    - *Learning Enabler Platforms:* 30% new crypto holders are in Web3 due to sheer interest in technology, affinity for educational content, JIT wizards, step-by-step tutorials, basic terminology explanations, safety guides
+    - *Mainstream Financial Integration:* Familiar interfaces of traditional investment approaches such as Bitcoin ETFs, PayPal crypto, Cash App Bitcoin
+    - *Portfolio Management:* Basic monitoring, tracking, price alerts, basic analytics that abstracts Web3 technical complexity
+    - *Hardware Wallets:* Preferred by risk-aversive advanced beginners for security, self-custody, privacy and autonomy reasons
+    - *Chain Abstraction, ZKPs & Layer-2:* Multi-chain and multi-ecosystem fluidity, enhanced privacy, lower gas, scalability, and speed
+    - *AI-driven Onboarding:* Automates KYC/privacy, counters scam fears, builds trust in newcomers, especially women ([as per survey](https://hackernoon.com/what-do-global-users-really-think-about-crypto-and-web3-banking-a-dive-into-crossfis-2025-surve))
 
 - ## Pain Points
 
@@ -56,7 +76,7 @@ description: 'All about Tenderfoot Explorer Persona and how to target them'
     - Gradual increase in activity
     - Gaming oriented learning experiences
 
-- ## Primary Platforms
+- ## Communication Channels
 
     - Reddit [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/)
     - YouTube
@@ -64,20 +84,15 @@ description: 'All about Tenderfoot Explorer Persona and how to target them'
     - Educational Discord servers
     - Curated TL;Drs, "learn and earn" modules, for example, Coinbase/[Gemini](https://www.gemini.com/en-GB/learn/intro-to-crypto-webinar) Education Programs
 
-- ## Tech Affinity
+- ## Popular Platforms
 
-    - *SocialFi Platforms:* Attracted to participating in decentralized networks, token-gated communities that builds gradual social engagement and rewards for achieving milestones
-    - *High Affinity for CEXs:* User-friendly interfaces, educational content, engaged customer support, and security emphasis of Coinbase, Binance, Kraken encourages new traders
-    - *Learning Enabler Platforms:* 30% new crypto holders are in Web3 due to sheer interest in technology, affinity for educational content, JIT wizards, step-by-step tutorials, basic terminology explanations, safety guides
-    - *Mainstream Financial Integration:* Familiar interfaces of traditional investment approaches such as Bitcoin ETFs, PayPal crypto, Cash App Bitcoin
-    - *Portfolio Management:* Basic monitoring, tracking, price alerts, basic analytics that abstracts Web3 technical complexity
-    - *Hardware Wallets:* Preferred by risk-aversive advanced beginners for security, self-custody, privacy and autonomy reasons
-    - *Chain Abstraction, ZKPs & Layer-2:* Multi-chain and multi-ecosystem fluidity, enhanced privacy, lower gas, scalability, and speed
-    - *AI-driven Onboarding:* Automates KYC/privacy, counters scam fears, builds trust in newcomers, especially women ([as per survey](https://hackernoon.com/what-do-global-users-really-think-about-crypto-and-web3-banking-a-dive-into-crossfis-2025-surve))
+    - ddd
 
 </div>
 
 ## How to Target?
+
+{% include "how_to_target.md" %}
 
 <div class="grid cards" markdown>
 
@@ -123,10 +138,34 @@ description: 'All about Tenderfoot Explorer Persona and how to target them'
 
 ## Action Plan
 
-* **Research & Refine:** Do your own research. Use this template to guide your design, documentation and product feature decisions. The lack of formal UX research reports in Web3 is a testament that this is an underexplored area where original research could provide significant competitive advantage.
-* **Design Philosophy:** Mobile-first, user-centric, iterative design that evolves rapidly with user feedback and analytics. Active refinement of the user onboarding journey through analytics. Monitor where users hesitate, drop off, or encounter errors. 
-* **Communication Style:** Preference for short digestible educational content, core values and not hype. Focus your messaging on the benefits of decentralization, ownership, and privacy, which are the core drivers of this audience. Active community engagement to build trust and address pain points directly. Regular AMA sessions, pinned beginner guides, verified moderator responses, peer communities matter to this audience.
-* **Product Features:** Familiar login options to start with, non-custodial wallets with gas abstraction, bridge to self-custody, interactive demos and tutorials, learning with incentives, social recovery, ability to export to hardware wallets. Note that adoption patterns vary by country so tailor on-ramps and regulatory guidance by [region](https://www.chainalysis.com/blog/2025-global-crypto-adoption-index/).
+{% include "action_plan_warning.md" %}
+
+### Design Philosophy
+
+- Mobile-first, user-centric, iterative design that evolves rapidly with user feedback and analytics
+- Active refinement of the user onboarding journey through analytics
+- Monitor where users hesitate, drop off, or encounter errors
+
+### Communication Style
+
+- Preference for short digestible educational content, core values and not hype
+- Focus your messaging on the benefits of decentralization, ownership, and privacy, which are the core drivers of this audience
+- Active community engagement to build trust and address pain points directly
+- Regular AMA sessions, pinned beginner guides, verified moderator responses, peer communities matter to this audience
+
+### Product Features 
+
+- Familiar login options to start with
+- Non-custodial wallets with gas abstraction
+- Bridge to self-custody
+- Interactive demos and tutorials
+- Learning with incentives
+- Social recovery
+- Ability to export to hardware wallets
+
+!!! note
+
+    The adoption patterns for this persona vary by country, culture so tailor on-ramps and regulatory guidance by [region](https://www.chainalysis.com/blog/2025-global-crypto-adoption-index/).
 
 ## See Also
 

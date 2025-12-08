@@ -6,10 +6,22 @@ description: 'All about DAO Contributor Persona and how to target them'
 
 # 8. DAO Contributor: DAO Dave
 
+*Balancing community needs with careful deliberation and fair governance*
+
 <div class="grid cards" markdown>
 
-- *Balancing community needs with careful deliberation and fair governance* 
-  ![DAO Contributor (Tarot: Justice (XI))](../img/8_dao.webp)
+- ![DAO Contributor (Tarot: Justice (XI))](../img/8_dao.webp)
+
+- ## Persona Characteristics
+
+    - Believes and participates in pragmatic decentralized organizations
+    - Holds governance tokens, votes, is self-sovereign, autonomous and demands transparency in DAO
+    - Interested in proposal creation and discussions
+    - Core personas are deeply involved in community decision-making and strapped for time, most of the others are like-minded but silent participants
+
+</div>
+
+<div class="grid cards" markdown>
 
 - ## tl;dr
 
@@ -23,12 +35,9 @@ description: 'All about DAO Contributor Persona and how to target them'
     - Prefers educational content that solves problems, highly literate and seeks knowledge
     - Concerned about whale influence, governance vulnerabilities
 
-- ## Characteristics
+</div>
 
-    - Believes and participates in pragmatic decentralized organizations
-    - Holds governance tokens, votes, is self-sovereign, autonomous and demands transparency in DAO
-    - Interested in proposal creation and discussions
-    - Core personas are deeply involved in community decision-making and strapped for time, most of the others are like-minded but silent participants
+<div class="grid cards" markdown>
 
 - ## Behavior Patterns
 
@@ -37,6 +46,16 @@ description: 'All about DAO Contributor Persona and how to target them'
     - Seeks delegation to deal with the information overload due to higher number of proposals than governance contributors
     - Deals with cross-DAO coordination, tracking proposals and voting, DAO operations
     - Behavior shaped by design and tooling; engagement and decision quality is affected by the availability of delegation systems, voting interface complexity, reputation systems, proposal clarity
+
+- ## Tech Affinity
+
+    - *On-chain and Off-chain Voting Platforms:* Ability to delegate vote to experts appeals to busy contributors combating apathy; off-chain voting (Snapshot) reduces gas costs in daily deliberations, on-chain voting for binding/timelocked protocol changes and treasury moves, Quadratic voting, Liquid Democracy, Vote Escrow Tokens
+    - *Sync/Async Communication & Collaboration Tools:* Help reduce friction for newcomers who want to draft proposals and ensures consistent information for voters (budget, rationale, implementation plan), proposal quality drives decision clarity, integration of communication tooling with on-chain voting activities (Commonwealth), tools that enable participants to stay informed in real-time
+    - *Multi-Sig Wallets:* Critical for treasury management and security (Gnosis Safe), helps prevent single point of failure for financial decision making in DAOs
+    - *Identity and Sybil-resistant Protocols:* Reputation-based system where voting power is tied to a contributor's past actions and contributions, not just their token holdings
+    - *Governance Frameworks,  Analytics & Dashboard Tools:* For transparency, ability to view past voting and proposal deliberations, data driven decision making and accountability (Aragon, Tally, Messari Governor, DeepDAO, Boardroom)
+    - *Integration of Reputation, Identity Tracker Systems & Contributor Badges:* An engagement lever, helps reward and surface contributors, enables delegation choices and builds social capital inside DAO
+    - *AI Driven Analytics for Proposals:* Speed up outcome prediction, helps scaled reviews, eases complexity
 
 - ## Pain Points
 
@@ -53,25 +72,21 @@ description: 'All about DAO Contributor Persona and how to target them'
     - Focused on specific DAOs
     - Reputation and influence in DAOs
 
-- ## Primary Platforms
+- ## Communication Channels
 
     - Discord governance channels
     - On-chain governance platforms
     - Delegation for scaling decision making participation through off-chain solutions like  [Snapshot](https://snapshot.org/) 
 
-- ## Tech Affinity
+- ## Popular Platforms
 
-    - *On-chain and Off-chain Voting Platforms:* Ability to delegate vote to experts appeals to busy contributors combating apathy; off-chain voting (Snapshot) reduces gas costs in daily deliberations, on-chain voting for binding/timelocked protocol changes and treasury moves, Quadratic voting, Liquid Democracy, Vote Escrow Tokens
-    - *Sync/Async Communication & Collaboration Tools:* Help reduce friction for newcomers who want to draft proposals and ensures consistent information for voters (budget, rationale, implementation plan), proposal quality drives decision clarity, integration of communication tooling with on-chain voting activities (Commonwealth), tools that enable participants to stay informed in real-time
-    - *Multi-Sig Wallets:* Critical for treasury management and security (Gnosis Safe), helps prevent single point of failure for financial decision making in DAOs
-    - *Identity and Sybil-resistant Protocols:* Reputation-based system where voting power is tied to a contributor's past actions and contributions, not just their token holdings
-    - *Governance Frameworks,  Analytics & Dashboard Tools:* For transparency, ability to view past voting and proposal deliberations, data driven decision making and accountability (Aragon, Tally, Messari Governor, DeepDAO, Boardroom)
-    - *Integration of Reputation, Identity Tracker Systems & Contributor Badges:* An engagement lever, helps reward and surface contributors, enables delegation choices and builds social capital inside DAO
-    - *AI Driven Analytics for Proposals:* Speed up outcome prediction, helps scaled reviews, eases complexity
-
+    - ddd
+   
 </div>
 
 ## How to Target?
+
+{% include "how_to_target.md" %}
 
 <div class="grid cards" markdown>
 
@@ -115,10 +130,48 @@ description: 'All about DAO Contributor Persona and how to target them'
 
 ## Action Plan
 
-* **Research & Refine:** Do your own research. Use this template to guide your design, documentation and product feature decisions. The lack of formal UX research reports in Web3 is a testament that this is an underexplored area where original research could provide significant competitive advantage.
-* **Design Philosophy:** Minimal cognitive load, succinct decision aids, progressive disclosure, show tl;dr, then allow drilling into the details, trust by design, display multi-sig signers, treasury balances, past execution outcomes, and delegate track records upfront, link forum/Discord threads to proposal drafts and vote pages; reduce copy/paste and fragmentation, target speed and efficiency in design, quick proposal review and voting flows, mobile responsive UI, quick integration with Open DAO APIs, systems to acknowledge valuable contributions, fair and transparent conflict resolution workflows, accessible to both technical and non-technical voting participants.
-* **Communication Style:** Trust matters, use active engagement via governance specific channels (Discord, Telegram, governance forums), enable long form proposal discussions and analysis, real-time updates on community sentiment to guide voting and reduce apathy, reach out via specialized newsletters (The Defiant, Bankless), emphasise community impact in messaging and highlight growth avenues, share open communication with trade-offs and limitations to engage transparency mindset, use data driven, concise and outcome driven messaging without raw data information overload, share relevant summaries, metrics and provide links to details and sources, consistent communication about community development with regular community feedback integration details, communicate via well known community guilds and delegates, their endorsement increases vote traction, focus on educational content for builders to enable customization and API integration
-* **Product Features:** Built-in analytics, cross-chain compatibility, reputation based incentives, flexible and delegation-based voting mechanisms, proposal lifecycle management, integrated treasury and communications management, unified interface for managing multiple DAO participation, reputation systems integration, automation for workflow execution, proposal builder, review, template and checklist tools, identity and Sybil, governance attack mitigations, feature that provide participation nudges (reminders, explainers, community intelligence to aid voting).
+{% include "action_plan_warning.md" %}
+
+### Design Philosophy
+
+- Minimal cognitive load, succinct decision aids
+- Progressive disclosure, show tl;dr, then allow drilling into the details
+- Trust by design, display multi-sig signers, treasury balances, past execution outcomes and delegate track records upfront
+- Link forum/Discord threads to proposal drafts and vote pages
+- Reduce copy/paste and fragmentation
+- Target speed and efficiency in design
+- Quick proposal review and voting flows
+- Mobile responsive UI
+- Quick integration with Open DAO APIs
+- Systems to acknowledge valuable contributions
+- Fair and transparent conflict resolution workflows accessible to both technical and non-technical voting participants
+
+### Communication Style
+
+- Trust matters, use active engagement via governance specific channels (Discord, Telegram, governance forums)
+- Enable long form proposal discussions and analysis
+- Real-time updates on community sentiment to guide voting and reduce apathy
+- Reach out via specialized newsletters (The Defiant, Bankless)
+- Emphasize community impact in messaging and highlight growth avenues
+- Share open communication with trade-offs and limitations to engage transparency mindset
+- Use data driven, concise and outcome driven messaging without raw data information overload
+- Share relevant summaries, metrics and provide links to details and sources
+- Consistent communication about community development with regular community feedback integration details
+- Communicate via well known community guilds and delegates, their endorsement increases vote traction
+- Focus on educational content for builders to enable customization and API integration
+
+### Product Features
+
+- Built-in analytics, cross-chain compatibility, reputation based incentives
+- Flexible and delegation-based voting mechanisms
+- Proposal lifecycle management
+- Integrated treasury and communications management
+- Unified interface for managing multiple DAO participation
+- Reputation systems integration
+- Automation for workflow execution
+- Proposal builder, review, template and checklist tools
+- Identity, Sybil, and governance attack mitigations
+- Feature that provide participation nudges *(for example, reminders, explainers, community intelligence to aid voting)*
 
 ## See Also
 

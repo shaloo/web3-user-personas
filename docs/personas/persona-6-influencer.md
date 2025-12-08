@@ -6,10 +6,22 @@ description: 'All about Web3 Influencer Persona and how to target them'
 
 # 6. Crypto Influencer: Content Conan
 
+*Radiating influence and joy, illuminating the crypto space with vibrant content*
+  
 <div class="grid cards" markdown>
 
-- *Radiating influence and joy, illuminating the crypto space with vibrant content*
-  ![Influencer (Tarot: The Sun (XIX))](../img/6_crypto_influencer.webp)
+- ![Influencer (Tarot: The Sun (XIX))](../img/6_crypto_influencer.webp)
+
+- ## Persona Characteristics
+
+    - Large followings on Twitter/X, YouTube, TikTok, Telegram, and Discord
+    - Opinion leaders who shape sentiment and drive community engagement
+    - Interest in new content monetization strategies and innovative content formats
+    - Quick monetization through early, original, and sponsored content, as well as token allocations and brand partnerships
+
+</div>
+
+<div class="grid cards" markdown>
 
 - ## tl;dr
 
@@ -21,12 +33,9 @@ description: 'All about Web3 Influencer Persona and how to target them'
     - Use tools that help balance short-term traction with sustainable credibility to beat hype-based content decay
     - Micro-influencers (smaller but deeply engaged audiences) often have higher engagement and higher credibility
 
-- ## Characteristics
+</div>
 
-    - Large followings on Twitter/X, YouTube, TikTok, Telegram, and Discord
-    - Opinion leaders who shape sentiment and drive community engagement
-    - Interest in new content monetization strategies and innovative content formats
-    - Quick monetization through early, original, and sponsored content, as well as token allocations and brand partnerships
+<div class="grid cards" markdown>
 
 - ## Behavior Patterns
 
@@ -34,6 +43,20 @@ description: 'All about Web3 Influencer Persona and how to target them'
     - Engages with followers across platforms via DMs, comments, AMAs
     - Promotes projects, events and shapes early awareness with attention grabbing OG tactics
     - Shapes market sentiment with high frequency posts, active community involvement
+
+- ## Tech Affinity
+
+    Tech affinity section lists specific technologies, features, and solutions that are of interest to the
+    Crypto Influencer persona.
+
+    - Leveraging the growing use of AI in influencer marketing for influencer identification and campaign optimization
+    - Predictive analytics to forecast campaign performance
+    - Streamlined and automated brand-influencer communication
+    - Audience sentiment analysis
+    - Affinity for decentralized tools that enhance authenticity, monetization, and community control
+    - Blockchain-based reputation systems
+    - Token gating / NFT membership tools for building communities
+    - Transparency / verification tools that show authenticity, prevent fake follower issues
 
 - ## Pain Points
 
@@ -51,7 +74,7 @@ description: 'All about Web3 Influencer Persona and how to target them'
     - Community management
     - Productivity boost for multi-platform and channel engagement
 
-- ## Primary Platforms
+- ## Communication Channels
 
     - Community Engagement: [Galxe](https://www.galxe.com), [Zealy](https://zealy.io), [Guild.xyz](https://guild.xyz/), [Discord](https://dailycoin.com/top-10-crypto-discord-servers-to-join/)/[Telegram](https://coinlaunch.space/influencers/telegram/) with Web3 integrations, [DAOLens](https://app.daolens.com/onboarding)
     - Analytics, On-chain data: [Dune](https://dune.com/home), [Nansen](https://www.nansen.ai), [Cookie3](https://www.cookie3.com), [Glassnode](https://glassnode.com), [Token Terminal](https://tokenterminal.com), [Addressable](https://www.addressable.io)
@@ -62,23 +85,15 @@ description: 'All about Web3 Influencer Persona and how to target them'
     - [TikTok](https://www.tiktok.com/)
     - [Instagram](https://www.modash.io/find-influencers/crypto) to bridge Web2 to Web3 marketing world
 
-- ## Tech Affinity
+- ## Popular Platforms
 
-    Tech affinity section lists specific technologies, features, and solutions that are of interest to the
-    Crypto Influencer persona.
-
-    - Leveraging the growing use of AI in influencer marketing for influencer identification and campaign optimization
-    - Predictive analytics to forecast campaign performance
-    - Streamlined and automated brand-influencer communication
-    - Audience sentiment analysis
-    - Affinity for decentralized tools that enhance authenticity, monetization, and community control
-    - Blockchain-based reputation systems
-    - Token gating / NFT membership tools for building communities
-    - Transparency / verification tools that show authenticity, prevent fake follower issues
+    - ddd
 
 </div>
 
 ## How to Target?
+
+{% include "how_to_target.md" %}
 
 <div class="grid cards" markdown>
 
@@ -123,10 +138,38 @@ description: 'All about Web3 Influencer Persona and how to target them'
 
 ## Action Plan
 
-* **Research & Refine:** Do your own research. Use this template to guide your design, documentation and product feature decisions. The lack of formal UX research reports in Web3 is a testament that this is an underexplored area where original research could provide significant competitive advantage.
-* **Design Philosophy:** Clean, mobile first, on-the-go content creation options, frictionless UX, transparency showing sponsorship status, analytics showing reach / authenticity; detection of fake followers.
-* **Communication Style:** Multi-platform communication to reach influencers, educational content, case studies showing influencers using the product, transparency related to monetization, sponsorship, messaging that emphasizes early access exclusive features, ability to shape community, be first, highlight control, creativity and authenticity.
-* **Product Features:** On-chain reputation badges, content optimizer (AI-enabled) and content scheduler, ability to cross-post, audience authenticity verification, sentiment and trend alerts, community integrations (Discord, Telegram), ROI effectiveness metrics, monetization tools such as NFT gating, affiliate links, privacy and compliance aids (disclosure automation) to reduce regulatory risk, decentralized backup and recovery against censorship.
+{% include "action_plan_warning.md" %}
+
+### Design Philosophy
+
+- Clean, mobile first, on-the-go content creation options
+- Frictionless UX
+- Transparency *(for example, show sponsorship status)*
+- Analytics showing reach / authenticity
+- Detection of fake followers
+
+### Communication Style
+
+- Multi-platform communication to reach influencers
+- Educational content
+- Case studies showing influencers using the product
+- Transparency related to monetization
+- Sponsorship
+- Messaging that emphasizes early access exclusive features
+- Ability to shape community, be first
+- Highlight control, creativity and authenticity
+
+### Product Features
+
+- On-chain reputation badges
+- Content optimizer (AI-enabled) and content scheduler
+- Ability to cross-post
+- Audience authenticity verification
+- Sentiment and trend alerts
+- Community integrations (Discord, Telegram)
+- ROI effectiveness metrics
+- Monetization tools such as NFT gating, affiliate links, privacy and compliance aids (disclosure automation) to reduce regulatory risk
+- Decentralized backup and recovery against censorship
 
 ## See Also
 

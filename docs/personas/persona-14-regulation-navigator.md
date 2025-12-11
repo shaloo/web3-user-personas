@@ -140,7 +140,7 @@ description: 'All about Regulation Navigator persona and how to target them'
 * Auditability in UX with clear regulatory status indicators
 * Ease of audit report generation
 * Structured DX with well-documented APIs and SDKs that allow developers to build compliance-gated features for supporting compliance by design in products
-* Aadequate CX to instill confidence through proactive communication about legal strategy, multi-entity structuring
+* Adequate CX to instill confidence through proactive communication about legal strategy, multi-entity structuring
 * Adherence to specific global frameworks (for example, "MiCA Compliant")
 * Workflow automation
 * For DX provide real-time monitoring and AI-powered analytics helping identify potential breaches before they escalate

@@ -206,7 +206,7 @@ description: 'All about Web3 Dev Persona and how to target them'
 - Enable monitoring and optimization features that cater to global developer communities
 - Built-in ease of collaboration across geographies
 - Integration with AI-enabled coding suggestions involving APIs, reusing code snippets, analyzing algorithms
-- Ability to download integrated API and SDK coce, copy as markdown for enabling LLM integrations
+- Ability to download integrated API and SDK code, copy as markdown for enabling LLM integrations
 
 ## See Also
 

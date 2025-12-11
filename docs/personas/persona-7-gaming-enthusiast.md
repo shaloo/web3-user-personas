@@ -126,7 +126,7 @@ description: 'All about Web3 Influencer Persona and how to target them'
 
 {% include "action_plan_warning.md" %}
 
-### esign Philosophy
+### Design Philosophy
 
 - Fun and immersive graphic experiences
 - Avatar customization

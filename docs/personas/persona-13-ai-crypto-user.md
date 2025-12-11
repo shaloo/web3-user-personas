@@ -18,7 +18,7 @@ description: 'All about AI + Crypto Wiz persona and how to target them'
     - Participates in AI-powered, on-chain trading and analytics for real-time financial insights
     - Engages with AI-generated content and NFTs
     - Contributes compute/data, rents out GPUs, submits curated data sets (as data scientist) to earn token rewards
-    - Often this persona is a developer, researcher, or highly-informed investor who prefers desktop experiences and technical documentation
+    - Often this persona is a developer, researcher, or highly informed investor who prefers desktop experiences and technical documentation
 
 </div>
 
@@ -154,7 +154,7 @@ description: 'All about AI + Crypto Wiz persona and how to target them'
 - Modular building DX blocks (compute, data, tokens) and an SDK so builders wire up agents quickly
 - Provide low friction onboarding and one click deployment.
 
-###Communication Style
+### Communication Style
 
 - Reach via research and active dev channels across GitHub, DevRel content, Discord, specialized forums, and technical webinars
 - Use notebooks, backtest reproducible examples, and compute cost breakdowns to build trust
@@ -165,11 +165,11 @@ description: 'All about AI + Crypto Wiz persona and how to target them'
 - Educational content on automation and Web 4.0
 - Integrate with industry consortiums *(Fetch.ai partnered with Bosch to form a consortium for industrial applications of AI agents, while SingularityNET collaborated with Cardano and trialed AI in healthcare diagnostics with the Mayo Clinic)*
 
-###Product Features
+### Product Features
 
 - Essential features include single click agent deployment and rollback
 - Flexible, secure and customizable AI agent policies
-- Fetures such as kill switches, audit trails and on-chain controls, governance UIs, token payment rails and revenue splits, [verifiable compute, reasoning and performance](https://www.researchgate.net/publication/365377903_Applying_Artificial_Intelligence_in_Cryptocurrency_Markets_A_Survey)
+- Features such as kill switches, audit trails and on-chain controls, governance UIs, token payment rails and revenue splits, [verifiable compute, reasoning and performance](https://www.researchgate.net/publication/365377903_Applying_Artificial_Intelligence_in_Cryptocurrency_Markets_A_Survey)
 - Built-in progressive disclosure that defaults to quick launch but also offers an “expert mode” for parameter tuning
 - Model selection and API keys for composability
 - No-code platform for launching AI agents that act as evolving Web3 AI Chatbot, smart contract auditors, NFT Generators, and trading assistants

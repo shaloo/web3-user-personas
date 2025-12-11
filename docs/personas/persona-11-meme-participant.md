@@ -151,7 +151,7 @@ description: 'All about Meme Culturist Persona and how to target them'
 - Tie in the product or service's value proposition directly to current viral internet and crypto trends
 - Frame the product as a tool or an enabler for the community, built by the community
 - This empowers the target audience against "whales" or "traditional finance," appealing to their rebellious mindset
-- Emphasize urgency and limited opportunities to appeal the FOMO mindset, hghlight big wins for community members, feature key user generated content and stories, use cheeky, impudent tone that is humorous, anti-establishment and casual
+- Emphasize urgency and limited opportunities to appeal the FOMO mindset, highlight big wins for community members, feature key user generated content and stories, use cheeky, impudent tone that is humorous, anti-establishment and casual
 - Engage with frequent, viral community challenges and competitions to cater to frequent small win mentality
 
 ### Product Features

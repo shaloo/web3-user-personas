@@ -31,7 +31,7 @@ description: 'All about Crypto Analyst Persona and how to target them'
     * High frequency trading in milliseconds.
     * Sophisticated 24x7 risk, position monitoring and adjusting across multiple
       cryptocurrencies in volatile market conditions
-    * FOMO psycological behavior
+    * FOMO psychological behavior
     * Latches on to social media sentiment analysis for arbitrage and opportunities
     * Community oriented for status and identifying opportunities but independent in trading decisions
     * As opposed to institutional investors that prefer established CEXs with robust compliance, crypto
